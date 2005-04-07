@@ -1,3 +1,14 @@
 
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+*.json annex.largefiles=nothing
+*.tsv annex.largefiles=nothing
+*.txt annex.largefiles=nothing
+.bidsignore annex.largefiles=nothing
+CHANGES* annex.largefiles=nothing
+README* annex.largefiles=nothing
+code/** annex.largefiles=nothing
+dataset_description.json annex.largefiles=nothing
+*.nii.gz annex.largefiles=anything
+*.tgz annex.largefiles=anything
+*_scans.tsv annex.largefiles=anything
