@@ -12,3 +12,4 @@ dataset_description.json annex.largefiles=nothing
 *.nii.gz annex.largefiles=anything
 *.tgz annex.largefiles=anything
 *_scans.tsv annex.largefiles=anything
+* annex.largefiles=(largerthan=100kb)
