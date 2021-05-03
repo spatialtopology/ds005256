@@ -3,9 +3,12 @@
 set -eu
 sid="$1"
 
+# harmonize since elderly  awk on rolando seems to have no clue about IGNORECASE
+sid=$(echo "$sid" | tr  [:lower:] [:upper:])
+
 mapfile="$(dirname $0)/spacetop_subject_id.csv"
 
-hits=$(awk -e "BEGIN { FS = \",\";  IGNORECASE=1; } { if (\$2~/^$sid\$/) print \$1; }"  "$mapfile" | sed -e 's,sub-,,' | uniq)
+hits=$(awk "BEGIN { FS = \",\";  IGNORECASE=1; } { if (\$2~/^$sid\$/) print \$1; }"  "$mapfile" | sed -e 's,sub-,,' | uniq)
 if [ -z "${hits}" ]; then
 	echo "Got no hits for $sid.  Verify that there is a record for the subject" >&2
 	exit 1
