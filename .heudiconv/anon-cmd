@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -eu
+sid="$1"
+
+mapfile="$(dirname $0)/spacetop_subject_id.csv"
+
+hits=$(awk -e "BEGIN { FS = \",\";  IGNORECASE=1; } { if (\$2~/^$sid\$/) print \$1; }"  "$mapfile" | sed -e 's,sub-,,' | uniq)
+if [ -z "${hits}" ]; then
+	echo "Got no hits for $sid.  Verify that there is a record for the subject" >&2
+	exit 1
+fi
+if [ "${#hits}" != 4 ]; then
+	echo "Got $hits - which is not length 4 as expected" >&2
+	exit 1
+fi
+echo "$hits"
