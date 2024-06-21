@@ -1,0 +1,49 @@
+onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_value	rating_glmslabel	rating_value_fillna	rating_glmslabel_fillna	rating_mouseonset	rating_mousedur	stim_file	pain_onset_ttl1	pain_onset_ttl2	pain_onset_ttl3	pain_onset_ttl4	pain_stimulus_delivery_success	cognitive_correct_response	cognitive_participant_response	cognitive_response_accuracy
+13.41	1.0	pain	cue	1	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/scl/l049.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+15.22	2.3	pain	expectrating	1	low_cue	n/a	56.12	Strong	56.12	Strong	0.38	1.92	task-social/cue/runtype-pain/scl/l049.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+23.99	11.900000000000002	pain	stimulus	1	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	23.99	27.49	32.49	35.89	success	n/a	n/a	n/a
+36.91	1.62	pain	outcomerating	1	low_cue	low_stim	64.38	Very Strong	64.38	Very Strong	0.37	1.26	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+43.0	1.0	pain	cue	2	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/scl/l032.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+46.0	1.75	pain	expectrating	2	low_cue	n/a	58.8	Strong	58.8	Strong	0.28	1.47	task-social/cue/runtype-pain/scl/l032.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+54.73	12.360000000000007	pain	stimulus	2	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	54.73	58.49	63.49	67.1	success	n/a	n/a	n/a
+70.21	1.93	pain	outcomerating	2	low_cue	med_stim	48.15	Strong	48.15	Strong	0.33	1.6	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+78.7	1.0	pain	cue	3	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/sch/h030.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+81.71	1.37	pain	expectrating	3	high_cue	n/a	79.65	Very Strong	79.65	Very Strong	0.28	1.09	task-social/cue/runtype-pain/sch/h030.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+86.54	12.36	pain	stimulus	3	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	86.54	90.3	95.3	98.91	success	n/a	n/a	n/a
+100.0	2.28	pain	outcomerating	3	high_cue	med_stim	66.11	Very Strong	66.11	Very Strong	0.52	1.77	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+113.91	1.0	pain	cue	4	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/scl/l004.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+115.81	3.05	pain	expectrating	4	low_cue	n/a	46.14	Strong	46.14	Strong	0.52	2.53	task-social/cue/runtype-pain/scl/l004.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+123.23	12.820000000000007	pain	stimulus	4	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	123.23	127.24	132.24	136.05	success	n/a	n/a	n/a
+137.1	2.0	pain	outcomerating	4	low_cue	high_stim	68.28	Very Strong	68.28	Very Strong	0.32	1.69	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+151.71	1.0	pain	cue	5	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/sch/h049.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+153.41	1.4	pain	expectrating	5	high_cue	n/a	86.99	Very Strong	86.99	Very Strong	0.37	1.03	task-social/cue/runtype-pain/sch/h049.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+159.93	12.359999999999985	pain	stimulus	5	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	159.93	163.69	168.69	172.3	success	n/a	n/a	n/a
+173.12	1.99	pain	outcomerating	5	high_cue	med_stim	66.62	Very Strong	66.62	Very Strong	0.4	1.59	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+178.8	1.0	pain	cue	6	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/scl/l024.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+181.9	1.89	pain	expectrating	6	low_cue	n/a	58.09	Strong	58.09	Strong	0.28	1.6	task-social/cue/runtype-pain/scl/l024.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+188.15	12.819999999999993	pain	stimulus	6	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	188.15	192.16	197.16	200.97	success	n/a	n/a	n/a
+201.91	1.3	pain	outcomerating	6	low_cue	high_stim	58.6	Strong	58.6	Strong	0.32	0.98	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+207.19	1.0	pain	cue	7	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/scl/l050.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+210.21	1.78	pain	expectrating	7	low_cue	n/a	50.73	Strong	50.73	Strong	0.3	1.48	task-social/cue/runtype-pain/scl/l050.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+219.52	11.909999999999997	pain	stimulus	7	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	219.52	223.02	228.02	231.42	success	n/a	n/a	n/a
+232.7	2.17	pain	outcomerating	7	low_cue	low_stim	59.12	Strong	59.12	Strong	0.4	1.77	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+237.61	1.0	pain	cue	8	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/sch/h047.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+239.31	2.13	pain	expectrating	8	high_cue	n/a	64.47	Very Strong	64.47	Very Strong	0.75	1.38	task-social/cue/runtype-pain/sch/h047.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+248.26	12.819999999999993	pain	stimulus	8	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	248.26	252.27	257.27	261.08	success	n/a	n/a	n/a
+260.4	1.94	pain	outcomerating	8	high_cue	high_stim	80.05	Very Strong	80.05	Very Strong	0.5	1.44	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+268.3	1.0	pain	cue	9	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/sch/h054.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+271.3	1.3	pain	expectrating	9	high_cue	n/a	87.01	Very Strong	87.01	Very Strong	0.3	1.0	task-social/cue/runtype-pain/sch/h054.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+277.52	12.830000000000041	pain	stimulus	9	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	277.52	281.53	286.53	290.34	success	n/a	n/a	n/a
+292.21	2.22	pain	outcomerating	9	high_cue	high_stim	82.13	Very Strong	82.13	Very Strong	0.38	1.83	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+300.1	1.0	pain	cue	10	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/sch/h027.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+302.91	1.25	pain	expectrating	10	high_cue	n/a	103.45	Strongest sensation of any kind	103.45	Strongest sensation of any kind	0.38	0.87	task-social/cue/runtype-pain/sch/h027.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+317.54	11.899999999999977	pain	stimulus	10	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	317.54	321.04	326.04	329.44	success	n/a	n/a	n/a
+328.71	2.25	pain	outcomerating	10	high_cue	low_stim	48.58	Strong	48.58	Strong	0.33	1.92	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+333.61	1.0	pain	cue	11	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/sch/h046.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+336.51	1.22	pain	expectrating	11	high_cue	n/a	86.01	Very Strong	86.01	Very Strong	0.32	0.9	task-social/cue/runtype-pain/sch/h046.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+345.43	11.899999999999977	pain	stimulus	11	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	345.43	348.93	353.93	357.33	success	n/a	n/a	n/a
+359.4	2.45	pain	outcomerating	11	high_cue	low_stim	53.31	Strong	53.31	Strong	0.25	2.2	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a
+367.0	1.0	pain	cue	12	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-pain/scl/l015.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+368.91	2.52	pain	expectrating	12	low_cue	n/a	45.65	Strong	45.65	Strong	0.35	2.17	task-social/cue/runtype-pain/scl/l015.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+380.54	12.359999999999957	pain	stimulus	12	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	n/a	380.54	384.3	389.3	392.91	success	n/a	n/a	n/a
+394.5	1.36	pain	outcomerating	12	low_cue	med_stim	65.29	Very Strong	65.29	Very Strong	0.35	1.01	task-social/outcomerating/task-pain_scale.png	n/a	n/a	n/a	n/a	success	n/a	n/a	n/a

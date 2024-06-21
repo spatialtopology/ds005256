@@ -1,0 +1,17 @@
+[submodule "sourcedata/d_beh"]
+	path = sourcedata/d_beh
+	url = https://github.com/spatialtopology/d_beh.git
+	datalad-url = https://github.com/spatialtopology/d_beh.git
+[submodule "sourcedata/spacetop-prep"]
+	path = code/spacetop-prep
+	url = https://github.com/spatialtopology/spacetop-prep.git
+	datalad-url = https://github.com/spatialtopology/spacetop-prep.git
+[submodule "code/containers"]
+	path = code/containers
+	url = https://datasets.datalad.org/repronim/containers/.git
+	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+	datalad-url = ///repronim/containers
+[submodule "sourcedata/bidsonym"]
+	path = sourcedata/bidsonym
+	url = ./sourcedata/bidsonym
+	datalad-id = 7e711a0b-c65f-45fa-a902-484a9bc73dd0

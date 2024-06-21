@@ -1,0 +1,22 @@
+#!/bin/bash
+
+set -eu
+
+cd "$(dirname $0)"/..
+
+for scans in sub*/ses-*/*_scans.tsv; do
+	d=$(dirname $scans)
+	tail -n +2 "$scans" | while read f _; do
+		 fn="$d/$f"
+		 if test -e "$fn" || test -L "$fn"; then
+		 	# all good
+			:
+		 else
+			 echo "INFO: No file '$f' for '$scans'. Deleting _scans line"
+			 new_content=$(cat "$scans" | grep -v -e "^$f	")
+			 rm "$scans" # might have been annexed
+			 echo "$new_content" > "$scans"
+			 echo done
+		 fi
+	done
+done

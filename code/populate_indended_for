@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -eu
+
+heudiconv  --dbg -f .heudiconv/heuristic.py --command populate-intended-for   -o .
