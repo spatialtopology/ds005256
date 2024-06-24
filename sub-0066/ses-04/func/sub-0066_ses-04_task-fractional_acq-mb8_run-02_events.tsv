@@ -1,1 +1,41 @@
-onset	duration	trial_type	response_time	stim_file	TODO -- fill in rows and add more tab-separated columns if desired
+onset	duration	subtask_type	event_type	value	response_accuracy	stim_file
+12.043329706192	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/2b_story.txt
+100.559672584534	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/4b_story.txt
+159.598356714249	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/1b_story.txt
+218.637039890289	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/3b_story.txt
+248.148045291901	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/10b_story.txt
+336.681060781479	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/9b_story.txt
+395.70307182312	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/6b_story.txt
+425.214076986313	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/7b_story.txt
+513.74709271431	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/8b_story.txt
+572.769102563858	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/5b_story.txt
+41.5376620197296	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/2p_story.txt
+71.0486681365967	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/4p_story.txt
+130.070677747726	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/1p_story.txt
+189.126035442352	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/3p_story.txt
+277.659050216675	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/10p_story.txt
+307.170056095123	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/9p_story.txt
+366.192065706253	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/6p_story.txt
+454.725082864761	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/7p_story.txt
+484.236088266373	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/8p_story.txt
+543.25809835434	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/5p_story.txt
+23.0140874290466	3.27612137794495	tomsaxe	response	falsebelief	correct	tomsaxe/2b_question.txt
+111.547103872299	3.22021794319153	tomsaxe	response	falsebelief	correct	tomsaxe/4b_question.txt
+170.602459659576	4.7940821647644	tomsaxe	response	falsebelief	incorrect	tomsaxe/1b_question.txt
+229.624470462799	3.84816741943359	tomsaxe	response	falsebelief	correct	tomsaxe/3b_question.txt
+259.13547586441	5.31576800346375	tomsaxe	response	falsebelief	correct	tomsaxe/10b_question.txt
+347.668491830826	3.84191203117371	tomsaxe	response	falsebelief	correct	tomsaxe/9b_question.txt
+406.690502157211	4.16145181655884	tomsaxe	response	falsebelief	correct	tomsaxe/6b_question.txt
+436.20150803566		tomsaxe	response	falsebelief	incorrect	tomsaxe/7b_question.txt
+524.734524002075	2.71199893951416	tomsaxe	response	falsebelief	correct	tomsaxe/8b_question.txt
+583.756533613205	3.94047117233276	tomsaxe	response	falsebelief	correct	tomsaxe/5b_question.txt
+52.5250921154022	5.4685046672821	tomsaxe	response	falsephoto	correct	tomsaxe/2p_question.txt
+82.0360979938507	5.1164219379425	tomsaxe	response	falsephoto	incorrect	tomsaxe/4p_question.txt
+141.074781646729	4.8718101978302	tomsaxe	response	falsephoto	correct	tomsaxe/1p_question.txt
+200.113464822769	3.56780910491943	tomsaxe	response	falsephoto	incorrect	tomsaxe/3p_question.txt
+288.646481027603		tomsaxe	response	falsephoto	incorrect	tomsaxe/10p_question.txt
+318.15748714447	3.79206967353821	tomsaxe	response	falsephoto	correct	tomsaxe/9p_question.txt
+377.179499139786	4.08217477798462	tomsaxe	response	falsephoto	correct	tomsaxe/6p_question.txt
+465.712512960434	3.12711381912231	tomsaxe	response	falsephoto	correct	tomsaxe/7p_question.txt
+495.223518362045	3.32814455032349	tomsaxe	response	falsephoto	correct	tomsaxe/8p_question.txt
+554.245528926849	3.30719685554504	tomsaxe	response	falsephoto	correct	tomsaxe/5p_question.txt
