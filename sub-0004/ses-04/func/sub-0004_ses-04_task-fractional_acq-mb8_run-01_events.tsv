@@ -1,1 +1,41 @@
-onset	duration	trial_type	response_time	stim_file	TODO -- fill in rows and add more tab-separated columns if desired
+onset	duration	subtask_type	event_type	value	response_accuracy	stim_file
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/3b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/10b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/1b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/7b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/5b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/4b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/9b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/8b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/6b_story.txt
+0	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/2b_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/3p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/10p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/1p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/7p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/5p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/4p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/9p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/8p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/6p_story.txt
+0	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/2p_story.txt
+0	5.26076650619507	tomsaxe	response	falsebelief	incorrect	tomsaxe/3b_question.txt
+0	4.10579991340637	tomsaxe	response	falsebelief	correct	tomsaxe/10b_question.txt
+0	3.6348991394043	tomsaxe	response	falsebelief	correct	tomsaxe/1b_question.txt
+0	4.86882424354553	tomsaxe	response	falsebelief	incorrect	tomsaxe/7b_question.txt
+0	4.40078926086426	tomsaxe	response	falsebelief	correct	tomsaxe/5b_question.txt
+0	4.34894609451294	tomsaxe	response	falsebelief	correct	tomsaxe/4b_question.txt
+0	3.21002197265625	tomsaxe	response	falsebelief	correct	tomsaxe/9b_question.txt
+0		tomsaxe	response	falsebelief	incorrect	tomsaxe/8b_question.txt
+0	3.22596120834351	tomsaxe	response	falsebelief	correct	tomsaxe/6b_question.txt
+0	4.56424117088318	tomsaxe	response	falsebelief	correct	tomsaxe/2b_question.txt
+0	3.6987452507019	tomsaxe	response	falsephoto	correct	tomsaxe/3p_question.txt
+0	4.9817008972168	tomsaxe	response	falsephoto	correct	tomsaxe/10p_question.txt
+0	5.07174563407898	tomsaxe	response	falsephoto	incorrect	tomsaxe/1p_question.txt
+0	2.20684909820557	tomsaxe	response	falsephoto	correct	tomsaxe/7p_question.txt
+0	3.24587607383728	tomsaxe	response	falsephoto	correct	tomsaxe/5p_question.txt
+0	6.38690185546875	tomsaxe	response	falsephoto	incorrect	tomsaxe/4p_question.txt
+0		tomsaxe	response	falsephoto	incorrect	tomsaxe/9p_question.txt
+0	2.19704031944275	tomsaxe	response	falsephoto	correct	tomsaxe/8p_question.txt
+0	4.80394077301025	tomsaxe	response	falsephoto	correct	tomsaxe/6p_question.txt
+0	4.31589388847351	tomsaxe	response	falsephoto	correct	tomsaxe/2p_question.txt

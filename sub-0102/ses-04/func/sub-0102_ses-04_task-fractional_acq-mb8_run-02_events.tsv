@@ -1,1 +1,241 @@
-onset	duration	trial_type	response_time	stim_file	TODO -- fill in rows and add more tab-separated columns if desired
+onset	duration	subtask_type	event_type	response_accuracy	cue_location	target_location	button_press	trial_index
+6.06016969680786	0.2	posner	invalid_cue	incorrect	right			1
+6.2769181728363		posner	target_response	incorrect	right	left		1
+9.5614755153656	0.2	posner	invalid_cue	correct	right			2
+9.761549949646	0.57358193397522	posner	target_response	correct	right	left	left	2
+15.6304059028625	0.2	posner	invalid_cue	correct	left			3
+15.8304793834686	0.696353673934937	posner	target_response	correct	left	right	right	3
+21.1991491317749	0.2	posner	valid_cue	correct	right			4
+21.3992240428925	1.5184440612793	posner	target_response	correct	right	right	right	4
+24.5003805160522	0.2	posner	invalid_cue	incorrect	right			5
+24.7004544734955	1.41634154319763	posner	target_response	incorrect	right	left	right	5
+28.2684519290924	0.2	posner	invalid_cue	incorrect	right			6
+28.4685273170471	1.2539587020874	posner	target_response	incorrect	right	left	right	6
+35.7379043102264	0.2	posner	invalid_cue	incorrect	left			7
+35.9379789829254	0.794826030731201	posner	target_response	incorrect	left	right	left	7
+39.7060511112213	0.2	posner	invalid_cue	incorrect	right			8
+39.906126499176	1.05690455436707	posner	target_response	incorrect	right	left	right	8
+42.8738989830017	0.2	posner	invalid_cue	incorrect	left			9
+43.0739741325378	0.755202770233154	posner	target_response	incorrect	left	right	left	9
+47.8424181938171	0.2	posner	invalid_cue	incorrect	left			10
+48.0424931049347	0.678180932998657	posner	target_response	incorrect	left	right	left	10
+52.5108263492584	0.2	posner	valid_cue	correct	left			11
+52.7109005451202	0.852591514587402	posner	target_response	correct	left	left	left	11
+63.3815472126007	0.2	posner	invalid_cue	incorrect	right			12
+63.5816216468811	0.903998374938965	posner	target_response	incorrect	right	left	right	12
+70.8509991168976	0.2	posner	valid_cue	correct	right			13
+71.0510740280151	0.770760059356689	posner	target_response	correct	right	right	right	13
+74.4189958572388	0.2	posner	valid_cue	correct	left			14
+74.6190710067749	0.743589878082275	posner	target_response	correct	left	left	left	14
+77.8869564533234	0.2	posner	valid_cue	correct	left			15
+78.0870316028595	0.523608446121216	posner	target_response	correct	left	left	left	15
+85.1563327312469	0.2	posner	valid_cue	correct	left			16
+85.3564078807831	0.592029094696045	posner	target_response	correct	left	left	left	16
+89.4245917797089	0.2	posner	invalid_cue	incorrect	right			17
+89.6246664524078	0.90340256690979	posner	target_response	incorrect	right	left	right	17
+92.5924396514893	0.2	posner	invalid_cue	incorrect	right			18
+92.792515039444	0.679451942443848	posner	target_response	incorrect	right	left	right	18
+98.6613698005676	0.2	posner	invalid_cue	incorrect	left			19
+98.8614449501038	0.549999952316284	posner	target_response	incorrect	left	right	left	19
+101.829218387604	0.2	posner	valid_cue	correct	right			20
+102.02929353714	0.705378532409668	posner	target_response	correct	right	right	right	20
+108.598409414291	0.2	posner	valid_cue	correct	right			21
+108.798482894897	0.710653066635132	posner	target_response	correct	right	right	right	21
+111.866294384003	0.2	posner	valid_cue	correct	left			22
+112.066368818283	0.538747072219849	posner	target_response	correct	left	left	left	22
+115.134180307388	0.2	posner	valid_cue	correct	left			23
+115.33425450325	0.370115518569946	posner	target_response	correct	left	left	left	23
+119.202361345291	0.2	posner	valid_cue	correct	right			24
+119.402437925339	0.57520318031311	posner	target_response	correct	right	right	right	24
+122.67032289505	0.2	posner	valid_cue	correct	right			25
+122.870398283005	0.430807828903198	posner	target_response	correct	right	right	right	25
+126.638469934464	0.2	posner	invalid_cue	incorrect	left			26
+126.838545560837	0.542903423309326	posner	target_response	incorrect	left	right	left	26
+129.806318044662	0.2	posner	invalid_cue	incorrect	left			27
+130.006392478943	0.513292551040649	posner	target_response	incorrect	left	right	left	27
+133.474352359772	0.2	posner	valid_cue	correct	right			28
+133.674427270889	0.720718622207642	posner	target_response	correct	right	right	right	28
+138.642946720123	0.2	posner	invalid_cue	incorrect	right			29
+138.843021631241	0.675356388092041	posner	target_response	incorrect	right	left	right	29
+143.811541318893	0.2	posner	invalid_cue	incorrect	right			30
+144.011615037918	0.779093027114868	posner	target_response	incorrect	right	left	right	30
+152.881590366364	0.2	posner	valid_cue	correct	right			31
+153.081664085388	0.696352958679199	posner	target_response	correct	right	right	right	31
+155.849362611771	0.2	posner	valid_cue	correct	right			32
+156.049437999725	0.509825944900513	posner	target_response	correct	right	right	right	32
+163.31881570816	0.2	posner	invalid_cue	incorrect	left			33
+163.518889904022	0.336222171783447	posner	target_response	incorrect	left	right	left	33
+167.186924934387	0.2	posner	invalid_cue	incorrect	left			34
+167.386999607086	0.519051313400269	posner	target_response	incorrect	left	right	left	34
+170.354773044586	0.2	posner	valid_cue	correct	left			35
+170.554846763611	0.342288255691528	posner	target_response	correct	left	left	left	35
+174.122845172882	0.2	posner	valid_cue	correct	left			36
+174.322919130325	0.352288961410522	posner	target_response	correct	left	left	left	36
+177.190654993057	0.2	posner	valid_cue	correct	right			37
+177.390730142593	0.52166485786438	posner	target_response	correct	right	right	right	37
+180.758651733398	0.2	posner	invalid_cue	incorrect	left			38
+180.958727836609	0.208836078643799	posner	target_response	incorrect	left	right	left	38
+184.026537418365	0.2	posner	valid_cue	correct	right			39
+184.226613283157	0.467653751373291	posner	target_response	correct	right	right	right	39
+187.294422626495	0.2	posner	invalid_cue	incorrect	right			40
+187.49449801445	0.511794090270996	posner	target_response	incorrect	right	left	right	40
+192.162906169891	0.2	posner	valid_cue	correct	right			41
+192.362979650497	0.378406286239624	posner	target_response	correct	right	right	right	41
+195.73090338707	0.2	posner	valid_cue	correct	left			42
+195.930977582932	0.664275407791138	posner	target_response	correct	left	left	left	42
+202.500092744827	0.2	posner	valid_cue	correct	left			43
+202.700167894363	0.441224098205566	posner	target_response	correct	left	left	left	43
+208.669061422348	0.2	posner	valid_cue	correct	left			44
+208.869136095047	0.491994857788086	posner	target_response	correct	left	left	left	44
+211.936945915222	0.2	posner	valid_cue	correct	right			45
+212.13702082634	0.412843227386475	posner	target_response	correct	right	right	right	45
+215.90509223938	0.2	posner	invalid_cue	incorrect	left			46
+216.105166912079	0.455356121063232	posner	target_response	incorrect	left	right	left	46
+219.273015022278	0.2	posner	valid_cue	correct	left			47
+219.473090410233	0.871482610702515	posner	target_response	correct	left	left	left	47
+223.241161823273	0.2	posner	valid_cue	correct	left			48
+223.441236257553	0.875098705291748	posner	target_response	correct	left	left	left	48
+230.710614204407	0.2	posner	valid_cue	correct	left			49
+230.910689115524	0.494558811187744	posner	target_response	correct	left	left	left	49
+235.579096078873	0.2	posner	valid_cue	correct	right			50
+235.779169797897	0.718010187149048	posner	target_response	correct	right	right	right	50
+246.449817419052	0.2	posner	valid_cue	correct	left			51
+246.649890899658	0.516211032867432	posner	target_response	correct	left	left	left	51
+254.219381093979	0.2	posner	invalid_cue	incorrect	right			52
+254.419456481934	0.77963662147522	posner	target_response	incorrect	right	left	right	52
+257.987452507019	0.2	posner	valid_cue	correct	left			53
+258.187527179718	0.555556774139404	posner	target_response	correct	left	left	left	53
+261.055263280869	0.2	posner	invalid_cue	incorrect	left			54
+261.255338668823	0.779723405838013	posner	target_response	incorrect	left	right	left	54
+265.523596048355	0.2	posner	invalid_cue	incorrect	right			55
+265.723670959473	0.503576040267944	posner	target_response	incorrect	right	left	right	55
+269.291667938232	0.2	posner	valid_cue	correct	left			56
+269.491743087769	1.27759695053101	posner	target_response	correct	left	left	left	56
+272.65959072113	0.2	posner	invalid_cue	incorrect	left			57
+272.859665632248	0.5335373878479	posner	target_response	incorrect	left	right	left	57
+276.227588176727	0.2	posner	invalid_cue	incorrect	left			58
+276.427663087845	0.58008885383606	posner	target_response	incorrect	left	right	left	58
+281.796331644058	0.2	posner	invalid_cue	incorrect	left			59
+281.996406078339	0.852085828781128	posner	target_response	incorrect	left	right	left	59
+285.164254426956	0.2	posner	invalid_cue	incorrect	right			60
+285.364328622818	0.657989263534546	posner	target_response	incorrect	right	left	right	60
+288.332102537155	0.2	posner	invalid_cue	incorrect	left			61
+288.532177209854	0.522640705108643	posner	target_response	incorrect	left	right	left	61
+298.902710437775	0.2	posner	valid_cue	correct	left			62
+299.102786540985	0.617121458053589	posner	target_response	correct	left	left	left	62
+303.97126865387	0.2	posner	valid_cue	correct	right			63
+304.171341896057	0.594915151596069	posner	target_response	correct	right	right	right	63
+307.239152908325	0.2	posner	invalid_cue	incorrect	left			64
+307.439228773117		posner	target_response	incorrect	left	right		64
+311.407374382019	0.2	posner	valid_cue	correct	right			65
+311.607449293137	0.540640592575073	posner	target_response	correct	right	right	right	65
+318.876826524734	0.2	posner	valid_cue	correct	right			66
+319.076900959015	0.420295000076294	posner	target_response	correct	right	right	right	66
+323.145084857941	0.2	posner	valid_cue	correct	right			67
+323.345160484314	0.466046571731567	posner	target_response	correct	right	right	right	67
+326.31293296814	0.2	posner	invalid_cue	incorrect	left			68
+326.513006925583	0.658223152160645	posner	target_response	incorrect	left	right	left	68
+329.380744457245	0.2	posner	invalid_cue	incorrect	right			69
+329.580818653107	0.618662357330322	posner	target_response	incorrect	right	left	right	69
+333.548965215683	0.2	posner	invalid_cue	incorrect	left			70
+333.749038696289	0.567053318023682	posner	target_response	incorrect	left	right	left	70
+336.616775512695	0.2	posner	invalid_cue	incorrect	left			71
+336.816850423813	0.399021625518799	posner	target_response	incorrect	left	right	left	71
+340.084735155106	0.2	posner	valid_cue	correct	left			72
+340.284810304642	0.547309637069702	posner	target_response	correct	left	left	left	72
+345.653477668762	0.2	posner	invalid_cue	incorrect	right			73
+345.853553771973	0.587538242340088	posner	target_response	incorrect	right	left	right	73
+351.122185468674	0.2	posner	invalid_cue	incorrect	left			74
+351.322258710861	0.470043182373047	posner	target_response	incorrect	left	right	left	74
+354.490107297897	0.2	posner	valid_cue	correct	right			75
+354.690182209015	0.525171756744385	posner	target_response	correct	right	right	right	75
+358.658328771591	0.2	posner	valid_cue	correct	left			76
+358.85840344429	0.464431524276733	posner	target_response	correct	left	left	left	76
+363.426773309708	0.2	posner	invalid_cue	incorrect	right			77
+363.626847982407	0.387278079986572	posner	target_response	incorrect	right	left	right	77
+368.495329856873	0.2	posner	invalid_cue	incorrect	right			78
+368.695405006409	0.64641809463501	posner	target_response	incorrect	right	left	right	78
+379.366051197052	0.2	posner	invalid_cue	incorrect	right			79
+379.566124677658	0.339096307754517	posner	target_response	incorrect	right	left	right	79
+385.835130214691	0.2	posner	valid_cue	correct	left			80
+386.035204410553	0.411072492599487	posner	target_response	correct	left	left	left	80
+389.303089857101	0.2	posner	invalid_cue	incorrect	right			81
+389.503165006638	0.519128084182739	posner	target_response	incorrect	right	left	right	81
+394.571720600128	0.2	posner	invalid_cue	incorrect	left			82
+394.771795749664	0.410877227783203	posner	target_response	incorrect	left	right	left	82
+404.342030763626	0.2	posner	valid_cue	correct	left			83
+404.542106389999	0.500842571258545	posner	target_response	correct	left	left	left	83
+411.811484098434	0.2	posner	invalid_cue	incorrect	right			84
+412.011558532715	0.413920402526855	posner	target_response	incorrect	right	left	right	84
+416.679966211319	0.2	posner	valid_cue	correct	right			85
+416.880040884018	0.31420111656189	posner	target_response	correct	right	right	right	85
+420.047888994217	0.2	posner	invalid_cue	incorrect	right			86
+420.24796295166	0.509536027908325	posner	target_response	incorrect	right	left	right	86
+430.918609142303	0.2	posner	valid_cue	correct	right			87
+431.118683815002	0.564728260040283	posner	target_response	correct	right	right	right	87
+436.387315273285	0.2	posner	valid_cue	correct	left			88
+436.587390184402	0.362033843994141	posner	target_response	correct	left	left	left	88
+440.255424261093	0.2	posner	valid_cue	correct	right			89
+440.455498456955	0.502935647964478	posner	target_response	correct	right	right	right	89
+446.024241924286	0.2	posner	invalid_cue	incorrect	right			90
+446.224317073822	0.267457962036133	posner	target_response	incorrect	right	left	right	90
+449.292128324509	0.2	posner	invalid_cue	incorrect	right			91
+449.492202281952	0.481661796569824	posner	target_response	incorrect	right	left	right	91
+452.45997595787	0.2	posner	valid_cue	correct	right			92
+452.660050153732	0.468533754348755	posner	target_response	correct	right	right	right	92
+459.6293156147	0.2	posner	valid_cue	correct	left			93
+459.829391479492	0.436970472335815	posner	target_response	correct	left	left	left	93
+462.697127103806	0.2	posner	invalid_cue	incorrect	right			94
+462.89720082283	0.509891271591187	posner	target_response	incorrect	right	left	right	94
+466.965384721756	0.2	posner	invalid_cue	incorrect	left			95
+467.165460109711	0.553393840789795	posner	target_response	incorrect	left	right	left	95
+470.03319644928	0.2	posner	valid_cue	correct	left			96
+470.233271360397	0.522652626037598	posner	target_response	correct	left	left	left	96
+473.801268339157	0.2	posner	valid_cue	correct	right			97
+474.001341342926	0.491155624389648	posner	target_response	correct	right	right	right	97
+476.869078636169	0.2	posner	invalid_cue	incorrect	left			98
+477.06915307045	0.615399837493896	posner	target_response	incorrect	left	right	left	98
+482.037672758102	0.2	posner	invalid_cue	incorrect	right			99
+482.237746715546	0.49979829788208	posner	target_response	incorrect	right	left	right	99
+486.40596818924	0.2	posner	invalid_cue	incorrect	left			100
+486.606043577194	0.730627536773682	posner	target_response	incorrect	left	right	left	100
+493.875421524048	0.2	posner	valid_cue	correct	right			101
+494.075495243073	0.562747716903687	posner	target_response	correct	right	right	right	101
+499.544200897217	0.2	posner	valid_cue	correct	left			102
+499.744276046753	0.488894939422607	posner	target_response	correct	left	left	left	102
+503.312273025513	0.2	posner	invalid_cue	incorrect	left			103
+503.512348413467	0.630622625350952	posner	target_response	incorrect	left	right	left	103
+507.480494022369	0.2	posner	invalid_cue	incorrect	right			104
+507.680568695068	0.766077280044556	posner	target_response	incorrect	right	left	right	104
+512.148902416229	0.2	posner	valid_cue	correct	right			105
+512.348975419998	0.405706644058228	posner	target_response	correct	right	right	right	105
+517.317495822906	0.2	posner	invalid_cue	incorrect	right			106
+517.517570972443	0.65487003326416	posner	target_response	incorrect	right	left	right	106
+520.485343694687	0.2	posner	valid_cue	correct	right			107
+520.685419559479	0.493845462799072	posner	target_response	correct	right	right	right	107
+524.25341629982	0.2	posner	valid_cue	correct	left			108
+524.453490972519	0.707788944244385	posner	target_response	correct	left	left	left	108
+531.722868204117	0.2	posner	valid_cue	correct	right			109
+531.922942876816	0.552251100540161	posner	target_response	correct	right	right	right	109
+539.192320346832	0.2	posner	valid_cue	correct	right			110
+539.392394781113	0.623776197433472	posner	target_response	correct	right	right	right	110
+546.661772251129	0.2	posner	invalid_cue	incorrect	left			111
+546.861847400665	0.519409656524658	posner	target_response	incorrect	left	right	left	111
+557.532492876053	0.2	posner	valid_cue	correct	right			112
+557.732568264008	0.563714742660522	posner	target_response	correct	right	right	right	112
+561.000453472137	0.2	posner	valid_cue	correct	right			113
+561.200528383255	0.554462671279907	posner	target_response	correct	right	right	right	113
+564.168301105499	0.2	posner	valid_cue	correct	left			114
+564.368375062943	0.605046987533569	posner	target_response	correct	left	left	left	114
+567.236111402512	0.2	posner	valid_cue	correct	left			115
+567.436185598373	0.241109371185303	posner	target_response	correct	left	left	left	115
+570.503997087479	0.2	posner	valid_cue	correct	left			116
+570.704072237015	0.333461761474609	posner	target_response	correct	left	left	left	116
+577.673337221146	0.2	posner	valid_cue	correct	left			117
+577.873411655426	0.435155391693115	posner	target_response	correct	left	left	left	117
+584.242454051971	0.2	posner	invalid_cue	incorrect	left			118
+584.442528963089	0.597733974456787	posner	target_response	incorrect	left	right	left	118
+592.112055063248	0.2	posner	invalid_cue	incorrect	right			119
+592.312129259109	0.706446647644043	posner	target_response	incorrect	right	left	right	119
+599.581506967545	0.2	posner	invalid_cue	incorrect	left			120
+599.781581640244	0.48272442817688	posner	target_response	incorrect	left	right	left	120
