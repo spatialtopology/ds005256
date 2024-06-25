@@ -47,7 +47,7 @@
     },
     "response_accuracy": {
         "LongName": "Correct or Incorrect response",
-        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are Old and New, presented on screen, underneath image. Participants are promted to respond with MR-compatible button box",
+        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are Old and New, presented on screen, underneath image. Participants are prompted to respond with MR-compatible button box",
         "Levels": {
             "correct": "Correct response in regards to image (correctly identified as old or new)",
             "incorrect": "Incorrect response in regards to image (incorrectly identified as old or new)"
