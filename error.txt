@@ -1,0 +1,42 @@
+Error processing /Users/h/Documents/projects_local/1076_spacetop/error.txt: Cannot save file into a non-existent directory: '/Users/h/Documents/projects_local/1076_spacetop/sub-0023/ses-03/func'
+Traceback (most recent call last):
+  File "/Users/h/Documents/projects_local/1076_spacetop/./code/spacetop-prep/spacetop_prep/events/bidsify_shortvideos.py", line 147, in <module>
+    newData.to_csv(newFilename, sep='\t', index=False)
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/core/generic.py", line 3964, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/formats/format.py", line 1014, in to_csv
+    csv_formatter.save()
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/formats/csvs.py", line 251, in save
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/common.py", line 749, in get_handle
+    check_parent_directory(str(handle))
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/common.py", line 616, in check_parent_directory
+    raise OSError(rf"Cannot save file into a non-existent directory: '{parent}'")
+OSError: Cannot save file into a non-existent directory: '/Users/h/Documents/projects_local/1076_spacetop/sub-0023/ses-03/func'
+
+Error processing /Users/h/Documents/projects_local/1076_spacetop/error.txt: Cannot save file into a non-existent directory: '/Users/h/Documents/projects_local/1076_spacetop/sub-0039/ses-03/func'
+Traceback (most recent call last):
+  File "/Users/h/Documents/projects_local/1076_spacetop/./code/spacetop-prep/spacetop_prep/events/bidsify_shortvideos.py", line 147, in <module>
+    newData.to_csv(newFilename, sep='\t', index=False)
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/util/_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/core/generic.py", line 3964, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/formats/format.py", line 1014, in to_csv
+    csv_formatter.save()
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/formats/csvs.py", line 251, in save
+    with get_handle(
+         ^^^^^^^^^^^
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/common.py", line 749, in get_handle
+    check_parent_directory(str(handle))
+  File "/Users/h/miniconda3/envs/spacetop/lib/python3.11/site-packages/pandas/io/common.py", line 616, in check_parent_directory
+    raise OSError(rf"Cannot save file into a non-existent directory: '{parent}'")
+OSError: Cannot save file into a non-existent directory: '/Users/h/Documents/projects_local/1076_spacetop/sub-0039/ses-03/func'
+

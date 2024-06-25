@@ -1,1 +1,211 @@
-onset	duration	trial_type	response_time	stim_file	TODO -- fill in rows and add more tab-separated columns if desired
+onset	duration	trial_type	response_angle	response_label	block_condition	mentalizing_level	stim_file
+2.833	3.174	cue	n/a	n/a	likeability	n/a	n/a
+6.007	4.996	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-12_content-photography.mp4
+11.119	2.535	rating	52.19	Strong	likeability	n/a	n/a
+11.552	2.101	rating_mouse_trajectory	52.19	Strong	likeability	n/a	n/a
+16.304	5.32	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-18_content-angrygrandpa.mp4
+21.69	2.768	rating	73.78	Very strong	likeability	n/a	n/a
+22.44	2.018	rating_mouse_trajectory	73.78	Very strong	likeability	n/a	n/a
+26.787	5.396	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-19_content-beatbox.mp4
+32.26	2.657	rating	60.57	Strong	likeability	n/a	n/a
+33.144	1.773	rating_mouse_trajectory	60.57	Strong	likeability	n/a	n/a
+37.295	3.142	cue	n/a	n/a	mentalizing	remember	n/a
+40.437	5.563	video	n/a	n/a	mentalizing	remember	task-shortvideos/ses-03_run-01_order-11_content-menrunning.mp4
+46.065	2.485	rating	16.61	Moderate	mentalizing	remember	n/a
+46.649	1.902	rating_mouse_trajectory	16.61	Moderate	mentalizing	remember	n/a
+51.147	5.506	video	n/a	n/a	mentalizing	remember	task-shortvideos/ses-03_run-01_order-15_content-giving.mp4
+56.719	2.768	rating	130.46	Strongest possible	mentalizing	remember	n/a
+56.869	2.618	rating_mouse_trajectory	130.46	Strongest possible	mentalizing	remember	n/a
+61.834	5.223	video	n/a	n/a	mentalizing	remember	task-shortvideos/ses-03_run-01_order-10_content-captureflag.mp4
+67.123	4.95	rating	31.05	Strong	mentalizing	remember	n/a
+67.84	4.233	rating_mouse_trajectory	31.05	Strong	mentalizing	remember	n/a
+72.158	3.147	cue	n/a	n/a	likeability	n/a	n/a
+75.306	6.84	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-04_content-unefille.mp4
+82.212	4.472	rating	84.62	Very strong	likeability	n/a	n/a
+83.529	3.155	rating_mouse_trajectory	84.62	Very strong	likeability	n/a	n/a
+87.291	5.793	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-16_content-huggingpets.mp4
+93.15	3.835	rating	50.64	Strong	likeability	n/a	n/a
+93.933	3.052	rating_mouse_trajectory	50.64	Strong	likeability	n/a	n/a
+98.246	5.191	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-09_content-knifegame.mp4
+103.503	1.618	rating	26.98	Moderate	likeability	n/a	n/a
+104.137	0.984	rating_mouse_trajectory	26.98	Moderate	likeability	n/a	n/a
+108.539	3.183	cue	n/a	n/a	similarity	n/a	n/a
+111.722	5.112	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-06_content-war.mp4
+116.908	2.785	rating	30.67	Strong	similarity	n/a	n/a
+117.258	2.435	rating_mouse_trajectory	30.67	Strong	similarity	n/a	n/a
+122.058	6.672	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-02_content-HB.mp4
+128.796	2.921	rating	7.9	Weak	similarity	n/a	n/a
+129.646	2.071	rating_mouse_trajectory	7.9	Weak	similarity	n/a	n/a
+133.888	6.846	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-04_content-unefille.mp4
+140.801	3.352	rating	68.54	Very strong	similarity	n/a	n/a
+141.734	2.418	rating_mouse_trajectory	68.54	Very strong	similarity	n/a	n/a
+145.836	3.183	cue	n/a	n/a	likeability	n/a	n/a
+149.019	6.687	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-02_content-HB.mp4
+155.773	2.618	rating	0.26	Barely detectable	likeability	n/a	n/a
+156.606	1.784	rating_mouse_trajectory	0.26	Barely detectable	likeability	n/a	n/a
+160.853	5.297	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-07_content-youth.mp4
+166.21	3.085	rating	71.16	Very strong	likeability	n/a	n/a
+167.093	2.201	rating_mouse_trajectory	71.16	Very strong	likeability	n/a	n/a
+171.285	5.229	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-10_content-captureflag.mp4
+176.581	2.953	rating	50.94	Strong	likeability	n/a	n/a
+177.731	1.803	rating_mouse_trajectory	50.94	Strong	likeability	n/a	n/a
+181.616	3.167	cue	n/a	n/a	similarity	n/a	n/a
+184.783	5.17	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-13_content-wanderers.mp4
+190.019	2.635	rating	67.34	Very strong	similarity	n/a	n/a
+190.552	2.101	rating_mouse_trajectory	67.34	Very strong	similarity	n/a	n/a
+195.133	6.357	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-17_content-freesolo.mp4
+201.557	2.718	rating	48.79	Strong	similarity	n/a	n/a
+202.04	2.235	rating_mouse_trajectory	48.79	Strong	similarity	n/a	n/a
+206.657	5.837	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-03_content-bestfriendsweating.mp4
+212.561	4.406	rating	27.22	Moderate	similarity	n/a	n/a
+213.594	3.373	rating_mouse_trajectory	27.22	Moderate	similarity	n/a	n/a
+217.596	3.121	cue	n/a	n/a	mentalizing	danger	n/a
+220.717	5.299	video	n/a	n/a	mentalizing	danger	task-shortvideos/ses-03_run-01_order-07_content-youth.mp4
+226.082	3.769	rating	30.92	Strong	mentalizing	danger	n/a
+227.299	2.552	rating_mouse_trajectory	30.92	Strong	mentalizing	danger	n/a
+231.189	6.349	video	n/a	n/a	mentalizing	danger	task-shortvideos/ses-03_run-01_order-17_content-freesolo.mp4
+237.603	4.418	rating	65.93	Very strong	mentalizing	danger	n/a
+239.653	2.368	rating_mouse_trajectory	65.93	Very strong	mentalizing	danger	n/a
+242.754	5.112	video	n/a	n/a	mentalizing	danger	task-shortvideos/ses-03_run-01_order-06_content-war.mp4
+247.924	3.093	rating	106.48	Strongest possible	mentalizing	danger	n/a
+248.191	2.827	rating_mouse_trajectory	106.48	Strongest possible	mentalizing	danger	n/a
+252.959	3.151	cue	n/a	n/a	likeability	n/a	n/a
+256.11	5.569	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-11_content-menrunning.mp4
+261.746	3.288	rating	52.72	Strong	likeability	n/a	n/a
+262.112	2.921	rating_mouse_trajectory	52.72	Strong	likeability	n/a	n/a
+266.864	5.036	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-01_content-visswar.mp4
+271.95	3.201	rating	45.37	Strong	likeability	n/a	n/a
+272.983	2.168	rating_mouse_trajectory	45.37	Strong	likeability	n/a	n/a
+277.057	5.013	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-21_content-iceblock.mp4
+282.137	3.668	rating	76.89	Very strong	likeability	n/a	n/a
+283.22	2.585	rating_mouse_trajectory	76.89	Very strong	likeability	n/a	n/a
+287.172	3.141	cue	n/a	n/a	mentalizing	tired	n/a
+290.313	5.004	video	n/a	n/a	mentalizing	tired	task-shortvideos/ses-03_run-01_order-12_content-photography.mp4
+295.375	4.292	rating	30.56	Strong	mentalizing	tired	n/a
+297.258	2.408	rating_mouse_trajectory	30.56	Strong	mentalizing	tired	n/a
+300.468	6.195	video	n/a	n/a	mentalizing	tired	task-shortvideos/ses-03_run-01_order-08_content-dancewithdeath.mp4
+306.729	4.738	rating	30.44	Strong	mentalizing	tired	n/a
+307.763	3.704	rating_mouse_trajectory	30.44	Strong	mentalizing	tired	n/a
+312.091	5.559	video	n/a	n/a	mentalizing	tired	task-shortvideos/ses-03_run-01_order-20_content-cupstacking.mp4
+317.717	2.451	rating	3.91	Weak	mentalizing	tired	n/a
+318.233	1.935	rating_mouse_trajectory	3.91	Weak	mentalizing	tired	n/a
+322.752	3.149	cue	n/a	n/a	similarity	n/a	n/a
+325.9	5.566	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-20_content-cupstacking.mp4
+331.522	3.878	rating	37.55	Strong	similarity	n/a	n/a
+332.172	3.228	rating_mouse_trajectory	37.55	Strong	similarity	n/a	n/a
+336.636	4.081	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-05_content-parkour.mp4
+340.775	2.892	rating	46.75	Strong	similarity	n/a	n/a
+341.825	1.842	rating_mouse_trajectory	46.75	Strong	similarity	n/a	n/a
+345.884	5.333	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-18_content-angrygrandpa.mp4
+351.279	2.938	rating	55.32	Strong	similarity	n/a	n/a
+352.029	2.188	rating_mouse_trajectory	55.32	Strong	similarity	n/a	n/a
+356.314	3.149	cue	n/a	n/a	likeability	n/a	n/a
+359.463	6.355	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-17_content-freesolo.mp4
+365.868	2.802	rating	70.1	Very strong	likeability	n/a	n/a
+366.818	1.852	rating_mouse_trajectory	70.1	Very strong	likeability	n/a	n/a
+370.95	5.506	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-15_content-giving.mp4
+376.505	3.912	rating	73.92	Very strong	likeability	n/a	n/a
+377.089	3.328	rating_mouse_trajectory	73.92	Very strong	likeability	n/a	n/a
+381.62	4.081	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-05_content-parkour.mp4
+385.759	3.208	rating	46.58	Strong	likeability	n/a	n/a
+387.125	1.841	rating_mouse_trajectory	46.58	Strong	likeability	n/a	n/a
+390.777	3.122	cue	n/a	n/a	similarity	n/a	n/a
+393.899	5.301	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-07_content-youth.mp4
+399.264	3.32	rating	73.57	Very strong	similarity	n/a	n/a
+400.18	2.403	rating_mouse_trajectory	73.57	Very strong	similarity	n/a	n/a
+404.344	6.191	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-08_content-dancewithdeath.mp4
+410.601	3.151	rating	54.83	Strong	similarity	n/a	n/a
+411.635	2.118	rating_mouse_trajectory	54.83	Strong	similarity	n/a	n/a
+415.676	5.796	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-16_content-huggingpets.mp4
+421.539	2.802	rating	59.55	Strong	similarity	n/a	n/a
+422.605	1.735	rating_mouse_trajectory	59.55	Strong	similarity	n/a	n/a
+426.574	3.141	cue	n/a	n/a	mentalizing	heights	n/a
+429.715	5.185	video	n/a	n/a	mentalizing	heights	task-shortvideos/ses-03_run-01_order-09_content-knifegame.mp4
+434.96	4.023	rating	0.0	No sensation	mentalizing	heights	n/a
+435.96	3.023	rating_mouse_trajectory	0.0	No sensation	mentalizing	heights	n/a
+440.055	5.845	video	n/a	n/a	mentalizing	heights	task-shortvideos/ses-03_run-01_order-03_content-bestfriendsweating.mp4
+445.964	3.269	rating	2.61	Barely detectable	mentalizing	heights	n/a
+446.748	2.486	rating_mouse_trajectory	2.61	Barely detectable	mentalizing	heights	n/a
+451.08	5.021	video	n/a	n/a	mentalizing	heights	task-shortvideos/ses-03_run-01_order-21_content-iceblock.mp4
+456.168	2.585	rating	20.39	Moderate	mentalizing	heights	n/a
+456.735	2.018	rating_mouse_trajectory	20.39	Moderate	mentalizing	heights	n/a
+461.203	3.136	cue	n/a	n/a	similarity	n/a	n/a
+464.34	5.011	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-12_content-photography.mp4
+469.407	2.46	rating	53.49	Strong	similarity	n/a	n/a
+470.123	1.744	rating_mouse_trajectory	53.49	Strong	similarity	n/a	n/a
+474.509	5.052	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-01_content-visswar.mp4
+479.627	4.373	rating	17.68	Moderate	similarity	n/a	n/a
+480.827	3.173	rating_mouse_trajectory	17.68	Moderate	similarity	n/a	n/a
+484.7	5.217	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-10_content-captureflag.mp4
+489.981	3.236	rating	42.95	Strong	similarity	n/a	n/a
+490.964	2.253	rating_mouse_trajectory	42.95	Strong	similarity	n/a	n/a
+495.016	3.156	cue	n/a	n/a	mentalizing	angry	n/a
+498.172	4.081	video	n/a	n/a	mentalizing	angry	task-shortvideos/ses-03_run-01_order-05_content-parkour.mp4
+502.319	3.785	rating	1.39	Barely detectable	mentalizing	angry	n/a
+502.919	3.185	rating_mouse_trajectory	1.39	Barely detectable	mentalizing	angry	n/a
+507.435	5.172	video	n/a	n/a	mentalizing	angry	task-shortvideos/ses-03_run-01_order-13_content-wanderers.mp4
+512.656	2.844	rating	0.92	Barely detectable	mentalizing	angry	n/a
+513.106	2.394	rating_mouse_trajectory	0.92	Barely detectable	mentalizing	angry	n/a
+517.807	6.687	video	n/a	n/a	mentalizing	angry	task-shortvideos/ses-03_run-01_order-02_content-HB.mp4
+524.56	2.49	rating	87.21	Very strong	mentalizing	angry	n/a
+525.51	1.54	rating_mouse_trajectory	87.21	Very strong	mentalizing	angry	n/a
+529.596	3.128	cue	n/a	n/a	similarity	n/a	n/a
+532.724	5.393	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-19_content-beatbox.mp4
+538.182	3.518	rating	25.91	Moderate	similarity	n/a	n/a
+538.699	3.002	rating_mouse_trajectory	25.91	Moderate	similarity	n/a	n/a
+543.281	5.555	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-11_content-menrunning.mp4
+548.903	2.751	rating	57.02	Strong	similarity	n/a	n/a
+549.553	2.101	rating_mouse_trajectory	57.02	Strong	similarity	n/a	n/a
+554.0	5.19	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-09_content-knifegame.mp4
+559.24	3.46	rating	17.48	Moderate	similarity	n/a	n/a
+560.073	2.627	rating_mouse_trajectory	17.48	Moderate	similarity	n/a	n/a
+564.259	3.162	cue	n/a	n/a	likeability	n/a	n/a
+567.421	5.112	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-06_content-war.mp4
+572.595	1.872	rating	30.22	Strong	likeability	n/a	n/a
+573.212	1.255	rating_mouse_trajectory	30.22	Strong	likeability	n/a	n/a
+577.717	5.566	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-20_content-cupstacking.mp4
+583.349	4.085	rating	39.0	Strong	likeability	n/a	n/a
+584.116	3.318	rating_mouse_trajectory	39.0	Strong	likeability	n/a	n/a
+588.433	6.188	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-08_content-dancewithdeath.mp4
+594.687	4.285	rating	71.08	Very strong	likeability	n/a	n/a
+595.57	3.402	rating_mouse_trajectory	71.08	Very strong	likeability	n/a	n/a
+599.722	3.143	cue	n/a	n/a	mentalizing	calm	n/a
+602.865	5.052	video	n/a	n/a	mentalizing	calm	task-shortvideos/ses-03_run-01_order-01_content-visswar.mp4
+607.975	4.725	rating	16.68	Moderate	mentalizing	calm	n/a
+609.608	3.092	rating_mouse_trajectory	16.68	Moderate	mentalizing	calm	n/a
+613.32	6.842	video	n/a	n/a	mentalizing	calm	task-shortvideos/ses-03_run-01_order-04_content-unefille.mp4
+620.229	3.821	rating	62.81	Strong	mentalizing	calm	n/a
+620.446	3.604	rating_mouse_trajectory	62.81	Strong	mentalizing	calm	n/a
+625.306	5.795	video	n/a	n/a	mentalizing	calm	task-shortvideos/ses-03_run-01_order-16_content-huggingpets.mp4
+631.167	3.385	rating	80.72	Very strong	mentalizing	calm	n/a
+632.384	2.168	rating_mouse_trajectory	80.72	Very strong	mentalizing	calm	n/a
+636.202	3.167	cue	n/a	n/a	likeability	n/a	n/a
+639.37	5.181	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-13_content-wanderers.mp4
+644.605	3.536	rating	66.77	Very strong	likeability	n/a	n/a
+645.155	2.986	rating_mouse_trajectory	66.77	Very strong	likeability	n/a	n/a
+649.714	6.129	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-14_content-alwaysafamily.mp4
+655.909	4.035	rating	70.46	Very strong	likeability	n/a	n/a
+657.526	2.418	rating_mouse_trajectory	70.46	Very strong	likeability	n/a	n/a
+661.004	5.846	video	n/a	n/a	likeability	n/a	task-shortvideos/ses-03_run-01_order-03_content-bestfriendsweating.mp4
+666.914	3.72	rating	50.46	Strong	likeability	n/a	n/a
+668.08	2.553	rating_mouse_trajectory	50.46	Strong	likeability	n/a	n/a
+671.949	3.161	cue	n/a	n/a	mentalizing	enjoy	n/a
+675.109	5.326	video	n/a	n/a	mentalizing	enjoy	task-shortvideos/ses-03_run-01_order-18_content-angrygrandpa.mp4
+690.506	4.518	rating	56.09	Strong	mentalizing	enjoy	n/a
+691.789	3.235	rating_mouse_trajectory	56.09	Strong	mentalizing	enjoy	n/a
+695.668	5.399	video	n/a	n/a	mentalizing	enjoy	task-shortvideos/ses-03_run-01_order-19_content-beatbox.mp4
+701.126	3.902	rating	62.95	Strong	mentalizing	enjoy	n/a
+701.693	3.335	rating_mouse_trajectory	62.95	Strong	mentalizing	enjoy	n/a
+706.224	6.126	video	n/a	n/a	mentalizing	enjoy	task-shortvideos/ses-03_run-01_order-14_content-alwaysafamily.mp4
+712.414	2.003	rating	0.46	Barely detectable	mentalizing	enjoy	n/a
+712.481	1.936	rating_mouse_trajectory	0.46	Barely detectable	mentalizing	enjoy	n/a
+717.449	3.116	cue	n/a	n/a	similarity	n/a	n/a
+720.565	5.504	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-15_content-giving.mp4
+726.136	2.451	rating	70.33	Very strong	similarity	n/a	n/a
+726.769	1.818	rating_mouse_trajectory	70.33	Very strong	similarity	n/a	n/a
+731.254	5.019	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-21_content-iceblock.mp4
+736.339	3.451	rating	73.44	Very strong	similarity	n/a	n/a
+737.573	2.218	rating_mouse_trajectory	73.44	Very strong	similarity	n/a	n/a
+741.437	6.124	video	n/a	n/a	similarity	n/a	task-shortvideos/ses-03_run-01_order-14_content-alwaysafamily.mp4
+747.61	4.357	rating	42.67	Strong	similarity	n/a	n/a
+748.31	3.657	rating_mouse_trajectory	42.67	Strong	similarity	n/a	n/a
