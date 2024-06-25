@@ -1,1 +1,91 @@
-onset	duration	trial_type	response_time	stim_file	TODO -- fill in rows and add more tab-separated columns if desired
+onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_file
+7.827	15.343	narrative_presentation	n/a	n/a	Deliverance	prison	Text	task-narratives/Narrative8Situation1.txt
+23.17	3.4	rating_feeling	891	490	Deliverance	prison	Text	task-narratives/Narrative8Situation1.txt
+24.637	1.933	feeling_mouse_trajectory	891	490	Deliverance	prison	Text	task-narratives/Narrative8Situation1.txt
+27.221	0.123	rating_expectation	960	707	Deliverance	prison	Text	task-narratives/Narrative8Situation1.txt
+27.371	-0.027	expectation_mouse_trajectory	960	707	Deliverance	prison	Text	task-narratives/Narrative8Situation1.txt
+34.54	8.775	narrative_presentation	n/a	n/a	Abduction	town	Text	task-narratives/Narrative8Situation2.txt
+43.314	1.651	rating_feeling	891	490	Abduction	town	Text	task-narratives/Narrative8Situation2.txt
+43.764	1.201	feeling_mouse_trajectory	891	490	Abduction	town	Text	task-narratives/Narrative8Situation2.txt
+47.355	2.401	rating_expectation	960	707	Abduction	town	Text	task-narratives/Narrative8Situation2.txt
+47.821	1.935	expectation_mouse_trajectory	960	707	Abduction	town	Text	task-narratives/Narrative8Situation2.txt
+55.444	22.166	narrative_presentation	n/a	n/a	Pursuit	prison	Text	task-narratives/Narrative8Situation3.txt
+77.609	2.871	rating_feeling	891	490	Pursuit	prison	Text	task-narratives/Narrative8Situation3.txt
+78.042	2.437	feeling_mouse_trajectory	891	490	Pursuit	prison	Text	task-narratives/Narrative8Situation3.txt
+81.654	2.42	rating_expectation	960	707	Pursuit	prison	Text	task-narratives/Narrative8Situation3.txt
+82.054	2.02	expectation_mouse_trajectory	960	707	Pursuit	prison	Text	task-narratives/Narrative8Situation3.txt
+88.756	12.622	narrative_presentation	n/a	n/a	Obtaining	city	Text	task-narratives/Narrative8Situation4.txt
+101.378	2.052	rating_feeling	891	490	Obtaining	city	Text	task-narratives/Narrative8Situation4.txt
+102.045	1.385	feeling_mouse_trajectory	891	490	Obtaining	city	Text	task-narratives/Narrative8Situation4.txt
+105.41	1.651	rating_expectation	960	707	Obtaining	city	Text	task-narratives/Narrative8Situation4.txt
+105.693	1.368	expectation_mouse_trajectory	960	707	Obtaining	city	Text	task-narratives/Narrative8Situation4.txt
+111.526	6.631	narrative_presentation	n/a	n/a	Recovery of a lost one	park	Text	task-narratives/Narrative8Situation5.txt
+118.157	2.256	rating_feeling	891	490	Recovery of a lost one	park	Text	task-narratives/Narrative8Situation5.txt
+118.707	1.706	feeling_mouse_trajectory	891	490	Recovery of a lost one	park	Text	task-narratives/Narrative8Situation5.txt
+122.205	2.421	rating_expectation	960	707	Recovery of a lost one	park	Text	task-narratives/Narrative8Situation5.txt
+122.538	2.088	expectation_mouse_trajectory	960	707	Recovery of a lost one	park	Text	task-narratives/Narrative8Situation5.txt
+128.339	6.013	narrative_presentation	n/a	n/a	Rivalry of kin	city	Text	task-narratives/Narrative8Situation6.txt
+134.352	2.651	rating_feeling	891	490	Rivalry of kin	city	Text	task-narratives/Narrative8Situation6.txt
+134.835	2.168	feeling_mouse_trajectory	891	490	Rivalry of kin	city	Text	task-narratives/Narrative8Situation6.txt
+138.389	2.835	rating_expectation	960	707	Rivalry of kin	city	Text	task-narratives/Narrative8Situation6.txt
+138.706	2.518	expectation_mouse_trajectory	960	707	Rivalry of kin	city	Text	task-narratives/Narrative8Situation6.txt
+145.46	10.787	narrative_presentation	n/a	n/a	Involuntary crimes of love	hospital	Text	task-narratives/Narrative8Situation7.txt
+156.247	3.058	rating_feeling	891	490	Involuntary crimes of love	hospital	Text	task-narratives/Narrative8Situation7.txt
+156.63	2.675	feeling_mouse_trajectory	891	490	Involuntary crimes of love	hospital	Text	task-narratives/Narrative8Situation7.txt
+160.28	1.973	rating_expectation	960	707	Involuntary crimes of love	hospital	Text	task-narratives/Narrative8Situation7.txt
+160.663	1.59	expectation_mouse_trajectory	960	707	Involuntary crimes of love	hospital	Text	task-narratives/Narrative8Situation7.txt
+167.351	11.278	narrative_presentation	n/a	n/a	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative8Situation8.txt
+178.629	2.885	rating_feeling	891	490	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative8Situation8.txt
+178.996	2.518	feeling_mouse_trajectory	891	490	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative8Situation8.txt
+182.655	1.918	rating_expectation	960	707	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative8Situation8.txt
+182.938	1.635	expectation_mouse_trajectory	960	707	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative8Situation8.txt
+189.71	10.119	narrative_presentation	n/a	n/a	Ambition	hospital	Text	task-narratives/Narrative8Situation9.txt
+199.829	3.859	rating_feeling	891	490	Ambition	hospital	Text	task-narratives/Narrative8Situation9.txt
+200.146	3.542	feeling_mouse_trajectory	891	490	Ambition	hospital	Text	task-narratives/Narrative8Situation9.txt
+203.863	2.99	rating_expectation	960	707	Ambition	hospital	Text	task-narratives/Narrative8Situation9.txt
+204.363	2.49	expectation_mouse_trajectory	960	707	Ambition	hospital	Text	task-narratives/Narrative8Situation9.txt
+209.934	54.277	narrative_presentation	n/a	n/a	Deliverance	prison	Text	task-narratives/Narrative7Situation1.txt
+264.211	2.618	rating_feeling	891	490	Deliverance	prison	Text	task-narratives/Narrative7Situation1.txt
+264.928	1.901	feeling_mouse_trajectory	891	490	Deliverance	prison	Text	task-narratives/Narrative7Situation1.txt
+268.237	2.151	rating_expectation	960	707	Deliverance	prison	Text	task-narratives/Narrative7Situation1.txt
+268.604	1.785	expectation_mouse_trajectory	960	707	Deliverance	prison	Text	task-narratives/Narrative7Situation1.txt
+275.292	5.955	narrative_presentation	n/a	n/a	Abduction	town	Text	task-narratives/Narrative7Situation2.txt
+281.247	2.985	rating_feeling	891	490	Abduction	town	Text	task-narratives/Narrative7Situation2.txt
+282.081	2.152	feeling_mouse_trajectory	891	490	Abduction	town	Text	task-narratives/Narrative7Situation2.txt
+285.276	1.801	rating_expectation	960	707	Abduction	town	Text	task-narratives/Narrative7Situation2.txt
+285.676	1.401	expectation_mouse_trajectory	960	707	Abduction	town	Text	task-narratives/Narrative7Situation2.txt
+297.334	7.445	narrative_presentation	n/a	n/a	Pursuit	prison	Text	task-narratives/Narrative7Situation3.txt
+304.778	2.953	rating_feeling	891	490	Pursuit	prison	Text	task-narratives/Narrative7Situation3.txt
+305.395	2.336	feeling_mouse_trajectory	891	490	Pursuit	prison	Text	task-narratives/Narrative7Situation3.txt
+308.819	2.285	rating_expectation	960	707	Pursuit	prison	Text	task-narratives/Narrative7Situation3.txt
+309.336	1.768	expectation_mouse_trajectory	960	707	Pursuit	prison	Text	task-narratives/Narrative7Situation3.txt
+315.874	11.508	narrative_presentation	n/a	n/a	Obtaining	city	Text	task-narratives/Narrative7Situation4.txt
+327.382	2.535	rating_feeling	891	490	Obtaining	city	Text	task-narratives/Narrative7Situation4.txt
+327.932	1.985	feeling_mouse_trajectory	891	490	Obtaining	city	Text	task-narratives/Narrative7Situation4.txt
+331.41	2.401	rating_expectation	960	707	Obtaining	city	Text	task-narratives/Narrative7Situation4.txt
+331.51	2.301	expectation_mouse_trajectory	960	707	Obtaining	city	Text	task-narratives/Narrative7Situation4.txt
+340.483	7.981	narrative_presentation	n/a	n/a	Recovery of a lost one	park	Text	task-narratives/Narrative7Situation5.txt
+348.464	1.653	rating_feeling	891	490	Recovery of a lost one	park	Text	task-narratives/Narrative7Situation5.txt
+348.731	1.386	feeling_mouse_trajectory	891	490	Recovery of a lost one	park	Text	task-narratives/Narrative7Situation5.txt
+352.502	2.485	rating_expectation	960	707	Recovery of a lost one	park	Text	task-narratives/Narrative7Situation5.txt
+352.619	2.368	expectation_mouse_trajectory	960	707	Recovery of a lost one	park	Text	task-narratives/Narrative7Situation5.txt
+359.556	8.782	narrative_presentation	n/a	n/a	Rivalry of kin	city	Text	task-narratives/Narrative7Situation6.txt
+368.338	2.368	rating_feeling	891	490	Rivalry of kin	city	Text	task-narratives/Narrative7Situation6.txt
+368.905	1.801	feeling_mouse_trajectory	891	490	Rivalry of kin	city	Text	task-narratives/Narrative7Situation6.txt
+372.376	1.968	rating_expectation	960	707	Rivalry of kin	city	Text	task-narratives/Narrative7Situation6.txt
+372.759	1.585	expectation_mouse_trajectory	960	707	Rivalry of kin	city	Text	task-narratives/Narrative7Situation6.txt
+381.431	16.656	narrative_presentation	n/a	n/a	Involuntary crimes of love	hospital	Text	task-narratives/Narrative7Situation7.txt
+398.087	2.668	rating_feeling	891	490	Involuntary crimes of love	hospital	Text	task-narratives/Narrative7Situation7.txt
+398.537	2.218	feeling_mouse_trajectory	891	490	Involuntary crimes of love	hospital	Text	task-narratives/Narrative7Situation7.txt
+402.12	1.884	rating_expectation	960	707	Involuntary crimes of love	hospital	Text	task-narratives/Narrative7Situation7.txt
+402.57	1.434	expectation_mouse_trajectory	960	707	Involuntary crimes of love	hospital	Text	task-narratives/Narrative7Situation7.txt
+408.175	8.789	narrative_presentation	n/a	n/a	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative7Situation8.txt
+416.964	1.701	rating_feeling	891	490	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative7Situation8.txt
+417.38	1.284	feeling_mouse_trajectory	891	490	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative7Situation8.txt
+420.994	1.327	rating_expectation	960	707	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative7Situation8.txt
+421.327	0.993	expectation_mouse_trajectory	960	707	Rivalry of superior versus inferior	beach	Text	task-narratives/Narrative7Situation8.txt
+427.049	7.982	narrative_presentation	n/a	n/a	Ambition	hospital	Text	task-narratives/Narrative7Situation9.txt
+435.031	1.937	rating_feeling	891	490	Ambition	hospital	Text	task-narratives/Narrative7Situation9.txt
+435.698	1.271	feeling_mouse_trajectory	891	490	Ambition	hospital	Text	task-narratives/Narrative7Situation9.txt
+439.069	1.786	rating_expectation	960	707	Ambition	hospital	Text	task-narratives/Narrative7Situation9.txt
+439.453	1.403	expectation_mouse_trajectory	960	707	Ambition	hospital	Text	task-narratives/Narrative7Situation9.txt

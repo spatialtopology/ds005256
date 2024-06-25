@@ -31,7 +31,7 @@
     },
     "participant_response": {
         "LongName": "Participant response",
-        "Description": "Participant responds Yes or No, based on experimetal question and image presented",
+        "Description": "Participant responds Yes or No, based on experimental question and image presented",
         "Levels": {
             "yes": "Participant presses yes button to indicate the image matches the question",
             "no": "Participant presses no button to indicate the image does NOT match the question"
@@ -55,7 +55,7 @@
     },
     "response_accuracy": {
         "LongName": "Correct or Incorrect response",
-        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are Yes or No, presented on screen, underneath image. Participants are promted to respond with MR-compatible button box",
+        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are Yes or No, presented on screen, underneath image. Participants are prompted to respond with MR-compatible button box",
         "Levels": {
             "correct": "Correct response in regards to question",
             "incorrect": "Incorrect response in regards to question"
