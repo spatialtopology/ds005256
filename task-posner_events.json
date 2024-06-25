@@ -6,8 +6,8 @@
         "HED": "Property/Data-property/Data-marker/Temporal-marker/Onset"
     },
     "duration": {
-        "LongName": "The period of time during which an event occurs.",
-        "Description": "duration refers to the Image duration, which is contingent on response time after stimulus presentation",
+        "LongName": "The period of time during which an event occurs. Refers to Image duration or response time after stimulus depending on event_type",
+        "Description": "a. For falsebelief and falsephoto trial types, duration refers to the image presentations of falsebelief and falsephoto stories. b. For rating_falsebelief and rating_falsephoto, duration refers to the response time to answer true false questions, followed by falsebelief or flasephoto stimulu",
         "Units": "s",
         "HED": "Property/Data-property/Data-value/Spatiotemporal-value/Temporal-value/Duration"
     },
@@ -15,50 +15,42 @@
         "LongName": "Event category",
         "Description": "Categorical variable of event types within run",
         "Levels": {
-            "howhand": "Question related to explicit physical attributes of hand related actions, e.g. Is this person reaching?",
-            "whyhand": "Questions related to inferring the implicit mental states focusing on hand related actions, e.g. Is the person helping someone?",
-            "whyface": "Questions related to inferring the implicit mental states, focusing on face related observations, e.g. Is the person proud of themselves",
-            "howface": "Question related to explicit physical attributes of face observations",
-            "block_question_presentation": "Prior to eight blocks of trials, the question of interest is presented on screen. For example, 'Is the person admiring someone?' or 'Is the person lifting something?'"
+            "dummy": "Study phase items, but intended to be excluded from analysis due to primacy or recency effects. These items are presented in the first three or last three orders",
+            "study": "Study phase items: Participants are shown items (e.g., images) to memorize for subsequent testing. This phase aims to encode the items into participants' memory.",
+            "test": "Test phase items: Participants are asked to identify previously studied items ('old') and distinguish them from new, unstudied items ('new'), assessing recall and recognition abilities.",
+            "distraction_math": "Simple math problems are presented to participants, serving to temporarily divert attention from the study-test sequence. This task is designed to mitigate rehearsal and reduce potential carry-over effects between the study and test phases."
         },
         "HED": {
-            "howhand": "Action/Think/Judge",
-            "whyhand": "Action/Think/Judge",
-            "whyface": "Action/Think/Judge",
-            "howface": "Action/Think/Judge",
-            "block_question_presentation": "Action/Perform/Read"
+            "dummy": "Action/Think/Encode",
+            "study": "Action/Think/Encode",
+            "test": "Action/Think/Recall",
+            "distraction_math": "Action/Think/Count"
         }
     },
-    "participant_response": {
-        "LongName": "Participant response",
-        "Description": "Participant responds Yes or No, based on experimental question and image presented",
+    "value": {
+        "LongName": "The levels of study items and test items",
+        "Description": "",
         "Levels": {
-            "yes": "Participant presses yes button to indicate the image matches the question",
-            "no": "Participant presses no button to indicate the image does NOT match the question"
+            "study_dummy": "Presentation of items to study - the first and the last three items are discarded due to primary/recency effects, indicated as dummy.",
+            "study": "Presentation of items to study",
+            "test_old": "Test phase items: items that were presented during study phase",
+            "test_new": "Test phase items: items that were not presented during study phase; new items presented to participant during test phase",
+            "math": "Simple math problems presented during math phase"
         },
         "HED": {
-            "yes": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/True",
-            "no": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/False"
-        }
-    },
-    "normative_response": {
-        "LongName": "Normative response",
-        "Description": "Group responses based on identical trial",
-        "Levels": {
-            "yes": "Group responded yes, to indicate the image matches the question",
-            "no": "Group responded no indicate the image does NOT match the question"
-        },
-        "HED": {
-            "yes": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/True",
-            "no": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/False"
+            "study_dummy": "Action/Perform/Read",
+            "study": "Action/Think/Encode",
+            "test_old": "Action/Think/Recall",
+            "test_new": "Action/Think/Recall",
+            "math": "Action/Think/Count"
         }
     },
     "response_accuracy": {
         "LongName": "Correct or Incorrect response",
-        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are Yes or No, presented on screen, underneath image. Participants are prompted to respond with MR-compatible button box",
+        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are Old and New, presented on screen, underneath image. Participants are prompted to respond with MR-compatible button box",
         "Levels": {
-            "correct": "Correct response in regards to question",
-            "incorrect": "Incorrect response in regards to question"
+            "correct": "Correct response in regards to image (correctly identified as old or new)",
+            "incorrect": "Incorrect response in regards to image (incorrectly identified as old or new)"
         },
         "HED": {
             "correct": "Property/Task-property/Task-action-type/Correct-action",
@@ -69,5 +61,22 @@
         "LongName": "Stimulus filename which is presented on screen",
         "Description": "Given text file encompasses test that is displayed on screen. Filename is designated as {digit}{belief_or_photo}_{story_or_question}.txt. Digit indicates the number of stimulus that was presented. b or p indicates whether stimulus was false belief or false photo event. Story or question indicates which event was presented on screen.",
         "HED": "(Textblock, Pathname/#)"
+    },
+    "button_press": {
+        "LongName": "Key press",
+        "Description": "Given text file encompasses test that is displayed on screen. Filename is designated as {digit}{belief_or_photo}_{story_or_question}.txt. Digit indicates the number of stimulus that was presented. b or p indicates whether stimulus was false belief or false photo event. Story or question indicates which event was presented on screen.",
+        "Levels": {
+            "old": "Participant presses old button to indicate they saw the item during the study phase. Old option is presented on the left side of the screen",
+            "new": "Participant presses new button to indicate they did not see the item during the study phase. New option is presented on the right side of the screen"
+        },
+        "HED": {
+            "old": "Action/Move/Move-body-part/Move-upper-extremity/Press",
+            "new": "Action/Move/Move-body-part/Move-upper-extremity/Press"
+        }
+    },
+    "reaction_time": {
+        "LongName": "Reaction time of responding to test item",
+        "Description": "Reaction time is measure as the time of button press minus the time of test item presentation",
+        "HED": ""
     }
 }
