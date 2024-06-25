@@ -7,3 +7,6 @@
 	url = https://datasets.datalad.org/repronim/containers/.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
 	datalad-url = ///repronim/containers
+[submodule "sourcedata/d_beh"]
+	path = sourcedata/d_beh
+	url = https://github.com/spatialtopology/d_beh.git
