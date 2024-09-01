@@ -7,67 +7,75 @@
     },
     "duration": {
         "LongName": "The period of time during which an event occurs.",
-        "Description": "duration refers to the Image duration, which is contingent on response time after stimulus presentation",
+        "Description": "Refers to duration of cue presentation or response time towards target item. (a) For valid_cue and invalid_cue, duration refers to the image presentation of cue. (b) For target_response, duration refers to response time to respond to target item. It is calculated as the interval between onset of button press and onset of target presentation ",
         "Units": "s",
         "HED": "Property/Data-property/Data-value/Spatiotemporal-value/Temporal-value/Duration"
     },
     "event_type": {
         "LongName": "Event category",
-        "Description": "Categorical variable of event types within run",
+        "Description": "Categorical variable of event types within run.",
         "Levels": {
-            "howhand": "Question related to explicit physical attributes of hand related actions, e.g. Is this person reaching?",
-            "whyhand": "Questions related to inferring the implicit mental states focusing on hand related actions, e.g. Is the person helping someone?",
-            "whyface": "Questions related to inferring the implicit mental states, focusing on face related observations, e.g. Is the person proud of themselves",
-            "howface": "Question related to explicit physical attributes of face observations",
-            "block_question_presentation": "Prior to eight blocks of trials, the question of interest is presented on screen. For example, 'Is the person admiring someone?' or 'Is the person lifting something?'"
+            "valid_cue": "A cue that accurately predicts the location of the upcoming target stimulus.",
+            "invalid_cue": "A cue that inaccurately predicts the location of the upcoming target stimulus.",
+            "target_response": "The stimulus that participants are instructed to respond to, following the presentation of a cue. Participants are prompted to respond left or right as to where the target location is."
         },
         "HED": {
-            "howhand": "Action/Think/Judge",
-            "whyhand": "Action/Think/Judge",
-            "whyface": "Action/Think/Judge",
-            "howface": "Action/Think/Judge",
-            "block_question_presentation": "Action/Perform/Read"
-        }
-    },
-    "participant_response": {
-        "LongName": "Participant response",
-        "Description": "Participant responds Yes or No, based on experimental question and image presented",
-        "Levels": {
-            "yes": "Participant presses yes button to indicate the image matches the question",
-            "no": "Participant presses no button to indicate the image does NOT match the question"
-        },
-        "HED": {
-            "yes": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/True",
-            "no": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/False"
-        }
-    },
-    "normative_response": {
-        "LongName": "Normative response",
-        "Description": "Group responses based on identical trial",
-        "Levels": {
-            "yes": "Group responded yes, to indicate the image matches the question",
-            "no": "Group responded no indicate the image does NOT match the question"
-        },
-        "HED": {
-            "yes": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/True",
-            "no": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/False"
+            "valid_cue": "Property/Task-property/Task-stimulus-role/Cue, Property/Data-property/Data-value/Categorical-value/Categorical-class-value/valid",
+            "invalid_cue": "Property/Task-property/Task-stimulus-role/Cue, Property/Data-property/Data-value/Categorical-value/Categorical-class-value/invalid",
+            "target_response": "Property/Task-property/Task-stimulus-role/Target, Property/Task-property/Task-event-role/Participant-response"
         }
     },
     "response_accuracy": {
         "LongName": "Correct or Incorrect response",
-        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are Yes or No, presented on screen, underneath image. Participants are prompted to respond with MR-compatible button box",
+        "Description": "Correct or Incorrect response in regards to question presented on screen; Options are True or False, presented on screen, underneath question. Participants are prompted to respond with MR-compatible button box.",
         "Levels": {
-            "correct": "Correct response in regards to question",
-            "incorrect": "Incorrect response in regards to question"
+            "correct": "Correct response in regards to question.",
+            "incorrect": "Incorrect response in regards to question."
         },
         "HED": {
             "correct": "Property/Task-property/Task-action-type/Correct-action",
             "incorrect": "Property/Task-property/Task-action-type/Incorrect-action"
         }
     },
-    "stim_file": {
-        "LongName": "Stimulus filename which is presented on screen",
-        "Description": "Given text file encompasses test that is displayed on screen. Filename is designated as {digit}{belief_or_photo}_{story_or_question}.txt. Digit indicates the number of stimulus that was presented. b or p indicates whether stimulus was false belief or false photo event. Story or question indicates which event was presented on screen.",
-        "HED": "(Textblock, Pathname/#)"
+    "cue_location": {
+        "LongName": "Location of Cue",
+        "Description": "The cue was presented as a clearly defined green box. Prior to the cue presentation, two boxes were presented on screen with a gray outline. The green colored cue selectively highlights either the right or left box on the display screen.",
+        "Levels": {
+            "right": "The cue, highlighted in green, is presented on the right side of the screen.",
+            "left": "The cue, highlighted in green, is presented on the left side of the screen."
+        },
+        "HED": {
+            "right": "Relation/Spatial-relation/Right-side-of",
+            "left": "Relation/Spatial-relation/Left-side-of"
+        }
+    },
+    "target_location": {
+        "LongName": "Location of Target",
+        "Description": "The target was presented as a clearly defined green circle, either appearing inside the right or left box, already present on screen.",
+        "Levels": {
+            "right": "The target, a green circle, is presented inside the right box of the screen.",
+            "left": "The target, a green circle, is presented inside the left box of the screen."
+        },
+        "HED": {
+            "right": "Relation/Spatial-relation/Right-side-of",
+            "left": "Relation/Spatial-relation/Left-side-of"
+        }
+    },
+    "button_press": {
+        "LongName": "Button Press",
+        "Description": "Participant response in relation to target location.",
+        "Levels": {
+            "right": "Participant pressed right, indicating that target was presented on the right side of the screen.",
+            "left": "Participant pressed left, indicating thattarget was presented on the left side of the screen."
+        },
+        "HED": {
+            "right": "Action/Move/Move-body-part/Move-upper-extremity/Press, Relation/Spatial-relation/Right-side-of",
+            "left": "Action/Move/Move-body-part/Move-upper-extremity/Press, Relation/Spatial-relation/Left-side-of"
+        }
+    },
+    "trial_index": {
+        "LongName": "Trial Index",
+        "Description": "Index of trial, which encompasses cue and target events",
+        "HED": "Property/Data-property/Data-value/Quantitative-value/Item-index"
     }
 }
