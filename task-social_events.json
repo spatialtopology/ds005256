@@ -54,14 +54,11 @@
             "low_cue": "Data points on the cue indicate that past participants perceived the upcoming stimulus as having low intensity"
         },
         "HED": {
-            "high_cue": [
-                "Property/Task-property/Task-stimulus-role/Cue",
-                "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/High"
-            ],
-            "low_cue": [
-                "Property/Task-property/Task-stimulus-role/Cue",
-                "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Low"
-            ]
+            "high_cue": "Property/Task-property/Task-stimulus-role/Cue; Property/Data-property/Data-value/Categorical-value/Categorical-level-value/High"
+            ,
+            "low_cue": 
+                "Property/Task-property/Task-stimulus-role/Cue; Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Low"
+            
         }
     },
     "stimulusintensity": {
@@ -73,18 +70,15 @@
             "low_stim": "Low intensity stimulus (pain, vicarious, cognitive task)"
         },
         "HED": {
-            "high_stim": [
-                "Property/Task-property/Task-event-role/Experimental-stimulus",
-                "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/High"
-            ],
-            "med_stim": [
-                "Property/Task-property/Task-event-role/Experimental-stimulus",
-                "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Medium"
-            ],
-            "low_stim": [
-                "Property/Task-property/Task-event-role/Experimental-stimulus",
-                "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Low"
-            ]
+            "high_stim": 
+                "Property/Task-property/Task-event-role/Experimental-stimulus; Property/Data-property/Data-value/Categorical-value/Categorical-level-value/High"
+            ,
+            "med_stim": 
+                "Property/Task-property/Task-event-role/Experimental-stimulus; Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Medium"
+            ,
+            "low_stim": 
+                "Property/Task-property/Task-event-role/Experimental-stimulus; Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Low"
+            
         }
     },
     "rating_value": {
