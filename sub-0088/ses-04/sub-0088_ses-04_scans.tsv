@@ -1,25 +1,25 @@
-filename,acq_time,operator,randstr,task-social_runtype,task-fractional_runtype
-fmap/sub-0088_ses-04_acq-mb8_dir-ap_run-01_epi.nii.gz,1919-06-17T10:32:08.795000,,a0d20093,,n/a
-fmap/sub-0088_ses-04_acq-mb8_dir-pa_run-01_epi.nii.gz,1919-06-17T10:32:33.335000,,2e2a5da9,,n/a
-func/sub-0088_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz,1919-06-17T10:35:14.577500,,374a30b2,,tomspunt
-func/sub-0088_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz,1919-06-17T10:35:21.477500,,a7314d57,,tomspunt
-func/sub-0088_ses-04_task-fractional_acq-mb8_run-02_sbref.nii.gz,1919-06-17T10:45:57.137500,,a870d6a4,,memory
-func/sub-0088_ses-04_task-fractional_acq-mb8_run-02_bold.nii.gz,1919-06-17T10:46:04.037500,,71999eab,,memory
-func/sub-0088_ses-04_task-social_acq-mb8_run-01_sbref.nii.gz,1919-06-17T11:00:11.660000,,580ef42f,cognitive,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-01_bold.nii.gz,1919-06-17T11:00:18.560000,,0d94e27e,cognitive,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-02_sbref.nii.gz,1919-06-17T11:07:35.597500,,769ceca9,pain,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-02_bold.nii.gz,1919-06-17T11:07:42.497500,,045070c7,pain,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-03_sbref.nii.gz,1919-06-17T11:14:45.597500,,b7ee1090,vicarious,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-03_bold.nii.gz,1919-06-17T11:14:52.497500,,c63289cc,vicarious,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-04_sbref.nii.gz,1919-06-17T11:21:46.000000,,cfd274f8,vicarious,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-04_bold.nii.gz,1919-06-17T11:21:52.900000,,f2389c0f,vicarious,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-05_sbref.nii.gz,1919-06-17T11:29:45.262500,,09656d6a,pain,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-05_bold.nii.gz,1919-06-17T11:29:52.162500,,f8cd0b19,pain,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-06_sbref.nii.gz,1919-06-17T11:37:31.215000,,02d29b5e,cognitive,n/a
-func/sub-0088_ses-04_task-social_acq-mb8_run-06_bold.nii.gz,1919-06-17T11:37:38.115000,,67acb413,cognitive,n/a
-fmap/sub-0088_ses-04_acq-mb8_dir-ap_run-02_epi.nii.gz,1919-06-17T11:45:27.517500,,7abf79bf,,n/a
-fmap/sub-0088_ses-04_acq-mb8_dir-pa_run-02_epi.nii.gz,1919-06-17T11:45:51.347500,,c3f4d3ee,,n/a
-func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-01_sbref.nii.gz,1919-06-17T11:47:11.470000,,4825ab46,,n/a
-func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-01_bold.nii.gz,1919-06-17T11:47:18.370000,,9b7e9b7f,,n/a
-func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-02_sbref.nii.gz,1919-06-17T11:57:16.985000,,bf1d284c,,n/a
-func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-02_bold.nii.gz,1919-06-17T11:57:23.885000,,a60f63ee,,n/a
+filename	acq_time	operator	randstr	task-social_runtype	task-fractional_runtype
+fmap/sub-0088_ses-04_acq-mb8_dir-ap_run-01_epi.nii.gz	1919-06-17T10:32:08.795000		a0d20093		
+fmap/sub-0088_ses-04_acq-mb8_dir-pa_run-01_epi.nii.gz	1919-06-17T10:32:33.335000		2e2a5da9		
+func/sub-0088_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz	1919-06-17T10:35:14.577500		374a30b2		tomspunt
+func/sub-0088_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz	1919-06-17T10:35:21.477500		a7314d57		tomspunt
+func/sub-0088_ses-04_task-fractional_acq-mb8_run-02_sbref.nii.gz	1919-06-17T10:45:57.137500		a870d6a4		memory
+func/sub-0088_ses-04_task-fractional_acq-mb8_run-02_bold.nii.gz	1919-06-17T10:46:04.037500		71999eab		memory
+func/sub-0088_ses-04_task-social_acq-mb8_run-01_sbref.nii.gz	1919-06-17T11:00:11.660000		580ef42f	cognitive	
+func/sub-0088_ses-04_task-social_acq-mb8_run-01_bold.nii.gz	1919-06-17T11:00:18.560000		0d94e27e	cognitive	
+func/sub-0088_ses-04_task-social_acq-mb8_run-02_sbref.nii.gz	1919-06-17T11:07:35.597500		769ceca9	pain	
+func/sub-0088_ses-04_task-social_acq-mb8_run-02_bold.nii.gz	1919-06-17T11:07:42.497500		045070c7	pain	
+func/sub-0088_ses-04_task-social_acq-mb8_run-03_sbref.nii.gz	1919-06-17T11:14:45.597500		b7ee1090	vicarious	
+func/sub-0088_ses-04_task-social_acq-mb8_run-03_bold.nii.gz	1919-06-17T11:14:52.497500		c63289cc	vicarious	
+func/sub-0088_ses-04_task-social_acq-mb8_run-04_sbref.nii.gz	1919-06-17T11:21:46.000000		cfd274f8	vicarious	
+func/sub-0088_ses-04_task-social_acq-mb8_run-04_bold.nii.gz	1919-06-17T11:21:52.900000		f2389c0f	vicarious	
+func/sub-0088_ses-04_task-social_acq-mb8_run-05_sbref.nii.gz	1919-06-17T11:29:45.262500		09656d6a	pain	
+func/sub-0088_ses-04_task-social_acq-mb8_run-05_bold.nii.gz	1919-06-17T11:29:52.162500		f8cd0b19	pain	
+func/sub-0088_ses-04_task-social_acq-mb8_run-06_sbref.nii.gz	1919-06-17T11:37:31.215000		02d29b5e	cognitive	
+func/sub-0088_ses-04_task-social_acq-mb8_run-06_bold.nii.gz	1919-06-17T11:37:38.115000		67acb413	cognitive	
+fmap/sub-0088_ses-04_acq-mb8_dir-ap_run-02_epi.nii.gz	1919-06-17T11:45:27.517500		7abf79bf		
+fmap/sub-0088_ses-04_acq-mb8_dir-pa_run-02_epi.nii.gz	1919-06-17T11:45:51.347500		c3f4d3ee		
+func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-01_sbref.nii.gz	1919-06-17T11:47:11.470000		4825ab46		
+func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-01_bold.nii.gz	1919-06-17T11:47:18.370000		9b7e9b7f		
+func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-02_sbref.nii.gz	1919-06-17T11:57:16.985000		bf1d284c		
+func/sub-0088_ses-04_task-alignvideo_acq-mb8_run-02_bold.nii.gz	1919-06-17T11:57:23.885000		a60f63ee		

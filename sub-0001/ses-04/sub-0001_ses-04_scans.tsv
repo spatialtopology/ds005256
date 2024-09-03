@@ -1,21 +1,21 @@
-filename,acq_time,operator,randstr,task-social_runtype,task-fractional_runtype
-fmap/sub-0001_ses-04_acq-mb8_dir-ap_run-01_epi.nii.gz,1918-07-29T13:54:31.810000,,e0c8274d,,n/a
-fmap/sub-0001_ses-04_acq-mb8_dir-pa_run-01_epi.nii.gz,1918-07-29T13:54:55.352500,,519748a2,,n/a
-fmap/sub-0001_ses-04_acq-mb8_dir-ap_run-02_epi.nii.gz,1918-07-29T14:18:55.550000,,81bc3d3e,,n/a
-fmap/sub-0001_ses-04_acq-mb8_dir-pa_run-02_epi.nii.gz,1918-07-29T14:19:19.375000,,d8d09dce,,n/a
-func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz,1918-07-29T14:20:17.555000,,ff1a5376,,n/a
-func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz,1918-07-29T14:20:24.455000,,90360b05,,n/a
-func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_sbref.nii.gz,1918-07-29T14:31:08.725000,,14e30c15,,tomspunt
-func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_bold.nii.gz,1918-07-29T14:31:15.625000,,a826118b,,tomspunt
-func/sub-0001_ses-04_task-social_acq-mb8_run-02_sbref.nii.gz,1918-07-29T15:12:14.740000,,4ad97594,,n/a
-func/sub-0001_ses-04_task-social_acq-mb8_run-02_bold.nii.gz,1918-07-29T15:12:21.640000,,06986c9a,,n/a
-func/sub-0001_ses-04_task-social_acq-mb8_run-03_sbref.nii.gz,1918-07-29T15:23:56.865000,,391c074c,,n/a
-func/sub-0001_ses-04_task-social_acq-mb8_run-03_bold.nii.gz,1918-07-29T15:24:03.765000,,a9e0ec49,,n/a
-fmap/sub-0001_ses-04_acq-mb8_dir-ap_run-04_epi.nii.gz,1918-07-29T15:36:14.465000,,11661f1f,,n/a
-fmap/sub-0001_ses-04_acq-mb8_dir-pa_run-04_epi.nii.gz,1918-07-29T15:36:38.390000,,0f7e9834,,n/a
-func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-01_sbref.nii.gz,1918-07-29T15:38:00.132500,,38683147,,n/a
-func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-01_bold.nii.gz,1918-07-29T15:38:07.032500,,e41fea5e,,n/a
-func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-02_sbref.nii.gz,1918-07-29T15:48:04.157500,,a44b8ea8,,n/a
-func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-02_bold.nii.gz,1918-07-29T15:48:11.057500,,bc680f4a,,n/a
-func/sub-0001_ses-04_task-social_acq-mb8_run-01_sbref.nii.gz,1918-07-29T16:00:36.042500,,80ae970e,,n/a
-func/sub-0001_ses-04_task-social_acq-mb8_run-01_bold.nii.gz,1918-07-29T16:00:42.942500,,9316bc32,,n/a
+filename	acq_time	operator	randstr	task-social_runtype	task-fractional_runtype
+fmap/sub-0001_ses-04_acq-mb8_dir-ap_run-01_epi.nii.gz	1918-07-29T13:54:31.810000		e0c8274d		
+fmap/sub-0001_ses-04_acq-mb8_dir-pa_run-01_epi.nii.gz	1918-07-29T13:54:55.352500		519748a2		
+fmap/sub-0001_ses-04_acq-mb8_dir-ap_run-02_epi.nii.gz	1918-07-29T14:18:55.550000		81bc3d3e		
+fmap/sub-0001_ses-04_acq-mb8_dir-pa_run-02_epi.nii.gz	1918-07-29T14:19:19.375000		d8d09dce		
+func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz	1918-07-29T14:20:17.555000		ff1a5376		
+func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz	1918-07-29T14:20:24.455000		90360b05		
+func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_sbref.nii.gz	1918-07-29T14:31:08.725000		14e30c15		tomspunt
+func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_bold.nii.gz	1918-07-29T14:31:15.625000		a826118b		tomspunt
+func/sub-0001_ses-04_task-social_acq-mb8_run-02_sbref.nii.gz	1918-07-29T15:12:14.740000		4ad97594		
+func/sub-0001_ses-04_task-social_acq-mb8_run-02_bold.nii.gz	1918-07-29T15:12:21.640000		06986c9a		
+func/sub-0001_ses-04_task-social_acq-mb8_run-03_sbref.nii.gz	1918-07-29T15:23:56.865000		391c074c		
+func/sub-0001_ses-04_task-social_acq-mb8_run-03_bold.nii.gz	1918-07-29T15:24:03.765000		a9e0ec49		
+fmap/sub-0001_ses-04_acq-mb8_dir-ap_run-04_epi.nii.gz	1918-07-29T15:36:14.465000		11661f1f		
+fmap/sub-0001_ses-04_acq-mb8_dir-pa_run-04_epi.nii.gz	1918-07-29T15:36:38.390000		0f7e9834		
+func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-01_sbref.nii.gz	1918-07-29T15:38:00.132500		38683147		
+func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-01_bold.nii.gz	1918-07-29T15:38:07.032500		e41fea5e		
+func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-02_sbref.nii.gz	1918-07-29T15:48:04.157500		a44b8ea8		
+func/sub-0001_ses-04_task-alignvideo_acq-mb8_run-02_bold.nii.gz	1918-07-29T15:48:11.057500		bc680f4a		
+func/sub-0001_ses-04_task-social_acq-mb8_run-01_sbref.nii.gz	1918-07-29T16:00:36.042500		80ae970e		
+func/sub-0001_ses-04_task-social_acq-mb8_run-01_bold.nii.gz	1918-07-29T16:00:42.942500		9316bc32		
