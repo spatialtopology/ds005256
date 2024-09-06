@@ -1,21 +1,21 @@
 filename	acq_time	operator	randstr	task-social_runtype	task-fractional_runtype
-fmap/sub-0059_ses-04_acq-mb8_dir-ap_run-01_epi.nii.gz	1919-05-06T10:15:39.765000	n/a	e8a28041	n/a	
-fmap/sub-0059_ses-04_acq-mb8_dir-pa_run-01_epi.nii.gz	1919-05-06T10:16:04.320000	n/a	5e37fcd0	n/a	
+fmap/sub-0059_ses-04_acq-mb8_dir-ap_run-01_epi.nii.gz	1919-05-06T10:15:39.765000	n/a	e8a28041	n/a	n/a
+fmap/sub-0059_ses-04_acq-mb8_dir-pa_run-01_epi.nii.gz	1919-05-06T10:16:04.320000	n/a	5e37fcd0	n/a	n/a
 func/sub-0059_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz	1919-05-06T10:19:24.022500	n/a	850d7ea9	n/a	posner
 func/sub-0059_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz	1919-05-06T10:19:30.922500	n/a	9c7a96f9	n/a	posner
 func/sub-0059_ses-04_task-fractional_acq-mb8_run-02_sbref.nii.gz	1919-05-06T10:29:56.777500	n/a	f8b5fdea	n/a	tomsaxe
 func/sub-0059_ses-04_task-fractional_acq-mb8_run-02_bold.nii.gz	1919-05-06T10:30:03.677500	n/a	8baa150d	n/a	tomsaxe
-func/sub-0059_ses-04_task-social_acq-mb8_run-01_sbref.nii.gz	1919-05-06T10:41:50.295000	n/a	2ddc0c22	cognitive	
-func/sub-0059_ses-04_task-social_acq-mb8_run-01_bold.nii.gz	1919-05-06T10:41:57.195000	n/a	9b760ddf	cognitive	
-func/sub-0059_ses-04_task-social_acq-mb8_run-03_sbref.nii.gz	1919-05-06T10:50:02.452500	n/a	b2b2094c	vicarious	
-func/sub-0059_ses-04_task-social_acq-mb8_run-03_bold.nii.gz	1919-05-06T10:50:09.352500	n/a	49f9177b	vicarious	
-func/sub-0059_ses-04_task-social_acq-mb8_run-04_sbref.nii.gz	1919-05-06T10:57:02.917500	n/a	6ccbbbe5	vicarious	
-func/sub-0059_ses-04_task-social_acq-mb8_run-04_bold.nii.gz	1919-05-06T10:57:09.817500	n/a	14494efb	vicarious	
-func/sub-0059_ses-04_task-social_acq-mb8_run-06_sbref.nii.gz	1919-05-06T11:05:42.037500	n/a	78c587a4	cognitive	
-func/sub-0059_ses-04_task-social_acq-mb8_run-06_bold.nii.gz	1919-05-06T11:05:48.937500	n/a	a857f7ac	cognitive	
-fmap/sub-0059_ses-04_acq-mb8_dir-ap_run-02_epi.nii.gz	1919-05-06T11:13:38.400000	n/a	eb7371e0	n/a	
-fmap/sub-0059_ses-04_acq-mb8_dir-pa_run-02_epi.nii.gz	1919-05-06T11:14:02.347500	n/a	70e93c52	n/a	
-func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-01_sbref.nii.gz	1919-05-06T11:15:24.092500	n/a	e169ca3d	n/a	
-func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-01_bold.nii.gz	1919-05-06T11:15:30.992500	n/a	2c5da7a5	n/a	
-func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-02_sbref.nii.gz	1919-05-06T11:25:19.995000	n/a	6f74697e	n/a	
-func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-02_bold.nii.gz	1919-05-06T11:25:26.895000	n/a	6c1aafb8	n/a	
+func/sub-0059_ses-04_task-social_acq-mb8_run-01_sbref.nii.gz	1919-05-06T10:41:50.295000	n/a	2ddc0c22	cognitive	n/a
+func/sub-0059_ses-04_task-social_acq-mb8_run-01_bold.nii.gz	1919-05-06T10:41:57.195000	n/a	9b760ddf	cognitive	n/a
+func/sub-0059_ses-04_task-social_acq-mb8_run-03_sbref.nii.gz	1919-05-06T10:50:02.452500	n/a	b2b2094c	vicarious	n/a
+func/sub-0059_ses-04_task-social_acq-mb8_run-03_bold.nii.gz	1919-05-06T10:50:09.352500	n/a	49f9177b	vicarious	n/a
+func/sub-0059_ses-04_task-social_acq-mb8_run-04_sbref.nii.gz	1919-05-06T10:57:02.917500	n/a	6ccbbbe5	vicarious	n/a
+func/sub-0059_ses-04_task-social_acq-mb8_run-04_bold.nii.gz	1919-05-06T10:57:09.817500	n/a	14494efb	vicarious	n/a
+func/sub-0059_ses-04_task-social_acq-mb8_run-06_sbref.nii.gz	1919-05-06T11:05:42.037500	n/a	78c587a4	cognitive	n/a
+func/sub-0059_ses-04_task-social_acq-mb8_run-06_bold.nii.gz	1919-05-06T11:05:48.937500	n/a	a857f7ac	cognitive	n/a
+fmap/sub-0059_ses-04_acq-mb8_dir-ap_run-02_epi.nii.gz	1919-05-06T11:13:38.400000	n/a	eb7371e0	n/a	n/a
+fmap/sub-0059_ses-04_acq-mb8_dir-pa_run-02_epi.nii.gz	1919-05-06T11:14:02.347500	n/a	70e93c52	n/a	n/a
+func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-01_sbref.nii.gz	1919-05-06T11:15:24.092500	n/a	e169ca3d	n/a	n/a
+func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-01_bold.nii.gz	1919-05-06T11:15:30.992500	n/a	2c5da7a5	n/a	n/a
+func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-02_sbref.nii.gz	1919-05-06T11:25:19.995000	n/a	6f74697e	n/a	n/a
+func/sub-0059_ses-04_task-alignvideo_acq-mb8_run-02_bold.nii.gz	1919-05-06T11:25:26.895000	n/a	6c1aafb8	n/a	n/a
