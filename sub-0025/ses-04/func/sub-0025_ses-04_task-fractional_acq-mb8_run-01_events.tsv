@@ -8,7 +8,7 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 13.764359951019289	1.0981600284576416	tomspunt	reaching?	how_hand	yes	yes	correct	task-tomspunt/H_003.jpg
 15.16487979888916	0.9975800514221193	tomspunt	reaching?	how_hand	no	no	correct	task-tomspunt/H_132.jpg
 22.55096983909607	1.7802000045776367	tomspunt	healthy?	why_hand	yes	yes	correct	task-tomspunt/H_627.jpg
-24.60172986984253		tomspunt	healthy?	why_hand		yes	incorrect	task-tomspunt/H_438.jpg
+24.60172986984253	n/a	tomspunt	healthy?	why_hand	n/a	yes	incorrect	task-tomspunt/H_438.jpg
 26.635819911956787	0.9682900905609132	tomspunt	healthy?	why_hand	yes	yes	correct	task-tomspunt/H_364.jpg
 27.919639825820923	1.5422401428222656	tomspunt	healthy?	why_hand	no	no	correct	task-tomspunt/H_130.jpg
 29.77032995223999	0.875499963760376	tomspunt	healthy?	why_hand	yes	yes	correct	task-tomspunt/H_362.jpg
@@ -255,67 +255,67 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 590.54611992836	1.068120002746582	tomspunt	proud?	why_face	no	no	correct	task-tomspunt/F_760.jpg
 591.9299700260162	0.9513897895812988	tomspunt	proud?	why_face	no	no	correct	task-tomspunt/F_412.jpg
 593.1971099376678	0.865149974822998	tomspunt	proud?	why_face	yes	yes	correct	task-tomspunt/F_695.jpg
-0.0669433975219724	2.05076503753662	tomspunt	reaching?	block_question_presentation				
-0.0669433975219724	0.3	tomspunt	reaching?	block_question_presentation				
-17.5401260757446	2.10078406333923	tomspunt	healthy?	block_question_presentation				
-17.5401260757446	0.3	tomspunt	healthy?	block_question_presentation				
-36.6472508811951	2.10078430175781	tomspunt	admiring?	block_question_presentation				
-36.6472508811951	0.3	tomspunt	admiring?	block_question_presentation				
-55.6209943199158	2.10078382492065	tomspunt	smiling?	block_question_presentation				
-55.6209943199158	0.3	tomspunt	smiling?	block_question_presentation				
-73.1441948318481	2.10078477859497	tomspunt	lifting?	block_question_presentation				
-73.1441948318481	0.3	tomspunt	lifting?	block_question_presentation				
-95.6192436122894	2.10078406333923	tomspunt	helping?	block_question_presentation				
-95.6192436122894	0.3	tomspunt	helping?	block_question_presentation				
-113.509247770309	2.08411145210266	tomspunt	proud?	block_question_presentation				
-113.509247770309	0.3	tomspunt	proud?	block_question_presentation				
-131.032449474335	2.10078382492065	tomspunt	looking to side?	block_question_presentation				
-131.032449474335	0.3	tomspunt	looking to side?	block_question_presentation				
-150.139575233459	2.10078358650208	tomspunt	argument?	block_question_presentation				
-150.139575233459	0.3	tomspunt	argument?	block_question_presentation				
-167.979562034607	2.1007833480835	tomspunt	open mouth?	block_question_presentation				
-167.979562034607	0.3	tomspunt	open mouth?	block_question_presentation				
-185.86956738472	2.10078310966492	tomspunt	pressing button?	block_question_presentation				
-185.86956738472	0.3	tomspunt	pressing button?	block_question_presentation				
-203.65953420639	2.10078382492065	tomspunt	competing?	block_question_presentation				
-203.65953420639	0.3	tomspunt	competing?	block_question_presentation				
-221.732941141129	2.10078310966492	tomspunt	self-doubt?	block_question_presentation				
-221.732941141129	0.3	tomspunt	self-doubt?	block_question_presentation				
-240.790046920776	2.10078406333923	tomspunt	looking at camera?	block_question_presentation				
-240.790046920776	0.3	tomspunt	looking at camera?	block_question_presentation				
-259.580388298035	2.0841109752655	tomspunt	both hands?	block_question_presentation				
-259.580388298035	0.3	tomspunt	both hands?	block_question_presentation				
-278.370729675293	2.08410906791687	tomspunt	self-protection?	block_question_presentation				
-278.370729675293	0.3	tomspunt	self-protection?	block_question_presentation				
-299.845404615402	2.10078287124634	tomspunt	smiling?	block_question_presentation				
-299.845404615402	0.3	tomspunt	smiling?	block_question_presentation				
-317.635372152329	2.10078310966492	tomspunt	admiring?	block_question_presentation				
-317.635372152329	0.3	tomspunt	admiring?	block_question_presentation				
-335.525376310349	2.10078382492065	tomspunt	competing?	block_question_presentation				
-335.525376310349	0.3	tomspunt	competing?	block_question_presentation				
-357.000052442551	2.1007833480835	tomspunt	reaching?	block_question_presentation				
-357.000052442551	0.3	tomspunt	reaching?	block_question_presentation				
-374.840037813187	2.10078358650208	tomspunt	open mouth?	block_question_presentation				
-374.840037813187	0.3	tomspunt	open mouth?	block_question_presentation				
-393.513668289185	2.10078263282776	tomspunt	argument?	block_question_presentation				
-393.513668289185	0.3	tomspunt	argument?	block_question_presentation				
-411.737131586075	2.10078358650208	tomspunt	helping?	block_question_presentation				
-411.737131586075	0.3	tomspunt	helping?	block_question_presentation				
-429.810537567139	2.10078358650208	tomspunt	both hands?	block_question_presentation				
-429.810537567139	0.3	tomspunt	both hands?	block_question_presentation				
-447.333739271164	2.08411002159119	tomspunt	healthy?	block_question_presentation				
-447.333739271164	0.3	tomspunt	healthy?	block_question_presentation				
-466.37417339325	2.1007833480835	tomspunt	pressing button?	block_question_presentation				
-466.37417339325	0.3	tomspunt	pressing button?	block_question_presentation				
-483.914047470093	2.10078382492065	tomspunt	looking at camera?	block_question_presentation				
-483.914047470093	0.3	tomspunt	looking at camera?	block_question_presentation				
-502.871118059158	2.10078263282776	tomspunt	self-doubt?	block_question_presentation				
-502.871118059158	0.3	tomspunt	self-doubt?	block_question_presentation				
-520.394318571091	2.10078430175781	tomspunt	self-protection?	block_question_presentation				
-520.394318571091	0.3	tomspunt	self-protection?	block_question_presentation				
-538.617781152725	2.10078310966492	tomspunt	lifting?	block_question_presentation				
-538.617781152725	0.3	tomspunt	lifting?	block_question_presentation				
-556.491113176346	2.10078310966492	tomspunt	looking to side?	block_question_presentation				
-556.491113176346	0.3	tomspunt	looking to side?	block_question_presentation				
-578.966160764694	2.10078310966492	tomspunt	proud?	block_question_presentation				
-578.966160764694	0.3	tomspunt	proud?	block_question_presentation				
+0.0669433975219724	2.05076503753662	tomspunt	reaching?	block_question_presentation	n/a		n/a	
+0.0669433975219724	0.3	tomspunt	reaching?	block_question_presentation	n/a		n/a	
+17.5401260757446	2.10078406333923	tomspunt	healthy?	block_question_presentation	n/a		n/a	
+17.5401260757446	0.3	tomspunt	healthy?	block_question_presentation	n/a		n/a	
+36.6472508811951	2.10078430175781	tomspunt	admiring?	block_question_presentation	n/a		n/a	
+36.6472508811951	0.3	tomspunt	admiring?	block_question_presentation	n/a		n/a	
+55.6209943199158	2.10078382492065	tomspunt	smiling?	block_question_presentation	n/a		n/a	
+55.6209943199158	0.3	tomspunt	smiling?	block_question_presentation	n/a		n/a	
+73.1441948318481	2.10078477859497	tomspunt	lifting?	block_question_presentation	n/a		n/a	
+73.1441948318481	0.3	tomspunt	lifting?	block_question_presentation	n/a		n/a	
+95.6192436122894	2.10078406333923	tomspunt	helping?	block_question_presentation	n/a		n/a	
+95.6192436122894	0.3	tomspunt	helping?	block_question_presentation	n/a		n/a	
+113.509247770309	2.08411145210266	tomspunt	proud?	block_question_presentation	n/a		n/a	
+113.509247770309	0.3	tomspunt	proud?	block_question_presentation	n/a		n/a	
+131.032449474335	2.10078382492065	tomspunt	looking to side?	block_question_presentation	n/a		n/a	
+131.032449474335	0.3	tomspunt	looking to side?	block_question_presentation	n/a		n/a	
+150.139575233459	2.10078358650208	tomspunt	argument?	block_question_presentation	n/a		n/a	
+150.139575233459	0.3	tomspunt	argument?	block_question_presentation	n/a		n/a	
+167.979562034607	2.1007833480835	tomspunt	open mouth?	block_question_presentation	n/a		n/a	
+167.979562034607	0.3	tomspunt	open mouth?	block_question_presentation	n/a		n/a	
+185.86956738472	2.10078310966492	tomspunt	pressing button?	block_question_presentation	n/a		n/a	
+185.86956738472	0.3	tomspunt	pressing button?	block_question_presentation	n/a		n/a	
+203.65953420639	2.10078382492065	tomspunt	competing?	block_question_presentation	n/a		n/a	
+203.65953420639	0.3	tomspunt	competing?	block_question_presentation	n/a		n/a	
+221.732941141129	2.10078310966492	tomspunt	self-doubt?	block_question_presentation	n/a		n/a	
+221.732941141129	0.3	tomspunt	self-doubt?	block_question_presentation	n/a		n/a	
+240.790046920776	2.10078406333923	tomspunt	looking at camera?	block_question_presentation	n/a		n/a	
+240.790046920776	0.3	tomspunt	looking at camera?	block_question_presentation	n/a		n/a	
+259.580388298035	2.0841109752655	tomspunt	both hands?	block_question_presentation	n/a		n/a	
+259.580388298035	0.3	tomspunt	both hands?	block_question_presentation	n/a		n/a	
+278.370729675293	2.08410906791687	tomspunt	self-protection?	block_question_presentation	n/a		n/a	
+278.370729675293	0.3	tomspunt	self-protection?	block_question_presentation	n/a		n/a	
+299.845404615402	2.10078287124634	tomspunt	smiling?	block_question_presentation	n/a		n/a	
+299.845404615402	0.3	tomspunt	smiling?	block_question_presentation	n/a		n/a	
+317.635372152329	2.10078310966492	tomspunt	admiring?	block_question_presentation	n/a		n/a	
+317.635372152329	0.3	tomspunt	admiring?	block_question_presentation	n/a		n/a	
+335.525376310349	2.10078382492065	tomspunt	competing?	block_question_presentation	n/a		n/a	
+335.525376310349	0.3	tomspunt	competing?	block_question_presentation	n/a		n/a	
+357.000052442551	2.1007833480835	tomspunt	reaching?	block_question_presentation	n/a		n/a	
+357.000052442551	0.3	tomspunt	reaching?	block_question_presentation	n/a		n/a	
+374.840037813187	2.10078358650208	tomspunt	open mouth?	block_question_presentation	n/a		n/a	
+374.840037813187	0.3	tomspunt	open mouth?	block_question_presentation	n/a		n/a	
+393.513668289185	2.10078263282776	tomspunt	argument?	block_question_presentation	n/a		n/a	
+393.513668289185	0.3	tomspunt	argument?	block_question_presentation	n/a		n/a	
+411.737131586075	2.10078358650208	tomspunt	helping?	block_question_presentation	n/a		n/a	
+411.737131586075	0.3	tomspunt	helping?	block_question_presentation	n/a		n/a	
+429.810537567139	2.10078358650208	tomspunt	both hands?	block_question_presentation	n/a		n/a	
+429.810537567139	0.3	tomspunt	both hands?	block_question_presentation	n/a		n/a	
+447.333739271164	2.08411002159119	tomspunt	healthy?	block_question_presentation	n/a		n/a	
+447.333739271164	0.3	tomspunt	healthy?	block_question_presentation	n/a		n/a	
+466.37417339325	2.1007833480835	tomspunt	pressing button?	block_question_presentation	n/a		n/a	
+466.37417339325	0.3	tomspunt	pressing button?	block_question_presentation	n/a		n/a	
+483.914047470093	2.10078382492065	tomspunt	looking at camera?	block_question_presentation	n/a		n/a	
+483.914047470093	0.3	tomspunt	looking at camera?	block_question_presentation	n/a		n/a	
+502.871118059158	2.10078263282776	tomspunt	self-doubt?	block_question_presentation	n/a		n/a	
+502.871118059158	0.3	tomspunt	self-doubt?	block_question_presentation	n/a		n/a	
+520.394318571091	2.10078430175781	tomspunt	self-protection?	block_question_presentation	n/a		n/a	
+520.394318571091	0.3	tomspunt	self-protection?	block_question_presentation	n/a		n/a	
+538.617781152725	2.10078310966492	tomspunt	lifting?	block_question_presentation	n/a		n/a	
+538.617781152725	0.3	tomspunt	lifting?	block_question_presentation	n/a		n/a	
+556.491113176346	2.10078310966492	tomspunt	looking to side?	block_question_presentation	n/a		n/a	
+556.491113176346	0.3	tomspunt	looking to side?	block_question_presentation	n/a		n/a	
+578.966160764694	2.10078310966492	tomspunt	proud?	block_question_presentation	n/a		n/a	
+578.966160764694	0.3	tomspunt	proud?	block_question_presentation	n/a		n/a	

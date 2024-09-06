@@ -1,24 +1,24 @@
 onset	duration	subtask_type	event_type	value	response_accuracy	stim_file
-12.067889919281	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/3b_story.txt
-100.600905408859	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/10b_story.txt
-159.656261196136	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/1b_story.txt
-218.678271999359	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/7b_story.txt
-248.189277639389	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/5b_story.txt
-336.722293605804	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/4b_story.txt
-395.744304647446	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/9b_story.txt
-425.255309333801	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/8b_story.txt
-513.788325061798	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/6b_story.txt
-572.810335626602	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/2b_story.txt
-41.5788950824738	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/3p_story.txt
-71.0899002456665	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/10p_story.txt
-130.128583660126	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/1p_story.txt
-189.167266359329	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/7p_story.txt
-277.700283517838	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/5p_story.txt
-307.211287965775	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/4p_story.txt
-366.233298053741	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/9p_story.txt
-454.766314258575	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/8p_story.txt
-484.277320137024	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/6p_story.txt
-543.299330224991	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/2p_story.txt
+12.067889919281	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/3b_story.txt
+100.600905408859	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/10b_story.txt
+159.656261196136	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/1b_story.txt
+218.678271999359	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/7b_story.txt
+248.189277639389	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/5b_story.txt
+336.722293605804	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/4b_story.txt
+395.744304647446	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/9b_story.txt
+425.255309333801	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/8b_story.txt
+513.788325061798	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/6b_story.txt
+572.810335626602	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/2b_story.txt
+41.5788950824738	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/3p_story.txt
+71.0899002456665	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/10p_story.txt
+130.128583660126	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/1p_story.txt
+189.167266359329	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/7p_story.txt
+277.700283517838	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/5p_story.txt
+307.211287965775	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/4p_story.txt
+366.233298053741	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/9p_story.txt
+454.766314258575	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/8p_story.txt
+484.277320137024	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/6p_story.txt
+543.299330224991	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/2p_story.txt
 23.0386478805542	2.68345308303833	tomsaxe	response	falsebelief	correct	tomsaxe/3b_question.txt
 111.58833574295	2.36380529403687	tomsaxe	response	falsebelief	correct	tomsaxe/10b_question.txt
 170.643692483902	3.52983164787292	tomsaxe	response	falsebelief	correct	tomsaxe/1b_question.txt
@@ -38,4 +38,4 @@ onset	duration	subtask_type	event_type	value	response_accuracy	stim_file
 377.220729341507	3.64878368377686	tomsaxe	response	falsephoto	correct	tomsaxe/9p_question.txt
 465.75374578476	2.88625621795654	tomsaxe	response	falsephoto	correct	tomsaxe/8p_question.txt
 495.264750232697	3.13862371444702	tomsaxe	response	falsephoto	correct	tomsaxe/6p_question.txt
-554.286761512756		tomsaxe	response	falsephoto	incorrect	tomsaxe/2p_question.txt
+554.286761512756	n/a	tomsaxe	response	falsephoto	incorrect	tomsaxe/2p_question.txt

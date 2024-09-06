@@ -1,24 +1,24 @@
 onset	duration	subtask_type	event_type	value	response_accuracy	stim_file
-12.045876493454	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/4b_story.txt
-100.578892459869	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/1b_story.txt
-159.584230651855	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/6b_story.txt
-218.606241693497	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/3b_story.txt
-248.117247095108	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/8b_story.txt
-336.650262346268	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/7b_story.txt
-395.672271242142	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/10b_story.txt
-425.183278551102	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/9b_story.txt
-513.716294517517	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/5b_story.txt
-572.738304128647	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/2b_story.txt
-41.5568821334839	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/4p_story.txt
-71.0512146854401	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/1p_story.txt
-130.073225488663	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/6p_story.txt
-189.095235338211	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/3p_story.txt
-277.628250350952	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/8p_story.txt
-307.139256229401	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/7p_story.txt
-366.161267271042	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/10p_story.txt
-454.694283475876	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/9p_story.txt
-484.205288639069	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/5p_story.txt
-543.227299442291	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/2p_story.txt
+12.045876493454	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/4b_story.txt
+100.578892459869	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/1b_story.txt
+159.584230651855	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/6b_story.txt
+218.606241693497	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/3b_story.txt
+248.117247095108	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/8b_story.txt
+336.650262346268	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/7b_story.txt
+395.672271242142	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/10b_story.txt
+425.183278551102	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/9b_story.txt
+513.716294517517	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/5b_story.txt
+572.738304128647	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/2b_story.txt
+41.5568821334839	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/4p_story.txt
+71.0512146854401	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/1p_story.txt
+130.073225488663	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/6p_story.txt
+189.095235338211	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/3p_story.txt
+277.628250350952	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/8p_story.txt
+307.139256229401	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/7p_story.txt
+366.161267271042	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/10p_story.txt
+454.694283475876	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/9p_story.txt
+484.205288639069	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/5p_story.txt
+543.227299442291	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/2p_story.txt
 23.0166342163086	4.14526271820068	tomsaxe	response	falsebelief	correct	tomsaxe/4b_question.txt
 111.549650659561	2.76828622817993	tomsaxe	response	falsebelief	correct	tomsaxe/1b_question.txt
 170.571661462784	2.73559141159058	tomsaxe	response	falsebelief	correct	tomsaxe/6b_question.txt
@@ -35,7 +35,7 @@ onset	duration	subtask_type	event_type	value	response_accuracy	stim_file
 200.082666864395	5.01599311828613	tomsaxe	response	falsephoto	incorrect	tomsaxe/3p_question.txt
 288.615682353973	1.81252670288086	tomsaxe	response	falsephoto	correct	tomsaxe/8p_question.txt
 318.126687278748	2.2487998008728	tomsaxe	response	falsephoto	correct	tomsaxe/7p_question.txt
-377.148698320389		tomsaxe	response	falsephoto	incorrect	tomsaxe/10p_question.txt
+377.148698320389	n/a	tomsaxe	response	falsephoto	incorrect	tomsaxe/10p_question.txt
 465.681714286804	3.83003258705139	tomsaxe	response	falsephoto	correct	tomsaxe/9p_question.txt
 495.192719926834	2.11954712867737	tomsaxe	response	falsephoto	correct	tomsaxe/5p_question.txt
 554.214730491638	2.39641046524048	tomsaxe	response	falsephoto	correct	tomsaxe/2p_question.txt

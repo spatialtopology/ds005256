@@ -1,29 +1,29 @@
 onset	duration	subtask_type	event_type	value	response_accuracy	stim_file
-12.0572311782837	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/4b_story.txt
-100.573681583405	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/1b_story.txt
-159.612437238693	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/6b_story.txt
-218.634518852234	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/3b_story.txt
-248.145560970306	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/8b_story.txt
-336.678683986664	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/7b_story.txt
-395.70076631546	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/10b_story.txt
-425.211808433533	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/9b_story.txt
-513.978353013992	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/5b_story.txt
-573.350566139221	11.0	tomsaxe	stimulus	falsebelief		task-tomsaxe/2b_story.txt
-41.5515985393524	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/4p_story.txt
-71.0626401805878	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/1p_story.txt
-130.084722747803	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/6p_story.txt
-189.123477449417	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/3p_story.txt
-277.656602134705	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/8p_story.txt
-307.16764210701	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/7p_story.txt
-366.189725627899	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/10p_story.txt
-454.939597597122	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/9p_story.txt
-484.483985414505	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/5p_story.txt
-543.489393701553	11.0	tomsaxe	stimulus	falsephoto		task-tomsaxe/2p_story.txt
+12.0572311782837	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/4b_story.txt
+100.573681583405	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/1b_story.txt
+159.612437238693	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/6b_story.txt
+218.634518852234	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/3b_story.txt
+248.145560970306	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/8b_story.txt
+336.678683986664	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/7b_story.txt
+395.70076631546	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/10b_story.txt
+425.211808433533	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/9b_story.txt
+513.978353013992	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/5b_story.txt
+573.350566139221	11.0	tomsaxe	stimulus	falsebelief	n/a	task-tomsaxe/2b_story.txt
+41.5515985393524	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/4p_story.txt
+71.0626401805878	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/1p_story.txt
+130.084722747803	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/6p_story.txt
+189.123477449417	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/3p_story.txt
+277.656602134705	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/8p_story.txt
+307.16764210701	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/7p_story.txt
+366.189725627899	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/10p_story.txt
+454.939597597122	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/9p_story.txt
+484.483985414505	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/5p_story.txt
+543.489393701553	11.0	tomsaxe	stimulus	falsephoto	n/a	task-tomsaxe/2p_story.txt
 23.0280017757416	3.72419404983521	tomsaxe	response	falsebelief	correct	tomsaxe/4b_question.txt
 111.56112622261	5.33639073371887	tomsaxe	response	falsebelief	correct	tomsaxe/1b_question.txt
 170.599880685806	5.20621728897095	tomsaxe	response	falsebelief	correct	tomsaxe/6b_question.txt
 229.621963729858	3.26307415962219	tomsaxe	response	falsebelief	correct	tomsaxe/3b_question.txt
-259.133004894257		tomsaxe	response	falsebelief	incorrect	tomsaxe/8b_question.txt
+259.133004894257	n/a	tomsaxe	response	falsebelief	incorrect	tomsaxe/8b_question.txt
 347.66612862587	5.43459129333496	tomsaxe	response	falsebelief	incorrect	tomsaxe/7b_question.txt
 406.688210716248	5.01841521263123	tomsaxe	response	falsebelief	incorrect	tomsaxe/10b_question.txt
 436.199253072739	6.19999480247498	tomsaxe	response	falsebelief	correct	tomsaxe/9b_question.txt
