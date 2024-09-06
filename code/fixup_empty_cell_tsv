@@ -4,4 +4,4 @@
 
 cd "$(dirname $0)/.."
 
-find * -iname '*.tsv' | xargs sed -i -e 's,\t\t,\tn/a\t,g'
+find * -iname '*.tsv' | xargs sed -i -e 's,\t\t,\tn/a\t,g' -e 's,\t$,\tn/a,g'
