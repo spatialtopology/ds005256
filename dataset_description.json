@@ -18,11 +18,12 @@
     "Tor D. Wager"
   ],
   "BIDSVersion": "1.9.0",
-  "HEDVersion": "8.2.0",
   "DatasetDOI": "TODO: eventually a DOI for the dataset",
+  "DatasetType": "raw",
   "Funding": [
     "NIBIB:R01EB026549-03"
   ],
+  "HEDVersion": "8.2.0",
   "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
   "License": "CC0",
   "Name": "A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks",
