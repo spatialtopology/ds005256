@@ -25,7 +25,7 @@
         "Units": "degree", 
         "HED": "(Angle/#, Agent-action, (Press, Mouse-button, Scroll-wheel))"
     },
-    "response_lable": {
+    "response_label": {
         "LongName": "The label of the rating",
         "Description": "According to a set of rules (see main texts for details), we assigned each rating a label based on the angle of it.", 
         "HED": "Label/#"
