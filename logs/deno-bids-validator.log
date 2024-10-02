@@ -216,7 +216,7 @@
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv
 
-		4330 more files with the same issue
+		4332 more files with the same issue
 
 		InstitutionName
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
@@ -300,7 +300,7 @@
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_events.tsv
 
-		4208 more files with the same issue
+		4210 more files with the same issue
 
 		SliceTiming
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
@@ -320,7 +320,7 @@
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv - WARNING: [UNITS_MISSING] No unit specified. Using "m" as the default - "X-position/45.62". TSV line: 11. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#units-missing.)
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv - WARNING: [UNITS_MISSING] No unit specified. Using "m" as the default - "X-position/35.0". TSV line: 12. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#units-missing.)
 
-		75698 more files with the same issue
+		75694 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.
 
@@ -354,7 +354,7 @@ This design is suspiciously short.
 		/sub-0133/ses-04/func/sub-0133_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 		/sub-0003/ses-01/func/sub-0003_ses-01_task-social_acq-mb8_run-01_bold.nii.gz
 
-		66 more files with the same issue
+		68 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_SHORT_EVENT_DESIGN for existing conversations about this issue.
 
@@ -368,36 +368,11 @@ This design is suspiciously long.
 
 	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.
 
-	[WARNING] EVENTS_TSV_MISSING Task scans should have a corresponding 'events.tsv' file.
-If this is a resting state scan you can ignore this warning or rename the task to include the word "rest".
-
-		/sub-0006/ses-04/func/sub-0006_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
-		/sub-0006/ses-04/func/sub-0006_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
-
-		2 more files with the same issue
-
-	Please visit https://neurostars.org/search?q=EVENTS_TSV_MISSING for existing conversations about this issue.
-
-	[WARNING] TSV_VALUE_INCORRECT_TYPE_NONREQUIRED A value in a column did match the acceptable type for that column headers specified format.
-		response_time
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-01_events.tsv - '"n/a"'
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-02_events.tsv - '"n/a"'
-
-		2 more files with the same issue
-
-		stim_file
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-01_events.tsv - '"n/a"'
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-02_events.tsv - '"n/a"'
-
-		2 more files with the same issue
-
-	Please visit https://neurostars.org/search?q=TSV_VALUE_INCORRECT_TYPE_NONREQUIRED for existing conversations about this issue.
-
 	[ERROR] HED_ERROR The validation on this HED string returned an error.
 		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Data-property" appears as "Property/Data-property" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
 		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Data-property" appears as "Property/Data-property" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
 
-		9275 more files with the same issue
+		9269 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.
 
@@ -423,7 +398,7 @@ Files must be subject-relative paths or BIDS URIs.
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-02_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 
-		314 more files with the same issue
+		318 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.
 
@@ -432,24 +407,9 @@ Files must be subject-relative paths or BIDS URIs.
 		/sub-0001/ses-03/func/sub-0001_ses-03_task-shortvideo_acq-mb8_run-01_events.tsv
 		/sub-0133/ses-03/func/sub-0133_ses-03_task-shortvideo_acq-mb8_run-01_events.tsv
 
-		125 more files with the same issue
+		121 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=STIMULUS_FILE_MISSING for existing conversations about this issue.
-
-	[ERROR] TSV_VALUE_INCORRECT_TYPE A value in a column did match the acceptable type for that column headers specified format.
-		onset
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-01_events.tsv - '"n/a"'
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-02_events.tsv - '"n/a"'
-
-		2 more files with the same issue
-
-		duration
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-01_events.tsv - '"n/a"'
-		/sub-0009/ses-02/func/sub-0009_ses-02_task-narratives_acq-mb8_run-02_events.tsv - '"n/a"'
-
-		2 more files with the same issue
-
-	Please visit https://neurostars.org/search?q=TSV_VALUE_INCORRECT_TYPE for existing conversations about this issue.
 
 	[ERROR] EMPTY_FILE Empty files not allowed.
 		/sourcedata/d_beh/
@@ -458,7 +418,7 @@ Files must be subject-relative paths or BIDS URIs.
 
 
           Summary:                           Available Tasks:        Available Modalities:
-          26367 Files, 2.22 TB               alignvideo              MRI                  
+          26369 Files, 2.22 TB               alignvideo              MRI                  
           117 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
                                              narratives                                   
