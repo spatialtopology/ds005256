@@ -214,9 +214,9 @@
 
 		FlipAngle
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
-		4332 more files with the same issue
+		120 more files with the same issue
 
 		InstitutionName
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
@@ -237,10 +237,10 @@
 		120 more files with the same issue
 
 		SliceEncodingDirection
-		/sub-0001/ses-01/dwi/sub-0001_ses-01_acq-96dirX6b0Xmb_dwi.bval
-		/sub-0001/ses-01/dwi/sub-0001_ses-01_acq-96dirX6b0Xmb_dwi.bvec
+		/sub-0001/ses-01/dwi/sub-0001_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz
+		/sub-0001/ses-01/fmap/sub-0001_ses-01_acq-96dirX6b0Xmb_dir-ap_epi.nii.gz
 
-		10584 more files with the same issue
+		10352 more files with the same issue
 
 		B0FieldIdentifier
 		/sub-0001/ses-01/fmap/sub-0001_ses-01_acq-96dirX6b0Xmb_dir-ap_epi.nii.gz
@@ -317,6 +317,7 @@
 	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.
 
 	[WARNING] HED_WARNING The validation on this HED string returned a warning.
+		UNITS_MISSING
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv - WARNING: [UNITS_MISSING] No unit specified. Using "m" as the default - "X-position/45.62". TSV line: 11. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#units-missing.)
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv - WARNING: [UNITS_MISSING] No unit specified. Using "m" as the default - "X-position/35.0". TSV line: 12. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#units-missing.)
 
@@ -369,20 +370,19 @@ This design is suspiciously long.
 	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.
 
 	[ERROR] HED_ERROR The validation on this HED string returned an error.
+		None
+		/task-fractional_events.json - TypeError: Cannot convert undefined or null to object
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - TypeError: Cannot convert undefined or null to object
+
+		199 more files with the same issue
+
+		TAG_EXTENSION_INVALID
 		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Data-property" appears as "Property/Data-property" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
 		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Data-property" appears as "Property/Data-property" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
 
-		9269 more files with the same issue
+		9068 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.
-
-	[ERROR] NOT_INCLUDED Files with such naming scheme are not part of BIDS specification. This error is most commonly caused by typos in file names that make them not BIDS compatible. Please consult the specification and make sure your files are named correctly. If this is not a file naming issue (for example when including files not yet covered by the BIDS specification) you should include a ".bidsignore" file in your dataset (see https://github.com/bids-standard/bids-validator#bidsignore for details). Please note that derived (processed) data should be placed in /derivatives folder and source data (such as DICOMS or behavioural logs in proprietary formats) should be placed in the /sourcedata folder.
-		/code/spacetop-prep/.github/ISSUE_TEMPLATE/
-		/code/spacetop-prep/spacetop_prep/
-
-		1 more files with the same issue
-
-	Please visit https://neurostars.org/search?q=NOT_INCLUDED for existing conversations about this issue.
 
 	[ERROR] INTENDED_FOR 'IntendedFor' field needs to point to an existing file.
 Files must be subject-relative paths or BIDS URIs.
@@ -395,6 +395,7 @@ Files must be subject-relative paths or BIDS URIs.
 	Please visit https://neurostars.org/search?q=INTENDED_FOR for existing conversations about this issue.
 
 	[ERROR] HED_INTERNAL_ERROR An internal error occurred during HED validation.
+		GENERIC_ERROR
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-02_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 
@@ -411,14 +412,9 @@ Files must be subject-relative paths or BIDS URIs.
 
 	Please visit https://neurostars.org/search?q=STIMULUS_FILE_MISSING for existing conversations about this issue.
 
-	[ERROR] EMPTY_FILE Empty files not allowed.
-		/sourcedata/d_beh/
-
-	Please visit https://neurostars.org/search?q=EMPTY_FILE for existing conversations about this issue.
-
 
           Summary:                           Available Tasks:        Available Modalities:
-          26369 Files, 2.22 TB               alignvideo              MRI                  
+          26366 Files, 2.22 TB               alignvideo              MRI                  
           117 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
                                              narratives                                   
