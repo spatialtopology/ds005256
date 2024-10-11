@@ -1,0 +1,29 @@
+#!/bin/bash
+
+set -eu
+
+tf="$1"
+dup="$2"
+
+
+# need to get json and sbref files too!
+
+for f in "$tf" "${tf//_bold/_sbref}"; do
+    fbase="${f%.nii.gz}"
+    for e in 'nii.gz' 'json'; do
+        f2=$fbase.$e
+        d="${fbase}__dup-$dup.$e"
+        #ls -l "$f2"
+        test -e "$f2" || test -L "$f2"
+        echo "Recovering '$f2' from '$d'"
+        commit=$(git rev-list -n 1 unredacted-master -- "$d")
+        rm "$f2"
+        git show "$commit" -- "$d" | sed -e "s|$d|$f2|g" | patch -R -p1
+        if [ "$e" = 'json' ]; then
+            # fixup _scans.tsv
+            time=$(jq -r .AcquisitionTime "$f2")
+            s="$(dirname $f)/../*_scans.tsv"
+            sed -i -e "s|^\([^\t]*/$(basename $f)\t[^\tT]*\)T[^\t]*|\1T$time|g" $s
+        fi
+    done
+done
