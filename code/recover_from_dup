@@ -21,6 +21,11 @@ for f in "$tf" "${tf//_bold/_sbref}"; do
         git show "$commit" -- "$d" | sed -e "s|$d|$f2|g" | patch -R -p1
         if [ "$e" = 'json' ]; then
             # fixup _scans.tsv
+            # json might have gone to annex if was too large
+            if test -L "$f2"; then
+                git add "$f2"  # stage for annex
+                git annex get "$f2"
+            fi
             time=$(jq -r .AcquisitionTime "$f2")
             s="$(dirname $f)/../*_scans.tsv"
             sed -i -e "s|^\([^\t]*/$(basename $f)\t[^\tT]*\)T[^\t]*|\1T$time|g" $s
