@@ -28,10 +28,12 @@ for f in "$tf" "${tf//_bold/_sbref}"; do
                 git annex get "$f2"
             fi
             time=$(jq -r .AcquisitionTime "$f2")
-            nTRs=$(jq -r '.dcmmeta_shape[-1]' "$f2")
-            if [ "$tTRs" != "$nTRs" ]; then
-                echo "ERROR: number of TRs $nTRs is different from target $tTRs. We are not helping here!"
-                exit 1
+            if [ "$f" == "$tf" ]; then
+                nTRs=$(jq -r '.dcmmeta_shape[-1]' "$f2")
+                if [ "$tTRs" != "$nTRs" ]; then
+                    echo "ERROR: number of TRs $nTRs is different from target $tTRs. We are not helping here!"
+                    exit 1
+                fi
             fi
             s="$(dirname $f)/../*_scans.tsv"
             sed -i -e "s|^\([^\t]*/$(basename $f)\t[^\tT]*\)T[^\t]*|\1T$time|g" $s
