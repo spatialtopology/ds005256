@@ -316,15 +316,6 @@
 
 	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.
 
-	[WARNING] HED_WARNING The validation on this HED string returned a warning.
-		UNITS_MISSING
-		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv - WARNING: [UNITS_MISSING] No unit specified. Using "m" as the default - "X-position/45.62". TSV line: 11. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#units-missing.)
-		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv - WARNING: [UNITS_MISSING] No unit specified. Using "m" as the default - "X-position/35.0". TSV line: 12. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#units-missing.)
-
-		75694 more files with the same issue
-
-	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.
-
 	[WARNING] EVENT_ONSET_ORDER The onset column in events.tsv files should be sorted.
 
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv
@@ -362,10 +353,10 @@ This design is suspiciously short.
 	[WARNING] SUSPICIOUSLY_LONG_EVENT_DESIGN The onset of the last event is after the total duration of the corresponding scan.
 This design is suspiciously long.
 
-		/sub-0004/ses-02/func/sub-0004_ses-02_task-faces_acq-mb8_run-01_bold.nii.gz
-		/sub-0005/ses-04/func/sub-0005_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
+		/sub-0011/ses-02/func/sub-0011_ses-02_task-narratives_acq-mb8_run-02_bold.nii.gz
+		/sub-0013/ses-04/func/sub-0013_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 
-		12 more files with the same issue
+		10 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.
 
@@ -405,16 +396,16 @@ Files must be subject-relative paths or BIDS URIs.
 
 	[ERROR] STIMULUS_FILE_MISSING A stimulus file was declared but not found in the dataset.
 
-		/sub-0001/ses-03/func/sub-0001_ses-03_task-shortvideo_acq-mb8_run-01_events.tsv
-		/sub-0133/ses-03/func/sub-0133_ses-03_task-shortvideo_acq-mb8_run-01_events.tsv
+		/sub-0002/ses-04/func/sub-0002_ses-04_task-fractional_acq-mb8_run-02_events.tsv
+		/sub-0008/ses-04/func/sub-0008_ses-04_task-fractional_acq-mb8_run-02_events.tsv
 
-		121 more files with the same issue
+		22 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=STIMULUS_FILE_MISSING for existing conversations about this issue.
 
 
           Summary:                           Available Tasks:        Available Modalities:
-          26366 Files, 2.22 TB               alignvideo              MRI                  
+          26366 Files, 2.23 TB               alignvideo              MRI                  
           117 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
                                              narratives                                   
