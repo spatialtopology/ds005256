@@ -1,4 +1,4 @@
-onset	duration	subtask_type	event_type	response_accuracy	cue_location	target_location	button_press	trial_index
+onset	duration	subtask_type	event_type	response_accuracy	cue_location	target_location	participant_response	trial_index
 10.56	0.2	posner	valid_cue	correct	right	n/a	n/a	1
 10.777	0.71	posner	target_response	correct	right	right	right	1
 16.579	0.2	posner	valid_cue	correct	left	n/a	n/a	2
