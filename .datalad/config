@@ -8,3 +8,6 @@
 [datalad "containers.bids-validator"]
 	image = code/containers/images/bids/bids-validator--1.14.11.sing
 	cmdexec = {img_dspath}/code/containers/scripts/singularity_cmd run {img} {cmd}
+[datalad "containers.reproin-exec"]
+	image = code/containers/images/repronim/repronim-reproin--0.13.1.sing
+	cmdexec = {img_dspath}/code/containers/scripts/singularity_cmd exec {img} {cmd}
