@@ -29,6 +29,15 @@
   "InstitutionAddress": "Maynard 3,Hanover,NH,US,03755",
   "InstitutionName": "Dartmouth College - PBS",
   "InstitutionalDepartmentName": "Department",
+  "IntendedFor": [
+    "ses-02/func/sub-0094_ses-02_task-faces_acq-mb8_run-01_bold.nii.gz",
+    "ses-02/func/sub-0094_ses-02_task-faces_acq-mb8_run-02_bold.nii.gz",
+    "ses-02/func/sub-0094_ses-02_task-faces_acq-mb8_run-03_bold.nii.gz",
+    "ses-02/func/sub-0094_ses-02_task-narratives_acq-mb8_run-01_bold.nii.gz",
+    "ses-02/func/sub-0094_ses-02_task-narratives_acq-mb8_run-02_bold.nii.gz",
+    "ses-02/func/sub-0094_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz",
+    "ses-02/func/sub-0094_ses-02_task-narratives_acq-mb8_run-04_bold.nii.gz"
+],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
   "Manufacturer": "Siemens",
