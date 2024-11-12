@@ -1,0 +1,21 @@
+#!/bin/bash
+# Unified script to run both deno and legacy validators and save logs in a consistent location
+
+set -u
+
+# do not exit upon failure
+set +e
+
+cd "$(dirname "$0")/.." || exit 1
+outfolder=derivatives/bids-validator/
+mkdir -p "$outfolder"
+rm -f "$outfolder"/*
+
+echo "I: running deno saving into .json"
+deno run --allow-read --allow-env --reload -A https://github.com/bids-standard/bids-validator/raw/deno-build/bids-validator.js --outfile $outfolder/deno-bids-validator.json --json "$PWD"
+
+echo "I: running deno saving into .txt"
+deno run --allow-read --allow-env --reload -A https://github.com/bids-standard/bids-validator/raw/deno-build/bids-validator.js --outfile $outfolder/deno-bids-validator.txt "$PWD"
+
+echo "I: running legacy validator"
+datalad containers-run --explicit -n bids-validator "$PWD" --verbose >| $outfolder/legacy-bids-validator-verbose.txt 2>&1
