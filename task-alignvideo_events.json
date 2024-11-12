@@ -32,7 +32,7 @@
         "Description": "This value ranges from 0 ('Barely at all') to 100 ('Strongest imaginable'). Note that if the 'duration' of one rating event was 'n/a', the response value would also be 'n/a'.",
         "HED": "(X-position/#, Agent-action, (Press, Mouse-button, Scroll-wheel))"
     },
-    "stim_file": {
+    "stim_file_TODO": {
         "LongName": "The name of the stimulus file in this trial",
         "HED": "Pathname/#"
     }

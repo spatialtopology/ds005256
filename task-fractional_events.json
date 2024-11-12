@@ -64,7 +64,7 @@
       "block_question_presentation": "Action/Perform/Read"
     }
   },
-  "stim_file": {
+  "stim_file_TODO": {
     "LongName": "Stimulus filename which is presented on screen",
     "Description": "task-memory: cliparts are presented as stimuli. task-posner: Not applicable \n task-saxe: text derived from txt files are presented as stimuli. \n task-spunt: images are presented as stimuli",
     "HED": "(Textblock, Pathname/#)"
