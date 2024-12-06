@@ -300,7 +300,7 @@
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_events.tsv
 
-		4213 more files with the same issue
+		4221 more files with the same issue
 
 		[33mSliceTiming[39m
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
@@ -389,7 +389,7 @@ Files must be subject-relative paths or BIDS URIs.
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-02_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 
-		317 more files with the same issue
+		325 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.[39m
 
@@ -404,7 +404,7 @@ Files must be subject-relative paths or BIDS URIs.
 
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
-          26365 Files, 2.23 TB               alignvideo              MRI                  
+          26373 Files, 2.23 TB               alignvideo              MRI                  
           118 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
                                              narratives                                   
