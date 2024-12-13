@@ -1,91 +1,91 @@
 onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_file
 5.808	10.393	narrative_presentation	n/a	n/a	Supplication	hospital	Text	task-narratives/Narrative1Situation1.txt
-16.201	2.084	rating_feeling	1056	557	Supplication	hospital	Text	task-narratives/Narrative1Situation1.txt
-17.335	0.951	feeling_mouse_trajectory	1056	557	Supplication	hospital	Text	task-narratives/Narrative1Situation1.txt
-20.233	0.943	rating_expectation	816	566	Supplication	hospital	Text	task-narratives/Narrative1Situation1.txt
-20.533	0.643	expectation_mouse_trajectory	816	566	Supplication	hospital	Text	task-narratives/Narrative1Situation1.txt
-26.299	14.41	narrative_presentation	n/a	n/a	Enmity of kin	forest	Text	task-narratives/Narrative1Situation2.txt
-40.71	1.852	rating_feeling	1056	557	Enmity of kin	forest	Text	task-narratives/Narrative1Situation2.txt
-41.41	1.152	feeling_mouse_trajectory	1056	557	Enmity of kin	forest	Text	task-narratives/Narrative1Situation2.txt
-44.725	1.834	rating_expectation	816	566	Enmity of kin	forest	Text	task-narratives/Narrative1Situation2.txt
-44.742	1.818	expectation_mouse_trajectory	816	566	Enmity of kin	forest	Text	task-narratives/Narrative1Situation2.txt
+16.201	2.084	rating_feeling	1056	557	Supplication	hospital	Text	n/a
+17.335	0.951	feeling_mouse_trajectory	1056	557	Supplication	hospital	Text	n/a
+20.233	0.943	rating_expectation	816	566	Supplication	hospital	Text	n/a
+20.533	0.643	expectation_mouse_trajectory	816	566	Supplication	hospital	Text	n/a
+26.299	14.41	narrative_presentation	n/a	n/a	Madness	hospital	Text	task-narratives/Narrative1Situation2.txt
+40.71	1.852	rating_feeling	1056	557	Madness	hospital	Text	n/a
+41.41	1.152	feeling_mouse_trajectory	1056	557	Madness	hospital	Text	n/a
+44.725	1.834	rating_expectation	816	566	Madness	hospital	Text	n/a
+44.742	1.818	expectation_mouse_trajectory	816	566	Madness	hospital	Text	n/a
 49.792	20.778	narrative_presentation	n/a	n/a	Murderous adultury	hospital	Text	task-narratives/Narrative1Situation3.txt
-70.57	1.424	rating_feeling	1056	557	Murderous adultury	hospital	Text	task-narratives/Narrative1Situation3.txt
-71.02	0.974	feeling_mouse_trajectory	1056	557	Murderous adultury	hospital	Text	task-narratives/Narrative1Situation3.txt
-74.586	1.139	rating_expectation	816	566	Murderous adultury	hospital	Text	task-narratives/Narrative1Situation3.txt
-74.853	0.872	expectation_mouse_trajectory	816	566	Murderous adultury	hospital	Text	task-narratives/Narrative1Situation3.txt
-81.67	18.426	narrative_presentation	n/a	n/a	Murderous adultury	town	Text	task-narratives/Narrative1Situation4.txt
-100.096	1.834	rating_feeling	1056	557	Murderous adultury	town	Text	task-narratives/Narrative1Situation4.txt
-100.73	1.201	feeling_mouse_trajectory	1056	557	Murderous adultury	town	Text	task-narratives/Narrative1Situation4.txt
-104.114	2.068	rating_expectation	816	566	Murderous adultury	town	Text	task-narratives/Narrative1Situation4.txt
-104.58	1.601	expectation_mouse_trajectory	816	566	Murderous adultury	town	Text	task-narratives/Narrative1Situation4.txt
+70.57	1.424	rating_feeling	1056	557	Murderous adultury	hospital	Text	n/a
+71.02	0.974	feeling_mouse_trajectory	1056	557	Murderous adultury	hospital	Text	n/a
+74.586	1.139	rating_expectation	816	566	Murderous adultury	hospital	Text	n/a
+74.853	0.872	expectation_mouse_trajectory	816	566	Murderous adultury	hospital	Text	n/a
+81.67	18.426	narrative_presentation	n/a	n/a	Recovery of a lost one	town	Text	task-narratives/Narrative1Situation4.txt
+100.096	1.834	rating_feeling	1056	557	Recovery of a lost one	town	Text	n/a
+100.73	1.201	feeling_mouse_trajectory	1056	557	Recovery of a lost one	town	Text	n/a
+104.114	2.068	rating_expectation	816	566	Recovery of a lost one	town	Text	n/a
+104.58	1.601	expectation_mouse_trajectory	816	566	Recovery of a lost one	town	Text	n/a
 111.181	11.062	narrative_presentation	n/a	n/a	Slaying of kin unrecognized	town	Text	task-narratives/Narrative1Situation5.txt
-122.243	1.888	rating_feeling	1056	557	Slaying of kin unrecognized	town	Text	task-narratives/Narrative1Situation5.txt
-122.627	1.504	feeling_mouse_trajectory	1056	557	Slaying of kin unrecognized	town	Text	task-narratives/Narrative1Situation5.txt
-126.275	1.02	rating_expectation	816	566	Slaying of kin unrecognized	town	Text	task-narratives/Narrative1Situation5.txt
-126.542	0.753	expectation_mouse_trajectory	816	566	Slaying of kin unrecognized	town	Text	task-narratives/Narrative1Situation5.txt
-131.355	25.129	narrative_presentation	n/a	n/a	Ambition	town	Text	task-narratives/Narrative1Situation6.txt
-156.484	1.658	rating_feeling	1056	557	Ambition	town	Text	task-narratives/Narrative1Situation6.txt
-157.034	1.108	feeling_mouse_trajectory	1056	557	Ambition	town	Text	task-narratives/Narrative1Situation6.txt
-160.501	1.157	rating_expectation	816	566	Ambition	town	Text	task-narratives/Narrative1Situation6.txt
-160.785	0.873	expectation_mouse_trajectory	816	566	Ambition	town	Text	task-narratives/Narrative1Situation6.txt
+122.243	1.888	rating_feeling	1056	557	Slaying of kin unrecognized	town	Text	n/a
+122.627	1.504	feeling_mouse_trajectory	1056	557	Slaying of kin unrecognized	town	Text	n/a
+126.275	1.02	rating_expectation	816	566	Slaying of kin unrecognized	town	Text	n/a
+126.542	0.753	expectation_mouse_trajectory	816	566	Slaying of kin unrecognized	town	Text	n/a
+131.355	25.129	narrative_presentation	n/a	n/a	An enemy loved	town	Text	task-narratives/Narrative1Situation6.txt
+156.484	1.658	rating_feeling	1056	557	An enemy loved	town	Text	n/a
+157.034	1.108	feeling_mouse_trajectory	1056	557	An enemy loved	town	Text	n/a
+160.501	1.157	rating_expectation	816	566	An enemy loved	town	Text	n/a
+160.785	0.873	expectation_mouse_trajectory	816	566	An enemy loved	town	Text	n/a
 167.585	22.111	narrative_presentation	n/a	n/a	Fatal imprudence	prison	Text	task-narratives/Narrative1Situation7.txt
-189.696	2.284	rating_feeling	1056	557	Fatal imprudence	prison	Text	task-narratives/Narrative1Situation7.txt
-190.213	1.768	feeling_mouse_trajectory	1056	557	Fatal imprudence	prison	Text	task-narratives/Narrative1Situation7.txt
-193.714	0.917	rating_expectation	816	566	Fatal imprudence	prison	Text	task-narratives/Narrative1Situation7.txt
-194.047	0.584	expectation_mouse_trajectory	816	566	Fatal imprudence	prison	Text	task-narratives/Narrative1Situation7.txt
-198.78	12.396	narrative_presentation	n/a	n/a	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative1Situation8.txt
-211.177	1.771	rating_feeling	1056	557	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative1Situation8.txt
-211.793	1.155	feeling_mouse_trajectory	1056	557	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative1Situation8.txt
-215.208	1.587	rating_expectation	816	566	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative1Situation8.txt
-215.575	1.22	expectation_mouse_trajectory	816	566	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative1Situation8.txt
+189.696	2.284	rating_feeling	1056	557	Fatal imprudence	prison	Text	n/a
+190.213	1.768	feeling_mouse_trajectory	1056	557	Fatal imprudence	prison	Text	n/a
+193.714	0.917	rating_expectation	816	566	Fatal imprudence	prison	Text	n/a
+194.047	0.584	expectation_mouse_trajectory	816	566	Fatal imprudence	prison	Text	n/a
+198.78	12.396	narrative_presentation	n/a	n/a	Discovery of dishonour of loved one	prison	Text	task-narratives/Narrative1Situation8.txt
+211.177	1.771	rating_feeling	1056	557	Discovery of dishonour of loved one	prison	Text	n/a
+211.793	1.155	feeling_mouse_trajectory	1056	557	Discovery of dishonour of loved one	prison	Text	n/a
+215.208	1.587	rating_expectation	816	566	Discovery of dishonour of loved one	prison	Text	n/a
+215.575	1.22	expectation_mouse_trajectory	816	566	Discovery of dishonour of loved one	prison	Text	n/a
 227.274	29.481	narrative_presentation	n/a	n/a	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
-256.755	1.638	rating_feeling	1056	557	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
-257.222	1.171	feeling_mouse_trajectory	1056	557	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
-260.775	1.203	rating_expectation	816	566	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
-261.108	0.869	expectation_mouse_trajectory	816	566	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
-273.858	22.111	narrative_presentation	n/a	n/a	Supplication	hospital	Text	task-narratives/Narrative2Situation1.txt
-295.969	1.923	rating_feeling	1056	557	Supplication	hospital	Text	task-narratives/Narrative2Situation1.txt
-296.619	1.273	feeling_mouse_trajectory	1056	557	Supplication	hospital	Text	task-narratives/Narrative2Situation1.txt
-299.992	1.188	rating_expectation	816	566	Supplication	hospital	Text	task-narratives/Narrative2Situation1.txt
-300.308	0.871	expectation_mouse_trajectory	816	566	Supplication	hospital	Text	task-narratives/Narrative2Situation1.txt
+256.755	1.638	rating_feeling	1056	557	Abduction	prison	Text	n/a
+257.222	1.171	feeling_mouse_trajectory	1056	557	Abduction	prison	Text	n/a
+260.775	1.203	rating_expectation	816	566	Abduction	prison	Text	n/a
+261.108	0.869	expectation_mouse_trajectory	816	566	Abduction	prison	Text	n/a
+273.858	22.111	narrative_presentation	n/a	n/a	An enemy loved	forest	Text	task-narratives/Narrative2Situation1.txt
+295.969	1.923	rating_feeling	1056	557	An enemy loved	forest	Text	n/a
+296.619	1.273	feeling_mouse_trajectory	1056	557	An enemy loved	forest	Text	n/a
+299.992	1.188	rating_expectation	816	566	An enemy loved	forest	Text	n/a
+300.308	0.871	expectation_mouse_trajectory	816	566	An enemy loved	forest	Text	n/a
 306.054	36.183	narrative_presentation	n/a	n/a	Enmity of kin	forest	Text	task-narratives/Narrative2Situation2.txt
-342.237	1.722	rating_feeling	1056	557	Enmity of kin	forest	Text	task-narratives/Narrative2Situation2.txt
-342.82	1.139	feeling_mouse_trajectory	1056	557	Enmity of kin	forest	Text	task-narratives/Narrative2Situation2.txt
-346.258	1.204	rating_expectation	816	566	Enmity of kin	forest	Text	task-narratives/Narrative2Situation2.txt
-346.575	0.888	expectation_mouse_trajectory	816	566	Enmity of kin	forest	Text	task-narratives/Narrative2Situation2.txt
-354.322	9.373	narrative_presentation	n/a	n/a	Murderous adultury	hospital	Text	task-narratives/Narrative2Situation3.txt
-363.694	1.718	rating_feeling	1056	557	Murderous adultury	hospital	Text	task-narratives/Narrative2Situation3.txt
-364.311	1.101	feeling_mouse_trajectory	1056	557	Murderous adultury	hospital	Text	task-narratives/Narrative2Situation3.txt
-367.712	1.434	rating_expectation	816	566	Murderous adultury	hospital	Text	task-narratives/Narrative2Situation3.txt
-368.362	0.784	expectation_mouse_trajectory	816	566	Murderous adultury	hospital	Text	task-narratives/Narrative2Situation3.txt
+342.237	1.722	rating_feeling	1056	557	Enmity of kin	forest	Text	n/a
+342.82	1.139	feeling_mouse_trajectory	1056	557	Enmity of kin	forest	Text	n/a
+346.258	1.204	rating_expectation	816	566	Enmity of kin	forest	Text	n/a
+346.575	0.888	expectation_mouse_trajectory	816	566	Enmity of kin	forest	Text	n/a
+354.322	9.373	narrative_presentation	n/a	n/a	Necessity of sacrificing loved ones	forest	Text	task-narratives/Narrative2Situation3.txt
+363.694	1.718	rating_feeling	1056	557	Necessity of sacrificing loved ones	forest	Text	n/a
+364.311	1.101	feeling_mouse_trajectory	1056	557	Necessity of sacrificing loved ones	forest	Text	n/a
+367.712	1.434	rating_expectation	816	566	Necessity of sacrificing loved ones	forest	Text	n/a
+368.362	0.784	expectation_mouse_trajectory	816	566	Necessity of sacrificing loved ones	forest	Text	n/a
 374.779	18.431	narrative_presentation	n/a	n/a	Murderous adultury	town	Text	task-narratives/Narrative2Situation4.txt
-393.21	1.987	rating_feeling	1056	557	Murderous adultury	town	Text	task-narratives/Narrative2Situation4.txt
-393.86	1.337	feeling_mouse_trajectory	1056	557	Murderous adultury	town	Text	task-narratives/Narrative2Situation4.txt
-397.242	1.719	rating_expectation	816	566	Murderous adultury	town	Text	task-narratives/Narrative2Situation4.txt
-397.792	1.169	expectation_mouse_trajectory	816	566	Murderous adultury	town	Text	task-narratives/Narrative2Situation4.txt
-404.307	16.742	narrative_presentation	n/a	n/a	Slaying of kin unrecognized	town	Text	task-narratives/Narrative2Situation5.txt
-421.049	1.826	rating_feeling	1056	557	Slaying of kin unrecognized	town	Text	task-narratives/Narrative2Situation5.txt
-421.399	1.476	feeling_mouse_trajectory	1056	557	Slaying of kin unrecognized	town	Text	task-narratives/Narrative2Situation5.txt
-425.067	2.008	rating_expectation	816	566	Slaying of kin unrecognized	town	Text	task-narratives/Narrative2Situation5.txt
-425.4	1.675	expectation_mouse_trajectory	816	566	Slaying of kin unrecognized	town	Text	task-narratives/Narrative2Situation5.txt
+393.21	1.987	rating_feeling	1056	557	Murderous adultury	town	Text	n/a
+393.86	1.337	feeling_mouse_trajectory	1056	557	Murderous adultury	town	Text	n/a
+397.242	1.719	rating_expectation	816	566	Murderous adultury	town	Text	n/a
+397.792	1.169	expectation_mouse_trajectory	816	566	Murderous adultury	town	Text	n/a
+404.307	16.742	narrative_presentation	n/a	n/a	Daring Enterprise	town	Text	task-narratives/Narrative2Situation5.txt
+421.049	1.826	rating_feeling	1056	557	Daring Enterprise	town	Text	n/a
+421.399	1.476	feeling_mouse_trajectory	1056	557	Daring Enterprise	town	Text	n/a
+425.067	2.008	rating_expectation	816	566	Daring Enterprise	town	Text	n/a
+425.4	1.675	expectation_mouse_trajectory	816	566	Daring Enterprise	town	Text	n/a
 431.134	5.693	narrative_presentation	n/a	n/a	Ambition	town	Text	task-narratives/Narrative2Situation6.txt
-436.827	2.237	rating_feeling	1056	557	Ambition	town	Text	task-narratives/Narrative2Situation6.txt
-437.41	1.654	feeling_mouse_trajectory	1056	557	Ambition	town	Text	task-narratives/Narrative2Situation6.txt
-440.858	2.052	rating_expectation	816	566	Ambition	town	Text	task-narratives/Narrative2Situation6.txt
-441.408	1.502	expectation_mouse_trajectory	816	566	Ambition	town	Text	task-narratives/Narrative2Situation6.txt
-445.923	19.093	narrative_presentation	n/a	n/a	Fatal imprudence	prison	Text	task-narratives/Narrative2Situation7.txt
-465.016	1.977	rating_feeling	1056	557	Fatal imprudence	prison	Text	task-narratives/Narrative2Situation7.txt
-465.716	1.277	feeling_mouse_trajectory	1056	557	Fatal imprudence	prison	Text	task-narratives/Narrative2Situation7.txt
-469.033	1.076	rating_expectation	816	566	Fatal imprudence	prison	Text	task-narratives/Narrative2Situation7.txt
-469.3	0.81	expectation_mouse_trajectory	816	566	Fatal imprudence	prison	Text	task-narratives/Narrative2Situation7.txt
+436.827	2.237	rating_feeling	1056	557	Ambition	town	Text	n/a
+437.41	1.654	feeling_mouse_trajectory	1056	557	Ambition	town	Text	n/a
+440.858	2.052	rating_expectation	816	566	Ambition	town	Text	n/a
+441.408	1.502	expectation_mouse_trajectory	816	566	Ambition	town	Text	n/a
+445.923	19.093	narrative_presentation	n/a	n/a	Mistaken jealousy	hospital	Text	task-narratives/Narrative2Situation7.txt
+465.016	1.977	rating_feeling	1056	557	Mistaken jealousy	hospital	Text	n/a
+465.716	1.277	feeling_mouse_trajectory	1056	557	Mistaken jealousy	hospital	Text	n/a
+469.033	1.076	rating_expectation	816	566	Mistaken jealousy	hospital	Text	n/a
+469.3	0.81	expectation_mouse_trajectory	816	566	Mistaken jealousy	hospital	Text	n/a
 476.101	18.094	narrative_presentation	n/a	n/a	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative2Situation8.txt
-494.194	2.584	rating_feeling	1056	557	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative2Situation8.txt
-494.778	2.001	feeling_mouse_trajectory	1056	557	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative2Situation8.txt
-498.211	0.884	rating_expectation	816	566	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative2Situation8.txt
-498.644	0.451	expectation_mouse_trajectory	816	566	Discovery of dishonour of loved one	hospital	Text	task-narratives/Narrative2Situation8.txt
-505.278	15.409	narrative_presentation	n/a	n/a	Abduction	prison	Text	task-narratives/Narrative2Situation9.txt
-520.687	1.506	rating_feeling	1056	557	Abduction	prison	Text	task-narratives/Narrative2Situation9.txt
-521.187	1.006	feeling_mouse_trajectory	1056	557	Abduction	prison	Text	task-narratives/Narrative2Situation9.txt
-524.708	2.033	rating_expectation	816	566	Abduction	prison	Text	task-narratives/Narrative2Situation9.txt
-525.342	1.4	expectation_mouse_trajectory	816	566	Abduction	prison	Text	task-narratives/Narrative2Situation9.txt
+494.194	2.584	rating_feeling	1056	557	Discovery of dishonour of loved one	hospital	Text	n/a
+494.778	2.001	feeling_mouse_trajectory	1056	557	Discovery of dishonour of loved one	hospital	Text	n/a
+498.211	0.884	rating_expectation	816	566	Discovery of dishonour of loved one	hospital	Text	n/a
+498.644	0.451	expectation_mouse_trajectory	816	566	Discovery of dishonour of loved one	hospital	Text	n/a
+505.278	15.409	narrative_presentation	n/a	n/a	Self-sacrifice for an ideal	hospital	Text	task-narratives/Narrative2Situation9.txt
+520.687	1.506	rating_feeling	1056	557	Self-sacrifice for an ideal	hospital	Text	n/a
+521.187	1.006	feeling_mouse_trajectory	1056	557	Self-sacrifice for an ideal	hospital	Text	n/a
+524.708	2.033	rating_expectation	816	566	Self-sacrifice for an ideal	hospital	Text	n/a
+525.342	1.4	expectation_mouse_trajectory	816	566	Self-sacrifice for an ideal	hospital	Text	n/a
