@@ -348,7 +348,7 @@ This design is suspiciously long.
 		/sub-0011/ses-02/func/sub-0011_ses-02_task-narratives_acq-mb8_run-02_bold.nii.gz
 		/sub-0013/ses-04/func/sub-0013_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 
-		3 more files with the same issue
+		4 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
 
@@ -374,16 +374,6 @@ found in the participants.tsv file.
 
 [36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
 
-	[31m[ERROR] INTENDED_FOR 'IntendedFor' field needs to point to an existing file.
-Files must be subject-relative paths or BIDS URIs.
-[39m
-		/sub-0001/ses-01/fmap/sub-0001_ses-01_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0001/ses-01/fmap/sub-0001_ses-01_acq-mb8_dir-pa_run-01_epi.nii.gz
-
-		12 more files with the same issue
-
-[36m	Please visit https://neurostars.org/search?q=INTENDED_FOR for existing conversations about this issue.[39m
-
 	[31m[ERROR] HED_INTERNAL_ERROR An internal error occurred during HED validation.[39m
 		[31mGENERIC_ERROR[39m
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
@@ -398,7 +388,7 @@ Files must be subject-relative paths or BIDS URIs.
 		/sub-0016/ses-04/func/sub-0016_ses-04_task-alignvideo_acq-mb8_run-01_events.tsv
 		/sub-0016/ses-04/func/sub-0016_ses-04_task-alignvideo_acq-mb8_run-02_events.tsv
 
-		18 more files with the same issue
+		10 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=STIMULUS_FILE_MISSING for existing conversations about this issue.[39m
 
