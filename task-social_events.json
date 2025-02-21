@@ -52,10 +52,10 @@
             "low_cue": "Data points on the cue indicate that past participants perceived the upcoming stimulus as having low intensity"
         },
         "HED": {
-            "high_cue": "Task-stimulus-role/Cue; Categorical-level-value/High"
+            "high_cue": "Task-stimulus-role/Cue, Categorical-level-value/High"
             ,
             "low_cue": 
-                "Task-stimulus-role/Cue; Categorical-level-value/Low"
+                "Task-stimulus-role/Cue, Categorical-level-value/Low"
             
         }
     },
@@ -69,13 +69,13 @@
         },
         "HED": {
             "high_stim": 
-                "Task-event-role/Experimental-stimulus; Categorical-level-value/High"
+                "Task-event-role/Experimental-stimulus, Categorical-level-value/High"
             ,
             "med_stim": 
-                "Task-event-role/Experimental-stimulus; Categorical-level-value/Medium"
+                "Task-event-role/Experimental-stimulus, Categorical-level-value/Medium"
             ,
             "low_stim": 
-                "Task-event-role/Experimental-stimulus; Categorical-level-value/Low"
+                "Task-event-role/Experimental-stimulus, Categorical-level-value/Low"
             
         }
     },
