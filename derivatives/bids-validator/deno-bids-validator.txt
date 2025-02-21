@@ -332,6 +332,15 @@
 
 [36m	Please visit https://neurostars.org/search?q=TSV_ADDITIONAL_COLUMNS_UNDEFINED for existing conversations about this issue.[39m
 
+	[33m[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.[39m
+		[33mduration[39m
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - defined in /task-social_events.json
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-02_events.tsv - defined in /task-social_events.json
+
+		1811 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.[39m
+
 	[33m[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
 This design is suspiciously short.
 [39m
@@ -348,7 +357,7 @@ This design is suspiciously long.
 		/sub-0011/ses-02/func/sub-0011_ses-02_task-narratives_acq-mb8_run-02_bold.nii.gz
 		/sub-0013/ses-04/func/sub-0013_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 
-		4 more files with the same issue
+		7 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
 
@@ -363,27 +372,18 @@ This design is suspiciously long.
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-02_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 
-		325 more files with the same issue
+		316 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.[39m
 
 	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
 		[31mTAG_EXTENSION_INVALID[39m
-		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Categorical-value" appears as "Property/Data-property/Data-value/Categorical-value" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
-		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Categorical-value" appears as "Property/Data-property/Data-value/Categorical-value" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
+		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "High" appears as "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/High" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
+		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Low" appears as "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Low" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
 
 		9068 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
-
-	[31m[ERROR] STIMULUS_FILE_MISSING A stimulus file was declared but not found in the dataset.
-[39m
-		/sub-0016/ses-04/func/sub-0016_ses-04_task-alignvideo_acq-mb8_run-01_events.tsv
-		/sub-0016/ses-04/func/sub-0016_ses-04_task-alignvideo_acq-mb8_run-02_events.tsv
-
-		10 more files with the same issue
-
-[36m	Please visit https://neurostars.org/search?q=STIMULUS_FILE_MISSING for existing conversations about this issue.[39m
 
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
