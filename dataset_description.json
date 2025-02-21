@@ -1,12 +1,12 @@
 {
-    "Acknowledgements": "We thank Terry J. Sacket and Courtney Rogers and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav O. Halchenko for helping to prepare this BIDS dataset.",
+    "Acknowledgements": "We thank Terry J. Sacket and Courtney Rogers and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav O. Halchenko for helping to prepare this BIDS dataset.\n\nThis project was supported by NIBIB:R01EB026549-03 from the National Institute of Biomedical Imaging and Bioengineering (NIBIB).",
     "Authors": [
         "Heejung Jung",
-        "Yaroslav O. Halchenko",
         "Maryam Amini",
-        "Bethany J. Hunt",
+        "Bethany J. Hung",
         "Eilis I. Murphy",
         "Patrick Sadil",
+        "Yaroslav O. Halchenko",
         "Bogdan Petre",
         "Zizhuang Miao",
         "Philip A. Kragel",
@@ -18,6 +18,7 @@
         "Tor D. Wager"
     ],
     "BIDSVersion": "1.9.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005256.v1.0.0",
     "DatasetType": "raw",
     "Funding": [
         "NIBIB:R01EB026549-03"
@@ -26,8 +27,5 @@
     "HowToAcknowledge": "Please cite: Jung, H., Amini, M., Hunt, B. J., Murphy, E. I., Sadil, P., Halchenko, Y. O., Miao, Z., Kragel, P.A., Han, X., Heilicher, M., Petre, B., Collins, O.G., Lindquist, M. A., & Wager, T. D. (2024). A massive multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks. bioRxiv. https://doi.org/10.1101/2024.06.21.599974",
     "License": "CC0",
     "Name": "A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks",
-    "ReferencesAndLinks": [
-        "TODO",
-        "List of papers or websites"
-    ]
+    "ReferencesAndLinks": []
 }
