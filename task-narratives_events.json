@@ -23,7 +23,7 @@
     },
     "response_x": {
         "LongName": "The x coordinate of the rating",
-        "Description": "The screen coordinate system uses the upper left corner as the origin. Left-right is along the x axis, and up-down is along the y axis. All x and y values on the screen are positive. The rating scale was in a rectangle whose two upper corners are (478, 300) (pole of 'Bad') and (1442, 300) (pole of 'Good'), and two lower corners are (478, 780) and (1442, 780). In each trial, the rating dot started at (960, 707). Then the participant moved the dot to the place they thought was approriate before clicking to lock the rating. The x value of the position of the click was recorded in this column.", 
+        "Description": "The screen coordinate system uses the upper left corner as the origin. Left-right is along the x axis, and up-down is along the y axis. All x and y values on the screen are positive. The rating scale was in a rectangle whose two upper corners are (478, 300) (pole of 'Bad') and (1442, 300) (pole of 'Good'), and two lower corners are (478, 780) and (1442, 780). In each trial, the rating dot started at (960, 707). Then the participant moved the dot to the place they thought was appropriate before clicking to lock the rating. The x value of the position of the click was recorded in this column.", 
         "Units": "pixel", 
         "HED": "(X-position/#, Agent-action, (Press, Mouse-button, Scroll-wheel))"
     },
