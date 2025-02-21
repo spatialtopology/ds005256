@@ -341,6 +341,15 @@
 
 [36m	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.[39m
 
+	[33m[WARNING] HED_WARNING The validation on this HED string returned a warning.[39m
+		[33mSIDECAR_KEY_MISSING[39m
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "stimulus" was referenced in column "trial_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 4. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "stimulus" was referenced in column "trial_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 8. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+
+		21600 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
+
 	[33m[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
 This design is suspiciously short.
 [39m
@@ -377,11 +386,23 @@ This design is suspiciously long.
 [36m	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.[39m
 
 	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
-		[31mTAG_EXTENSION_INVALID[39m
-		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "High" appears as "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/High" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
-		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Low" appears as "Property/Data-property/Data-value/Categorical-value/Categorical-level-value/Low" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
+		[31mPLACEHOLDER_INVALID[39m
+		/task-social_events.json - ERROR: [PLACEHOLDER_INVALID] HED value string "Data-value/Quantitative-value/Item-index/1-12" is missing a required placeholder. Sidecar key: "trial_index". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#placeholder-invalid.)
+		/task-social_events.json - ERROR: [PLACEHOLDER_INVALID] HED value string "Data-value/Quantitative-value/Item-interval/0-180" is missing a required placeholder. Sidecar key: "rating_value". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#placeholder-invalid.)
 
-		9068 more files with the same issue
+		11 more files with the same issue
+
+		[31mTAG_EXPRESSION_REPEATED[39m
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Task-stimulus-role/Cue". TSV line: 2. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Task-stimulus-role/Cue". TSV line: 2. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
+
+		343224 more files with the same issue
+
+		[31mTAG_GROUP_ERROR[39m
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_GROUP_ERROR] Tag "Data-marker/Temporal-marker/Onset" is only allowed inside of a top-level tag group. TSV line: 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-group-error.)
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_GROUP_ERROR] Tag "Data-value/Spatiotemporal-value/Temporal-value/Duration" is only allowed inside of a top-level tag group. TSV line: 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-group-error.)
+
+		110464 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
 
