@@ -1,399 +1,399 @@
-	[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.
-		GeneratedBy
+	[33m[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.[39m
+		[33mGeneratedBy[39m
 		/dataset_description.json
 
-		SourceDatasets
+		[33mSourceDatasets[39m
 		/dataset_description.json
 
-	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
-	[WARNING] SIDECAR_KEY_RECOMMENDED A data file's JSON sidecar is missing a key listed as recommended.
-		GradientSetType
+	[33m[WARNING] SIDECAR_KEY_RECOMMENDED A data file's JSON sidecar is missing a key listed as recommended.[39m
+		[33mGradientSetType[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		MRTransmitCoilSequence
+		[33mMRTransmitCoilSequence[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		MatrixCoilMode
+		[33mMatrixCoilMode[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		CoilCombinationMethod
+		[33mCoilCombinationMethod[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		PulseSequenceType
+		[33mPulseSequenceType[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		MTState
+		[33mMTState[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		SpoilingState
+		[33mSpoilingState[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		NumberShots
+		[33mNumberShots[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		ParallelReductionFactorOutOfPlane
+		[33mParallelReductionFactorOutOfPlane[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		ParallelAcquisitionTechnique
+		[33mParallelAcquisitionTechnique[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		PartialFourierDirection
+		[33mPartialFourierDirection[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		EffectiveEchoSpacing
+		[33mEffectiveEchoSpacing[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		237 more files with the same issue
 
-		MixingTime
+		[33mMixingTime[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		10589 more files with the same issue
 
-		PhaseEncodingDirection
+		[33mPhaseEncodingDirection[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		237 more files with the same issue
 
-		TotalReadoutTime
+		[33mTotalReadoutTime[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		237 more files with the same issue
 
-		MultibandAccelerationFactor
+		[33mMultibandAccelerationFactor[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
 		6063 more files with the same issue
 
-		Manufacturer
+		[33mManufacturer[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		ManufacturersModelName
+		[33mManufacturersModelName[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		DeviceSerialNumber
+		[33mDeviceSerialNumber[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		StationName
+		[33mStationName[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		SoftwareVersions
+		[33mSoftwareVersions[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		MagneticFieldStrength
+		[33mMagneticFieldStrength[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		ReceiveCoilName
+		[33mReceiveCoilName[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		ReceiveCoilActiveElements
+		[33mReceiveCoilActiveElements[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		ScanningSequence
+		[33mScanningSequence[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		SequenceVariant
+		[33mSequenceVariant[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		ScanOptions
+		[33mScanOptions[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		SequenceName
+		[33mSequenceName[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		PulseSequenceDetails
+		[33mPulseSequenceDetails[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		ParallelReductionFactorInPlane
+		[33mParallelReductionFactorInPlane[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-01/dwi/sub-0001_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz
 
 		10472 more files with the same issue
 
-		PartialFourier
+		[33mPartialFourier[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		EchoTime
+		[33mEchoTime[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		InversionTime
+		[33mInversionTime[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-01/dwi/sub-0001_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz
 
 		10472 more files with the same issue
 
-		DwellTime
+		[33mDwellTime[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		FlipAngle
+		[33mFlipAngle[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		InstitutionName
+		[33mInstitutionName[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 
 		125 more files with the same issue
 
-		InstitutionAddress
+		[33mInstitutionAddress[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		InstitutionalDepartmentName
+		[33mInstitutionalDepartmentName[39m
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		120 more files with the same issue
 
-		SliceEncodingDirection
+		[33mSliceEncodingDirection[39m
 		/sub-0001/ses-01/dwi/sub-0001_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz
 		/sub-0001/ses-01/fmap/sub-0001_ses-01_acq-96dirX6b0Xmb_dir-ap_epi.nii.gz
 
 		10350 more files with the same issue
 
-		B0FieldIdentifier
+		[33mB0FieldIdentifier[39m
 		/sub-0001/ses-01/fmap/sub-0001_ses-01_acq-96dirX6b0Xmb_dir-ap_epi.nii.gz
 		/sub-0001/ses-01/fmap/sub-0001_ses-01_acq-96dirX6b0Xmb_dir-ap_epi.nii.gz
 
 		1967 more files with the same issue
 
-		NumberOfVolumesDiscardedByScanner
+		[33mNumberOfVolumesDiscardedByScanner[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		NumberOfVolumesDiscardedByUser
+		[33mNumberOfVolumesDiscardedByUser[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		DelayTime
+		[33mDelayTime[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		AcquisitionDuration
+		[33mAcquisitionDuration[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		DelayAfterTrigger
+		[33mDelayAfterTrigger[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		Instructions
+		[33mInstructions[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		TaskDescription
+		[33mTaskDescription[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		CogPOID
+		[33mCogPOID[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz
 
 		4176 more files with the same issue
 
-		StimulusPresentation
+		[33mStimulusPresentation[39m
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_events.tsv
 
 		4221 more files with the same issue
 
-		SliceTiming
+		[33mSliceTiming[39m
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 		/sub-0006/ses-04/func/sub-0006_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 
 		3 more files with the same issue
 
-		TaskName
+		[33mTaskName[39m
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 		/sub-0006/ses-04/func/sub-0006_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
 
 		3 more files with the same issue
 
-	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
-	[WARNING] EVENT_ONSET_ORDER The onset column in events.tsv files should be sorted.
-
+	[33m[WARNING] EVENT_ONSET_ORDER The onset column in events.tsv files should be sorted.
+[39m
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv
 
-	Please visit https://neurostars.org/search?q=EVENT_ONSET_ORDER for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=EVENT_ONSET_ORDER for existing conversations about this issue.[39m
 
-	[WARNING] TSV_ADDITIONAL_COLUMNS_UNDEFINED A TSV file has extra columns which are not defined in its associated JSON sidecar
-		question
+	[33m[WARNING] TSV_ADDITIONAL_COLUMNS_UNDEFINED A TSV file has extra columns which are not defined in its associated JSON sidecar[39m
+		[33mquestion[39m
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv
 		/sub-0133/ses-04/func/sub-0133_ses-04_task-fractional_acq-mb8_run-02_events.tsv
 
 		46 more files with the same issue
 
-	Please visit https://neurostars.org/search?q=TSV_ADDITIONAL_COLUMNS_UNDEFINED for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=TSV_ADDITIONAL_COLUMNS_UNDEFINED for existing conversations about this issue.[39m
 
-	[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
+	[33m[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
 This design is suspiciously short.
-
+[39m
 		/sub-0003/ses-01/func/sub-0003_ses-01_task-social_acq-mb8_run-01_bold.nii.gz
 		/sub-0003/ses-01/func/sub-0003_ses-01_task-social_acq-mb8_run-06_bold.nii.gz
 
 		15 more files with the same issue
 
-	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_SHORT_EVENT_DESIGN for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_SHORT_EVENT_DESIGN for existing conversations about this issue.[39m
 
-	[WARNING] SUSPICIOUSLY_LONG_EVENT_DESIGN The onset of the last event is after the total duration of the corresponding scan.
+	[33m[WARNING] SUSPICIOUSLY_LONG_EVENT_DESIGN The onset of the last event is after the total duration of the corresponding scan.
 This design is suspiciously long.
-
+[39m
 		/sub-0011/ses-02/func/sub-0011_ses-02_task-narratives_acq-mb8_run-02_bold.nii.gz
 		/sub-0013/ses-04/func/sub-0013_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 
 		4 more files with the same issue
 
-	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
 
-	[ERROR] PARTICIPANT_ID_MISMATCH Participant labels found in this dataset did not match the values in participant_id column
-found in the participants.tsv file.
-
+	[31m[ERROR] PARTICIPANT_ID_MISMATCH Subject directories found in this dataset did not match the values in
+the participant_id column found in the participants.tsv file.
+[39m
 		/participants.tsv
 
-	Please visit https://neurostars.org/search?q=PARTICIPANT_ID_MISMATCH for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=PARTICIPANT_ID_MISMATCH for existing conversations about this issue.[39m
 
-	[ERROR] HED_ERROR The validation on this HED string returned an error.
-		None
+	[31m[ERROR] HED_INTERNAL_ERROR An internal error occurred during HED validation.[39m
+		[31mNone[39m
 		/task-fractional_events.json - TypeError: Cannot convert undefined or null to object
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - TypeError: Cannot convert undefined or null to object
 
 		203 more files with the same issue
 
-		TAG_EXTENSION_INVALID
-		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Categorical-value" appears as "Property/Data-property/Data-value/Categorical-value" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
-		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Categorical-value" appears as "Property/Data-property/Data-value/Categorical-value" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
-
-		9068 more files with the same issue
-
-	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.
-
-	[ERROR] HED_INTERNAL_ERROR An internal error occurred during HED validation.
-		GENERIC_ERROR
+		[31mGENERIC_ERROR[39m
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-02_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 
 		325 more files with the same issue
 
-	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.[39m
 
-	[ERROR] STIMULUS_FILE_MISSING A stimulus file was declared but not found in the dataset.
+	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
+		[31mTAG_EXTENSION_INVALID[39m
+		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Categorical-value" appears as "Property/Data-property/Data-value/Categorical-value" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
+		/task-social_events.json - ERROR: [TAG_EXTENSION_INVALID] "Categorical-value" appears as "Property/Data-property/Data-value/Categorical-value" and cannot be used as an extension. Indices ([object Object], ). (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
 
+		9068 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
+
+	[31m[ERROR] STIMULUS_FILE_MISSING A stimulus file was declared but not found in the dataset.
+[39m
 		/sub-0016/ses-04/func/sub-0016_ses-04_task-alignvideo_acq-mb8_run-01_events.tsv
 		/sub-0016/ses-04/func/sub-0016_ses-04_task-alignvideo_acq-mb8_run-02_events.tsv
 
 		10 more files with the same issue
 
-	Please visit https://neurostars.org/search?q=STIMULUS_FILE_MISSING for existing conversations about this issue.
+[36m	Please visit https://neurostars.org/search?q=STIMULUS_FILE_MISSING for existing conversations about this issue.[39m
 
 
-          Summary:                           Available Tasks:        Available Modalities:
+          [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
           26373 Files, 2.23 TB               alignvideo              MRI                  
           118 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
@@ -401,4 +401,4 @@ found in the participants.tsv file.
                                              shortvideo                                   
                                              social                                       
 
-	If you have any questions, please post on https://neurostars.org/tags/bids.
+[36m	If you have any questions, please post on https://neurostars.org/tags/bids.[39m
