@@ -7,7 +7,7 @@
     "duration": {
         "LongName": "The period of time during which an event occurs.",
         "Description": "Refers to duration of cue presentation or response time towards target item. (a) For valid_cue and invalid_cue, duration refers to the image presentation of cue. (b) For target_response, duration refers to response time to respond to target item. It is calculated as the interval between onset of button press and onset of target presentation ",
-        "Units": "s"
+        "Units": "(Duration/#, (Label/Entire-event-time))"
     },
     "run_type": {
         "LongName": "The type of subtasks within task-social",
@@ -52,10 +52,10 @@
             "low_cue": "Data points on the cue indicate that past participants perceived the upcoming stimulus as having low intensity"
         },
         "HED": {
-            "high_cue": "Task-stimulus-role/Cue; Data-value/Categorical-value/Categorical-level-value/High"
+            "high_cue": "Task-stimulus-role/Cue; Categorical-level-value/High"
             ,
             "low_cue": 
-                "Task-stimulus-role/Cue; Data-value/Categorical-value/Categorical-level-value/Low"
+                "Task-stimulus-role/Cue; Categorical-level-value/Low"
             
         }
     },
@@ -69,13 +69,13 @@
         },
         "HED": {
             "high_stim": 
-                "Task-event-role/Experimental-stimulus; Data-value/Categorical-value/Categorical-level-value/High"
+                "Task-event-role/Experimental-stimulus; Categorical-level-value/High"
             ,
             "med_stim": 
-                "Task-event-role/Experimental-stimulus; Data-value/Categorical-value/Categorical-level-value/Medium"
+                "Task-event-role/Experimental-stimulus; Categorical-level-value/Medium"
             ,
             "low_stim": 
-                "Task-event-role/Experimental-stimulus; Data-value/Categorical-value/Categorical-level-value/Low"
+                "Task-event-role/Experimental-stimulus; Categorical-level-value/Low"
             
         }
     },

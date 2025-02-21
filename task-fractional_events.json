@@ -121,8 +121,7 @@
   },
   "reaction_time": {
     "LongName": "For task-memory, refers to reaction time of responding to test items",
-    "Description": "Reaction time is measure as the time of button press minus the time of test item presentation",
-    "HED": ""
+    "Description": "Reaction time is measure as the time of button press minus the time of test item presentation"
   },
   "cue_location": {
     "LongName": "For task-posner, refers to location of Cue",
