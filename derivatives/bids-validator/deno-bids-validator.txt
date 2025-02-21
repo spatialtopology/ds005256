@@ -300,7 +300,7 @@
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv
 		/sub-0001/ses-01/func/sub-0001_ses-01_task-alignvideo_acq-mb8_run-02_events.tsv
 
-		4221 more files with the same issue
+		4219 more files with the same issue
 
 		[33mSliceTiming[39m
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
@@ -352,19 +352,12 @@ This design is suspiciously long.
 
 [36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
 
-	[31m[ERROR] PARTICIPANT_ID_MISMATCH Subject directories found in this dataset did not match the values in
-the participant_id column found in the participants.tsv file.
-[39m
-		/participants.tsv
-
-[36m	Please visit https://neurostars.org/search?q=PARTICIPANT_ID_MISMATCH for existing conversations about this issue.[39m
-
 	[31m[ERROR] HED_INTERNAL_ERROR An internal error occurred during HED validation.[39m
 		[31mNone[39m
 		/task-fractional_events.json - TypeError: Cannot convert undefined or null to object
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - TypeError: Cannot convert undefined or null to object
 
-		203 more files with the same issue
+		201 more files with the same issue
 
 		[31mGENERIC_ERROR[39m
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
@@ -394,8 +387,8 @@ the participant_id column found in the participants.tsv file.
 
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
-          26373 Files, 2.23 TB               alignvideo              MRI                  
-          118 - Subjects 4 - Sessions        faces                                        
+          26371 Files, 2.23 TB               alignvideo              MRI                  
+          117 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
                                              narratives                                   
                                              shortvideo                                   
