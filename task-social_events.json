@@ -56,7 +56,6 @@
             ,
             "low_cue": 
                 "((Task-stimulus-role/Cue), (Categorical-level-value/Low))"
-            
         }
     },
     "stimulusintensity": {
@@ -76,7 +75,6 @@
             ,
             "low_stim": 
                 "((Task-event-role/Experimental-stimulus), (Categorical-level-value/Low))"
-            
         }
     },
     "rating_value": {
