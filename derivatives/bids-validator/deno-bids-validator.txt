@@ -323,6 +323,15 @@
 
 [36m	Please visit https://neurostars.org/search?q=EVENT_ONSET_ORDER for existing conversations about this issue.[39m
 
+	[33m[WARNING] HED_WARNING The validation on this HED string returned a warning.[39m
+		[33mSIDECAR_KEY_MISSING[39m
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "falsebelief" was referenced in column "value" of file "undefined", but it was not found in any associated sidecar. TSV line: 2. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "falsebelief" was referenced in column "value" of file "undefined", but it was not found in any associated sidecar. TSV line: 3. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+
+		35928 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
+
 	[33m[WARNING] TSV_ADDITIONAL_COLUMNS_UNDEFINED A TSV file has extra columns which are not defined in its associated JSON sidecar[39m
 		[33mquestion[39m
 		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv
@@ -340,15 +349,6 @@
 		1811 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.[39m
-
-	[33m[WARNING] HED_WARNING The validation on this HED string returned a warning.[39m
-		[33mSIDECAR_KEY_MISSING[39m
-		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "stimulus" was referenced in column "trial_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 4. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
-		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "stimulus" was referenced in column "trial_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 8. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
-
-		21600 more files with the same issue
-
-[36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
 
 	[33m[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
 This design is suspiciously short.
@@ -370,41 +370,33 @@ This design is suspiciously long.
 
 [36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
 
+	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
+		[31mPLACEHOLDER_INVALID[39m
+		/task-social_events.json - ERROR: [PLACEHOLDER_INVALID] Invalid placeholder - "Task-event-role/Experimental-stimulus/#". Sidecar key: "stim_file". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#placeholder-invalid.)
+		/task-social_events.json - ERROR: [PLACEHOLDER_INVALID] Invalid placeholder - "Categorical-class-value/True/#". Sidecar key: "pain_stimulus_delivery_success". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#placeholder-invalid.)
+
+		[31mTAG_EXPRESSION_REPEATED[39m
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 258, 259. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 258, 259. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
+
+		50249 more files with the same issue
+
+		[31mTAG_EXTENSION_INVALID[39m
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_EXTENSION_INVALID] "cue" appears as "Property/Task-property/Task-stimulus-role/Cue" and cannot be used as an extension. Indices ([object Object], ). TSV line: 2. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
+		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_EXTENSION_INVALID] "cue" appears as "Property/Task-property/Task-stimulus-role/Cue" and cannot be used as an extension. Indices ([object Object], ). TSV line: 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extension-invalid.)
+
+		43204 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
+
 	[31m[ERROR] HED_INTERNAL_ERROR An internal error occurred during HED validation.[39m
-		[31mNone[39m
-		/task-fractional_events.json - TypeError: Cannot convert undefined or null to object
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - TypeError: Cannot convert undefined or null to object
-
-		201 more files with the same issue
-
 		[31mGENERIC_ERROR[39m
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 		/sub-0001/ses-02/func/sub-0001_ses-02_task-faces_acq-mb8_run-02_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
 
-		316 more files with the same issue
+		318 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.[39m
-
-	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
-		[31mPLACEHOLDER_INVALID[39m
-		/task-social_events.json - ERROR: [PLACEHOLDER_INVALID] HED value string "Data-value/Quantitative-value/Item-index/1-12" is missing a required placeholder. Sidecar key: "trial_index". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#placeholder-invalid.)
-		/task-social_events.json - ERROR: [PLACEHOLDER_INVALID] HED value string "Data-value/Quantitative-value/Item-interval/0-180" is missing a required placeholder. Sidecar key: "rating_value". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#placeholder-invalid.)
-
-		11 more files with the same issue
-
-		[31mTAG_EXPRESSION_REPEATED[39m
-		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Task-stimulus-role/Cue". TSV line: 2. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
-		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Task-stimulus-role/Cue". TSV line: 2. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
-
-		343224 more files with the same issue
-
-		[31mTAG_GROUP_ERROR[39m
-		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_GROUP_ERROR] Tag "Data-marker/Temporal-marker/Onset" is only allowed inside of a top-level tag group. TSV line: 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-group-error.)
-		/sub-0133/ses-01/func/sub-0133_ses-01_task-social_acq-mb8_run-01_events.tsv - ERROR: [TAG_GROUP_ERROR] Tag "Data-value/Spatiotemporal-value/Temporal-value/Duration" is only allowed inside of a top-level tag group. TSV line: 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-group-error.)
-
-		110464 more files with the same issue
-
-[36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
 
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
