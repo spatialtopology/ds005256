@@ -42,7 +42,7 @@
     "trial_index": {
         "LongName": "Trial order",
         "Description": "Indicates the trial order. There are a total of 12 trials in each run.",
-        "HED": "Data-value/Quantitative-value/Item-index/1-12"
+        "HED": "Data-value/Quantitative-value/Item-index/#"
     },
     "cue": {
         "LongName": "A cue to indicate level of upcoming stimulus intensity",
@@ -52,11 +52,10 @@
             "low_cue": "Data points on the cue indicate that past participants perceived the upcoming stimulus as having low intensity"
         },
         "HED": {
-            "high_cue": "Task-stimulus-role/Cue, Categorical-level-value/High"
+            "high_cue": "((Task-stimulus-role/Cue), (Categorical-level-value/High))"
             ,
             "low_cue": 
-                "Task-stimulus-role/Cue, Categorical-level-value/Low"
-            
+                "((Task-stimulus-role/Cue), (Categorical-level-value/Low))"
         }
     },
     "stimulusintensity": {
@@ -69,20 +68,19 @@
         },
         "HED": {
             "high_stim": 
-                "Task-event-role/Experimental-stimulus, Categorical-level-value/High"
+                "((Task-event-role/Experimental-stimulus), (Categorical-level-value/High))"
             ,
             "med_stim": 
-                "Task-event-role/Experimental-stimulus, Categorical-level-value/Medium"
+                "((Task-event-role/Experimental-stimulus), (Categorical-level-value/Medium))"
             ,
             "low_stim": 
-                "Task-event-role/Experimental-stimulus, Categorical-level-value/Low"
-            
+                "((Task-event-role/Experimental-stimulus), (Categorical-level-value/Low))"
         }
     },
     "rating_value": {
         "LongName": "Rating value",
         "Description": "The rating degree on a semicircle scale",
-        "HED": "Data-value/Quantitative-value/Item-interval/0-180"
+        "HED": "Data-value/Quantitative-value/Item-interval/#"
     },
     "rating_glmslabel": {
         "LongName": "Labels of generalized Labeled Magnitude Scale (gLMS)",
@@ -96,12 +94,12 @@
             "Very Strong": "Very Strong",
             "Strongest sensation of any kind": "Strongest sensation of any kind"
         },
-        "HED": "Data-marker"
+        "HED": "Informational-property/Label/#"
     },
     "rating_value_fillna": {
         "LongName": "Rating value with imputed values from mouse trajectory data",
         "Description": "Using mouse trajectory data, we extract the last degree recorded on the scale. From this, we impute degrees for cells that were originally marked n/a",
-        "HED": "Data-value/Quantitative-value/Item-interval/0-180"
+        "HED": "Data-value/Quantitative-value/Item-interval/#"
     },
     "rating_glmslabel_fillna": {
         "LongName": "Labels of generalized Labeled Magnitude Scale (gLMS)",
@@ -115,54 +113,49 @@
             "Very Strong": "Very Strong",
             "Strongest sensation of any kind": "Strongest sensation of any kind"
         },
-        "HED": "Data-marker"
+        "HED": "Informational-property/Label/#"
     },
     "rating_mouseonset": {
         "LongName": "Onset time of mouse trajectory",
         "Description": "the time when the participant started moving the trackball in relation to the rating epoch",
-        "Units": "s",
-        "HED": "Data-marker/Temporal-marker/Onset"
+        "Units": "s"
     },
     "rating_mousedur": {
         "LongName": "The period of time during which an event occurs.",
         "Description": "Refers to duration of cue presentation or response time towards target item. (a) For valid_cue and invalid_cue, duration refers to the image presentation of cue. (b) For target_response, duration refers to response time to respond to target item. It is calculated as the interval between onset of button press and onset of target presentation ",
         "Units": "s",
-        "HED": "Data-value/Spatiotemporal-value/Temporal-value/Duration"
+        "HED": "(Duration/#, (Label/Entire-event-time))"
     },
     "stim_file": {
         "LongName": "stimulus file path",
         "Description": "Represents the location of the stimulus file (such as an image, video, or audio file) presented at the given onset time.",
-        "HED": "Task-event-role/Experimental-stimulus"
+        "HED": "Task-event-role/Experimental-stimulus/#"
     },
     "pain_onset_ttl1": {
         "LongName": "Onset time of pain stimulus (ramp up)",
         "Description": "Marks the start of an pain stimulus trigger.",
-        "Units": "s",
-        "HED": "Data-marker/Temporal-marker/Onset"
+        "Units": "s"
     },
     "pain_onset_ttl2": {
         "LongName": "Onset time of pain stimulus (reach plateau)",
         "Description": "Marks the start of when pain stimulus reaches intended temperature and starts plateau.",
-        "Units": "s",
-        "HED": "Data-marker/Temporal-marker/Onset"
+        "Units": "s"
     },
     "pain_onset_ttl3": {
         "LongName": "Onset time of pain stimulus (ramp down)",
         "Description": "Marks the end of an pain plateau.",
-        "Units": "s",
-        "HED": "Data-marker/Temporal-marker/Onset"
+        "Units": "s"
     },
     "pain_onset_ttl4": {
         "LongName": "Onset time of pain stimulus (baseline)",
         "Description": "Marks the end of a pain stimulus trigger, returning to baseline.",
-        "Units": "s",
-        "HED": "Data-marker/Temporal-marker/Onset"
+        "Units": "s"
     },
     "pain_stimulus_delivery_success": {
         "LongName": "Onset time of pain stimulus (baseline)",
         "Description": "Marks the end of a pain stimulus trigger, returning to baseline.",
         "Units": "s",
-        "HED": "Data-value/Categorical-value/Categorical-class-value/True"
+        "HED": "Categorical-class-value/True/#"
     },
     "cognitive_correct_response": {
         "LongName": "Correct response for the rotated image",

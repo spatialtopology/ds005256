@@ -2,19 +2,18 @@
   "onset": {
     "LongName": "Onset time of event",
     "Description": "Marks the start of an ongoing event of temporal extent.",
-    "Units": "s",
-    "HED": "Property/Data-property/Data-marker/Temporal-marker/Onset"
+    "Units": "s"
   },
   "duration": {
     "LongName": "The period of time during which an event occurs. Refers to Image duration or response time after stimulus depending on event_type",
     "Description": "a. For falsebelief and falsephoto trial types, duration refers to the image presentations of falsebelief and falsephoto stories. b. For rating_falsebelief and rating_falsephoto, duration refers to the response time to answer true false questions, followed by falsebelief or flasephoto stimulu",
     "Units": "s",
-    "HED": "Property/Data-property/Data-value/Spatiotemporal-value/Temporal-value/Duration"
+    "HED": "(Duration/#, (Label/Entire-event-time))"
   },
   "subtask_type": {
     "LongName": "Type of task. Options are task-tomsaxe, task-tomspunt, task-posner, and task-memory",
     "Description": "Spell out the name of each task",
-    "HED": ""
+    "HED": "Organizational-property/Task/#"
   },
   "response_accuracy": {
     "LongName": "Correct or Incorrect response",
@@ -150,6 +149,6 @@
   "trial_index": {
     "LongName": "Trial Index",
     "Description": "Index of trial, which encompasses cue and target events",
-    "HED": "Property/Data-property/Data-value/Quantitative-value/Item-index"
+    "HED": "Quantitative-value/Item-index/#"
   }
 }
