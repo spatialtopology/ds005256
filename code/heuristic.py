@@ -36,7 +36,7 @@ protocols2fix.update({
             # pepolar for fMRI
             # problematic case -- multiple identically named pepolar fieldmap runs
             # I guess we will just sacrifice ability to detect canceled runs here.
-            # And we cannot just use _run+ since it would increment indepdently
+            # And we cannot just use _run+ since it would increment independently
             # for ap and then for pa.  We will rely on having ap preceding pa.
             # Added  _acq-mb8  so they match the one in funcs
             ('func_task-discorr_acq-ap', r'fmap-epi_dir-ap_acq-mb8_run+'),
