@@ -84,8 +84,8 @@
       "left": "Action/Move/Move-body-part/Move-upper-extremity/Press, Relation/Spatial-relation/Left-side-of",
       "old": "Action/Move/Move-body-part/Move-upper-extremity/Press",
       "new": "Action/Move/Move-body-part/Move-upper-extremity/Press",
-      "yes": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/True",
-      "no": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/False"
+      "yes": "(Participant-Response/#, Categorical-class-value/True)",
+      "no": "(Participant-Response/#, Categorical-class-value/False)"
     }
   },
   "normative_response": {
