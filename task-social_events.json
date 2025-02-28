@@ -18,9 +18,9 @@
             "cognitive": "The stimuli being delivered is an image with two figures; participants are prompted to mentally rotate the figures and decide whether they are same or different"
         },
         "HED": {
-            "pain": "Sensory-attribute/Somatic-attribute/Pain",
-            "vicarious": "Action/Think/Judge",
-            "cognitive": "Action/Think/Discriminate"
+            "pain": "(Condition-variable/#, Sensory-attribute/Somatic-attribute/Pain)",
+            "vicarious": "(Condition-variable/#, Action/Think/Judge)",
+            "cognitive": "(Condition-variable/#, Action/Think/Discriminate)"
         }
     },
     "trial_type": {
@@ -162,8 +162,8 @@
             "diff": "The two figures are different"
         },
         "HED": {
-            "same": "Action/Think/Discriminate",
-            "diff": "Action/Think/Discriminate"
+            "same": "(Intended-effect, Action/Think/Discriminate, Categorical-judgment-value/Same)",
+            "diff": "(Intended-effect, Action/Think/Discriminate, Categorical-judgment-value/Different)"
         }
     },
     "cognitive_participant_response": {
