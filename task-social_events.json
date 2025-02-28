@@ -33,7 +33,7 @@
             "outcomerating": "Participants provided ratings on their subjective experience of cognitive effort, vicarious pain, or somatic pain for 4 seconds"
         },
         "HED": {
-            "cue": "Task-stimulus-role/Cue",
+            "cue": "(Visual-presentation, Task-stimulus-role/Cue)",
             "expectrating": "Action/Think/Encode",
             "stim": "Action/Perceive",
             "outcomerating": "Action/Think/Encode"
@@ -152,10 +152,9 @@
         "Units": "s"
     },
     "pain_stimulus_delivery_success": {
-        "LongName": "Onset time of pain stimulus (baseline)",
-        "Description": "Marks the end of a pain stimulus trigger, returning to baseline.",
-        "Units": "s",
-        "HED": "Categorical-class-value/True/#"
+        "LongName": "Success status of the pain delivery",
+        "Description": "Success status of the pain delivery",
+        "HED": "(Somatic-presentation, Experiment-procedure)"
     },
     "cognitive_correct_response": {
         "LongName": "Correct response for the rotated image",
