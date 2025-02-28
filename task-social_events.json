@@ -78,7 +78,7 @@
     "rating_value": {
         "LongName": "Rating value",
         "Description": "The rating degree on a semicircle scale",
-        "HED": "Data-value/Quantitative-value/Item-interval/#"
+        "HED": "(Data-source-type/Participant-generated, Data-value/Quantitative-value/Item-interval/#)"
     },
     "rating_glmslabel": {
         "LongName": "Labels of generalized Labeled Magnitude Scale (gLMS)",
@@ -97,7 +97,7 @@
     "rating_value_fillna": {
         "LongName": "Rating value with imputed values from mouse trajectory data",
         "Description": "Using mouse trajectory data, we extract the last degree recorded on the scale. From this, we impute degrees for cells that were originally marked n/a",
-        "HED": "Data-value/Quantitative-value/Item-interval/#"
+        "HED": "(Data-source-type/Computed-prediction, Data-value/Quantitative-value/Item-interval/#)"
     },
     "rating_glmslabel_fillna": {
         "LongName": "Labels of generalized Labeled Magnitude Scale (gLMS)",
