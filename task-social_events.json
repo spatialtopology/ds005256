@@ -152,7 +152,14 @@
     "pain_stimulus_delivery_success": {
         "LongName": "Success status of the pain delivery",
         "Description": "Success status of the pain delivery",
-        "HED": "(Somatic-presentation, Experiment-procedure)"
+	"Levels": {
+		"success": "Success",
+		"fail": "Some technical issue prevented stimuli delivery"
+	},
+        "HED": {
+		"success": "(Somatic-presentation, Experiment-procedure)",
+		"fail": "Mishap"
+	}
     },
     "cognitive_correct_response": {
         "LongName": "Correct response for the rotated image",
