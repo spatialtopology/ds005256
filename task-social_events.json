@@ -92,7 +92,15 @@
             "Very Strong": "Very Strong",
             "Strongest sensation of any kind": "Strongest sensation of any kind"
         },
-        "HED": "Informational-property/Label/#"
+        "HED": {
+            "No sensation": "(Data-source-type/Participant-generated, Categorical-judgment-value/No-sensation)",
+            "Barely detectable": "(Data-source-type/Participant-generated, Categorical-judgment-value/Barely-detectable)",
+            "Weak": "(Data-source-type/Participant-generated, Categorical-judgment-value/Weak)",
+            "Moderate": "(Data-source-type/Participant-generated, Categorical-judgment-value/Moderate)",
+            "Strong": "(Data-source-type/Participant-generated, Categorical-judgment-value/Strong)",
+            "Very Strong": "(Data-source-type/Participant-generated, Categorical-judgment-value/Very-Strong)",
+            "Strongest sensation of any kind": "(Data-source-type/Participant-generated, Categorical-judgment-value/Strongest-sensation-of-any-kind)"
+        }
     },
     "rating_value_fillna": {
         "LongName": "Rating value with imputed values from mouse trajectory data",
@@ -111,7 +119,15 @@
             "Very Strong": "Very Strong",
             "Strongest sensation of any kind": "Strongest sensation of any kind"
         },
-        "HED": "Informational-property/Label/#"
+        "HED": {
+            "No sensation": "(Data-source-type/Computed-prediction, Categorical-judgment-value/No-sensation)",
+            "Barely detectable": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Barely-detectable)",
+            "Weak": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Weak)",
+            "Moderate": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Moderate)",
+            "Strong": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Strong)",
+            "Very Strong": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Very-Strong)",
+            "Strongest sensation of any kind": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Strongest-sensation-of-any-kind)"
+        }
     },
     "rating_mouseonset": {
         "LongName": "Onset time of mouse trajectory",
