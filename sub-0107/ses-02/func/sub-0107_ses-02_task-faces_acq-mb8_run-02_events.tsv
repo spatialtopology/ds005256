@@ -10,7 +10,6 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 13.879	1.402	rating_mouse_trajectory	0.5692	sex	pain	female	WC	young	n/a
 16.598	1.316	face	n/a	sex	happy	female	WC	young	task-faces/1Happy_Model5_1Female_1WC_1Young.mp4
 17.914	0.802	rating	0.466	sex	happy	female	WC	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	happy	female	WC	young	n/a
 19.829	1.336	face	n/a	sex	anger	female	African	young	task-faces/5Anger_Model1_1Female_3African_1Young.mp4
 21.165	0.952	rating	0.5773	sex	anger	female	African	young	n/a
 21.565	0.552	rating_mouse_trajectory	0.5773	sex	anger	female	African	young	n/a
@@ -31,7 +30,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	sex	happy	female	WC	young	n/a
 41.723	0.802	rating_mouse_trajectory	0.6481	sex	happy	female	EA	old	n/a
 45.339	1.336	face	n/a	sex	surprise	female	African	young	task-faces/2Surprise_Model5_1Female_3African_1Young.mp4
 46.675	0.785	rating	0.466	sex	surprise	female	African	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	surprise	female	African	young	n/a
 49.586	1.341	face	n/a	sex	happy	female	African	old	task-faces/1Happy_Model3_1Female_3African_2Old.mp4
 50.927	0.868	rating	0.2132	sex	happy	female	African	old	n/a
 51.377	0.418	rating_mouse_trajectory	0.2132	sex	happy	female	African	old	n/a
@@ -217,13 +215,11 @@ n/a	n/a	rating_mouse_trajectory	0.466	sex	surprise	female	African	young	n/a
 315.129	0.418	rating_mouse_trajectory	0.3426	sex	surprise	female	EA	old	n/a
 316.449	1.314	face	n/a	sex	happy	female	WC	old	task-faces/1Happy_Model2_1Female_1WC_2Old.mp4
 317.763	0.935	rating	0.466	sex	happy	female	WC	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	happy	female	WC	old	n/a
 320.685	1.313	face	n/a	sex	disgust	male	WC	old	task-faces/4Disgust_Model2_2Male_1WC_2Old.mp4
 321.998	1.769	rating	0.3103	sex	disgust	male	WC	old	n/a
 322.598	1.169	rating_mouse_trajectory	0.3103	sex	disgust	male	WC	old	n/a
 324.918	1.315	face	n/a	sex	anger	male	WC	old	task-faces/5Anger_Model4_2Male_1WC_2Old.mp4
 326.233	0.985	rating	0.466	sex	anger	male	WC	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	anger	male	WC	old	n/a
 329.151	1.317	face	n/a	sex	happy	female	African	young	task-faces/1Happy_Model3_1Female_3African_1Young.mp4
 330.468	1.869	rating	0.3386	sex	happy	female	African	young	n/a
 331.885	0.452	rating_mouse_trajectory	0.3386	sex	happy	female	African	young	n/a

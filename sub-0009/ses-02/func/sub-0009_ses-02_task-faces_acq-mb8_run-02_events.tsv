@@ -118,7 +118,6 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 167.258	0.251	rating_mouse_trajectory	0.3244	sex	pleasure	female	EA	old	n/a
 169.663	1.314	face	n/a	sex	disgust	female	WC	old	task-faces/4Disgust_Model1_1Female_1WC_2Old.mp4
 170.976	0.384	rating	0.466	sex	disgust	female	WC	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	disgust	female	WC	old	n/a
 173.897	1.314	face	n/a	sex	anger	male	African	young	task-faces/5Anger_Model5_2Male_3African_1Young.mp4
 175.211	0.484	rating	0.0	sex	anger	male	African	young	n/a
 175.361	0.334	rating_mouse_trajectory	0.0	sex	anger	male	African	young	n/a
@@ -127,13 +126,11 @@ n/a	n/a	rating_mouse_trajectory	0.466	sex	disgust	female	WC	old	n/a
 179.396	0.284	rating_mouse_trajectory	0.0	sex	pain	male	African	old	n/a
 182.08	1.301	face	n/a	sex	disgust	female	EA	young	task-faces/4Disgust_Model4_1Female_2EA_1Young.mp4
 183.381	0.301	rating	0.466	sex	disgust	female	EA	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	disgust	female	EA	young	n/a
 185.296	1.303	face	n/a	sex	happy	female	African	old	task-faces/1Happy_Model3_1Female_3African_2Old.mp4
 186.599	0.634	rating	0.0	sex	happy	female	African	old	n/a
 186.966	0.267	rating_mouse_trajectory	0.0	sex	happy	female	African	old	n/a
 190.504	1.314	face	n/a	sex	anger	female	EA	old	task-faces/5Anger_Model5_1Female_2EA_2Old.mp4
 191.818	0.2	rating	0.466	sex	anger	female	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	anger	female	EA	old	n/a
 195.739	1.314	face	n/a	sex	sad	male	WC	old	task-faces/6Sad_Model2_2Male_1WC_2Old.mp4
 197.053	0.551	rating	0.0	sex	sad	male	WC	old	n/a
 197.27	0.334	rating_mouse_trajectory	0.0	sex	sad	male	WC	old	n/a
@@ -142,7 +139,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	sex	anger	female	EA	old	n/a
 201.754	0.305	rating_mouse_trajectory	0.0	sex	anger	male	EA	young	n/a
 204.209	1.314	face	n/a	sex	fear	female	EA	old	task-faces/3Fear_Model4_1Female_2EA_2Old.mp4
 205.523	0.237	rating	0.466	sex	fear	female	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	fear	female	EA	old	n/a
 208.43	1.311	face	n/a	sex	fear	male	EA	young	task-faces/3Fear_Model4_2Male_2EA_1Young.mp4
 209.741	0.502	rating	0.0	sex	fear	male	EA	young	n/a
 209.791	0.452	rating_mouse_trajectory	0.0	sex	fear	male	EA	young	n/a
@@ -178,10 +174,8 @@ n/a	n/a	rating_mouse_trajectory	0.466	sex	fear	female	EA	old	n/a
 254.474	0.252	rating_mouse_trajectory	0.0	sex	anger	female	African	young	n/a
 257.08	1.313	face	n/a	sex	disgust	female	WC	young	task-faces/4Disgust_Model2_1Female_1WC_1Young.mp4
 258.393	0.501	rating	0.466	sex	disgust	female	WC	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	disgust	female	WC	young	n/a
 261.297	1.314	face	n/a	sex	fear	female	EA	young	task-faces/3Fear_Model1_1Female_2EA_1Young.mp4
 262.611	0.3	rating	0.466	sex	fear	female	EA	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	fear	female	EA	young	n/a
 265.53	1.316	face	n/a	sex	fear	female	WC	old	task-faces/3Fear_Model5_1Female_1WC_2Old.mp4
 266.846	1.535	rating	1.0	sex	fear	female	WC	old	n/a
 267.646	0.735	rating_mouse_trajectory	1.0	sex	fear	female	WC	old	n/a
@@ -208,7 +202,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	sex	fear	female	EA	young	n/a
 296.657	0.553	rating_mouse_trajectory	0.0	sex	sad	male	EA	young	n/a
 299.513	2.046	face	n/a	sex	pleasure	female	EA	young	task-faces/8Pleasure_Model1_1Female_2EA_1Young.mp4
 301.559	0.018	rating	0.466	sex	pleasure	female	EA	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	pleasure	female	EA	young	n/a
 304.464	1.297	face	n/a	sex	sad	male	African	young	task-faces/6Sad_Model4_2Male_3African_1Young.mp4
 305.761	0.534	rating	0.0	sex	sad	male	African	young	n/a
 306.044	0.251	rating_mouse_trajectory	0.0	sex	sad	male	African	young	n/a
@@ -217,7 +210,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	sex	pleasure	female	EA	young	n/a
 309.979	0.351	rating_mouse_trajectory	0.0	sex	pain	male	African	young	n/a
 311.633	2.047	face	n/a	sex	pain	female	EA	young	task-faces/7Pain_Model2_1Female_2EA_1Young.mp4
 313.68	0.017	rating	0.466	sex	pain	female	EA	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	sex	pain	female	EA	young	n/a
 316.597	1.301	face	n/a	sex	happy	female	EA	old	task-faces/1Happy_Model3_1Female_2EA_2Old.mp4
 317.899	0.684	rating	0.0	sex	happy	female	EA	old	n/a
 318.282	0.301	rating_mouse_trajectory	0.0	sex	happy	female	EA	old	n/a

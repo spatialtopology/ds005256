@@ -46,13 +46,11 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 67.305	0.504	rating_mouse_trajectory	0.3649	age	pleasure	female	WC	young	n/a
 69.712	1.311	face	n/a	age	disgust	female	EA	young	task-faces/4Disgust_Model3_1Female_2EA_1Young.mp4
 71.023	0.552	rating	0.466	age	disgust	female	EA	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	age	disgust	female	EA	young	n/a
 73.929	2.046	face	n/a	age	pain	female	WC	old	task-faces/7Pain_Model2_1Female_1WC_2Old.mp4
 75.975	0.968	rating	0.5409	age	pain	female	WC	old	n/a
 76.375	0.568	rating_mouse_trajectory	0.5409	age	pain	female	WC	old	n/a
 78.897	1.313	face	n/a	age	happy	male	EA	old	task-faces/1Happy_Model4_2Male_2EA_2Old.mp4
 80.21	1.468	rating	0.466	age	happy	male	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	age	happy	male	EA	old	n/a
 85.13	1.316	face	n/a	age	anger	female	African	young	task-faces/5Anger_Model3_1Female_3African_1Young.mp4
 86.445	1.735	rating	0.377	age	anger	female	African	young	n/a
 87.162	1.018	rating_mouse_trajectory	0.377	age	anger	female	African	young	n/a
@@ -124,7 +122,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	age	happy	male	EA	old	n/a
 178.779	0.452	rating_mouse_trajectory	0.3932	age	happy	male	WC	old	n/a
 179.994	2.036	face	n/a	age	pleasure	male	EA	old	task-faces/8Pleasure_Model1_2Male_2EA_2Old.mp4
 182.031	0.585	rating	0.466	age	pleasure	male	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	age	pleasure	male	EA	old	n/a
 184.946	1.303	face	n/a	age	fear	female	EA	old	task-faces/3Fear_Model3_1Female_2EA_2Old.mp4
 186.249	0.918	rating	0.5712	age	fear	female	EA	old	n/a
 186.666	0.502	rating_mouse_trajectory	0.5712	age	fear	female	EA	old	n/a
@@ -235,7 +232,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	age	pleasure	male	EA	old	n/a
 336.972	0.453	rating_mouse_trajectory	0.6359	age	sad	male	EA	old	n/a
 339.313	1.31	face	n/a	age	sad	male	WC	young	task-faces/6Sad_Model4_2Male_1WC_1Young.mp4
 340.623	0.935	rating	0.466	age	sad	male	WC	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	age	sad	male	WC	young	n/a
 344.529	1.313	face	n/a	age	fear	male	EA	young	task-faces/3Fear_Model5_2Male_2EA_1Young.mp4
 345.842	1.168	rating	0.1323	age	fear	male	EA	young	n/a
 346.392	0.618	rating_mouse_trajectory	0.1323	age	fear	male	EA	young	n/a

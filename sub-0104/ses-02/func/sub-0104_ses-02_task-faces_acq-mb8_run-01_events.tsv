@@ -82,7 +82,6 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 118.104	0.967	rating_mouse_trajectory	0.5752	age	sad	female	EA	old	n/a
 119.25	1.305	face	n/a	age	sad	female	EA	young	task-faces/6Sad_Model4_1Female_2EA_1Young.mp4
 120.555	n/a	rating	n/a	age	sad	female	EA	young	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	age	sad	female	EA	young	n/a
 123.48	1.309	face	n/a	age	fear	female	African	young	task-faces/3Fear_Model1_1Female_3African_1Young.mp4
 124.79	1.683	rating	0.5328	age	fear	female	African	young	n/a
 125.456	1.017	rating_mouse_trajectory	0.5328	age	fear	female	African	young	n/a
@@ -100,7 +99,6 @@ n/a	n/a	rating_mouse_trajectory	n/a	age	sad	female	EA	young	n/a
 141.696	1.017	rating_mouse_trajectory	0.6602	age	pain	male	African	young	n/a
 144.104	1.31	face	n/a	age	happy	female	African	young	task-faces/1Happy_Model5_1Female_3African_1Young.mp4
 145.414	n/a	rating	n/a	age	happy	female	African	young	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	age	happy	female	African	young	n/a
 147.338	1.311	face	n/a	age	disgust	male	African	old	task-faces/4Disgust_Model4_2Male_3African_2Old.mp4
 148.649	0.95	rating	0.7957	age	disgust	male	African	old	n/a
 149.232	0.367	rating_mouse_trajectory	0.7957	age	disgust	male	African	old	n/a
@@ -151,7 +149,6 @@ n/a	n/a	rating_mouse_trajectory	n/a	age	happy	female	African	young	n/a
 218.791	0.333	rating_mouse_trajectory	0.6117	age	happy	female	African	old	n/a
 220.351	1.308	face	n/a	age	surprise	female	WC	young	task-faces/2Surprise_Model1_1Female_1WC_1Young.mp4
 221.659	n/a	rating	n/a	age	surprise	female	WC	young	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	age	surprise	female	WC	young	n/a
 224.587	2.041	face	n/a	age	pleasure	female	WC	old	task-faces/8Pleasure_Model4_1Female_1WC_2Old.mp4
 226.628	1.867	rating	0.82	age	pleasure	female	WC	old	n/a
 227.044	1.45	rating_mouse_trajectory	0.82	age	pleasure	female	WC	old	n/a
@@ -235,7 +232,6 @@ n/a	n/a	rating_mouse_trajectory	n/a	age	surprise	female	WC	young	n/a
 335.268	1.217	rating_mouse_trajectory	0.5348	age	anger	male	EA	young	n/a
 337.809	1.311	face	n/a	age	surprise	male	WC	young	task-faces/2Surprise_Model2_2Male_1WC_1Young.mp4
 339.12	n/a	rating	n/a	age	surprise	male	WC	young	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	age	surprise	male	WC	young	n/a
 343.051	1.304	face	n/a	age	anger	female	EA	old	task-faces/5Anger_Model2_1Female_2EA_2Old.mp4
 344.355	0.733	rating	0.8139	age	anger	female	EA	old	n/a
 344.822	0.267	rating_mouse_trajectory	0.8139	age	anger	female	EA	old	n/a
@@ -247,7 +243,6 @@ n/a	n/a	rating_mouse_trajectory	n/a	age	surprise	male	WC	young	n/a
 353.992	1.183	rating_mouse_trajectory	0.9413	age	pleasure	female	EA	old	n/a
 357.483	1.311	face	n/a	age	sad	male	WC	young	task-faces/6Sad_Model4_2Male_1WC_1Young.mp4
 358.794	n/a	rating	n/a	age	sad	male	WC	young	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	age	sad	male	WC	young	n/a
 360.719	1.309	face	n/a	age	happy	male	EA	old	task-faces/1Happy_Model4_2Male_2EA_2Old.mp4
 362.028	1.117	rating	0.6177	age	happy	male	EA	old	n/a
 362.462	0.683	rating_mouse_trajectory	0.6177	age	happy	male	EA	old	n/a
@@ -271,7 +266,6 @@ n/a	n/a	rating_mouse_trajectory	n/a	age	sad	male	WC	young	n/a
 391.356	0.017	rating_mouse_trajectory	0.5307	age	pleasure	male	WC	young	n/a
 394.601	2.04	face	n/a	age	pleasure	male	EA	old	task-faces/8Pleasure_Model1_2Male_2EA_2Old.mp4
 396.641	n/a	rating	n/a	age	pleasure	male	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	age	pleasure	male	EA	old	n/a
 399.567	2.042	face	n/a	age	pain	female	EA	young	task-faces/7Pain_Model3_1Female_2EA_1Young.mp4
 401.61	1.017	rating	0.7006	age	pain	female	EA	young	n/a
 402.21	0.417	rating_mouse_trajectory	0.7006	age	pain	female	EA	young	n/a

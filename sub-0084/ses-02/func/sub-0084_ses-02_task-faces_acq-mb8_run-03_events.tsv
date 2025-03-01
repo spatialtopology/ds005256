@@ -1,10 +1,8 @@
 onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	stim_file
 3.832	1.333	face	n/a	intensity	anger	female	African	old	task-faces/5Anger_Model3_1Female_3African_2Old.mp4
 5.165	n/a	rating	n/a	intensity	anger	female	African	old	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	intensity	anger	female	African	old	n/a
 7.225	1.308	face	n/a	intensity	anger	female	EA	old	task-faces/5Anger_Model3_1Female_2EA_2Old.mp4
 8.533	n/a	rating	n/a	intensity	anger	female	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	intensity	anger	female	EA	old	n/a
 10.476	1.308	face	n/a	intensity	sad	male	WC	young	task-faces/6Sad_Model5_2Male_1WC_1Young.mp4
 11.784	0.633	rating	0.286	intensity	sad	male	WC	young	n/a
 12.234	0.183	rating_mouse_trajectory	0.286	intensity	sad	male	WC	young	n/a
@@ -130,7 +128,6 @@ n/a	n/a	rating_mouse_trajectory	n/a	intensity	anger	female	EA	old	n/a
 186.549	0.917	rating_mouse_trajectory	0.2294	intensity	disgust	male	EA	young	n/a
 188.355	1.312	face	n/a	intensity	sad	male	African	young	task-faces/6Sad_Model2_2Male_3African_1Young.mp4
 189.667	n/a	rating	n/a	intensity	sad	male	African	young	n/a
-n/a	n/a	rating_mouse_trajectory	n/a	intensity	sad	male	African	young	n/a
 193.575	1.31	face	n/a	intensity	sad	male	WC	old	task-faces/6Sad_Model1_2Male_1WC_2Old.mp4
 194.886	0.967	rating	0.1222	intensity	sad	male	WC	old	n/a
 195.736	0.117	rating_mouse_trajectory	0.1222	intensity	sad	male	WC	old	n/a

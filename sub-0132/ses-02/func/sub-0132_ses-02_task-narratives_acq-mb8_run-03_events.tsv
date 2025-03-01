@@ -3,7 +3,6 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 27.289	2.134	rating_feeling	816	578	Conflict with a god	swamp	Text	n/a
 28.289	1.134	feeling_mouse_trajectory	816	578	Conflict with a god	swamp	Text	n/a
 31.373	0.712	rating_expectation	960	707	Conflict with a god	swamp	Text	n/a
-n/a	n/a	expectation_mouse_trajectory	960	707	Conflict with a god	swamp	Text	n/a
 40.457	24.796	narrative_presentation	n/a	n/a	Adultery	swamp	Text	task-narratives/Narrative4Situation2.txt
 65.253	2.668	rating_feeling	702	543	Adultery	swamp	Text	n/a
 65.937	1.984	feeling_mouse_trajectory	702	543	Adultery	swamp	Text	n/a
@@ -53,7 +52,6 @@ n/a	n/a	expectation_mouse_trajectory	960	707	Conflict with a god	swamp	Text	n/a
 370.802	2.152	rating_feeling	788	603	Erroneous judgement	town	Text	n/a
 371.635	1.319	feeling_mouse_trajectory	788	603	Erroneous judgement	town	Text	n/a
 374.817	0.534	rating_expectation	960	707	Erroneous judgement	town	Text	n/a
-n/a	n/a	expectation_mouse_trajectory	960	707	Erroneous judgement	town	Text	n/a
 380.884	10.391	narrative_presentation	n/a	n/a	Revolt	town	Text	task-narratives/Narrative3Situation3.txt
 391.275	1.994	rating_feeling	904	661	Revolt	town	Text	n/a
 392.258	1.011	feeling_mouse_trajectory	904	661	Revolt	town	Text	n/a
@@ -71,7 +69,6 @@ n/a	n/a	expectation_mouse_trajectory	960	707	Erroneous judgement	town	Text	n/a
 459.417	1.319	expectation_mouse_trajectory	765	549	Deliverance	city	Text	n/a
 465.766	15.076	narrative_presentation	n/a	n/a	Remorse	city	Text	task-narratives/Narrative3Situation6.txt
 480.841	2.594	rating_feeling	960	707	Remorse	city	Text	n/a
-n/a	n/a	feeling_mouse_trajectory	960	707	Remorse	city	Text	n/a
 484.858	2.993	rating_expectation	1081	624	Remorse	city	Text	n/a
 485.391	2.459	expectation_mouse_trajectory	1081	624	Remorse	city	Text	n/a
 492.926	36.85	narrative_presentation	n/a	n/a	Loss of loved one	forest	Text	task-narratives/Narrative3Situation7.txt
@@ -88,4 +85,3 @@ n/a	n/a	feeling_mouse_trajectory	960	707	Remorse	city	Text	n/a
 586.131	1.872	rating_feeling	837	589	Discovery of dishonour of loved one	forest	Text	n/a
 587.065	0.938	feeling_mouse_trajectory	837	589	Discovery of dishonour of loved one	forest	Text	n/a
 590.151	1.653	rating_expectation	960	707	Discovery of dishonour of loved one	forest	Text	n/a
-n/a	n/a	expectation_mouse_trajectory	960	707	Discovery of dishonour of loved one	forest	Text	n/a

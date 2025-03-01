@@ -43,7 +43,6 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 60.113	0.551	rating_mouse_trajectory	0.3528	intensity	sad	female	African	old	n/a
 62.671	1.311	face	n/a	intensity	surprise	male	EA	old	task-faces/2Surprise_Model1_2Male_2EA_2Old.mp4
 63.982	0.585	rating	0.466	intensity	surprise	male	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	male	EA	old	n/a
 66.903	1.313	face	n/a	intensity	anger	male	WC	young	task-faces/5Anger_Model4_2Male_1WC_1Young.mp4
 68.217	0.835	rating	0.5631	intensity	anger	male	WC	young	n/a
 68.583	0.468	rating_mouse_trajectory	0.5631	intensity	anger	male	WC	young	n/a
@@ -118,7 +117,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	male	EA	old	n/a
 167.687	1.802	rating_mouse_trajectory	0.7047	intensity	pain	male	EA	young	n/a
 170.554	2.052	face	n/a	intensity	pain	male	African	young	task-faces/7Pain_Model4_2Male_3African_1Young.mp4
 172.606	0.309	rating	0.466	intensity	pain	male	African	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	intensity	pain	male	African	young	n/a
 175.529	1.311	face	n/a	intensity	sad	male	WC	old	task-faces/6Sad_Model1_2Male_1WC_2Old.mp4
 176.84	0.874	rating	0.3426	intensity	sad	male	WC	old	n/a
 177.074	0.641	rating_mouse_trajectory	0.3426	intensity	sad	male	WC	old	n/a
@@ -199,7 +197,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	intensity	pain	male	African	young	n/a
 283.864	0.602	rating_mouse_trajectory	0.286	intensity	sad	female	African	young	n/a
 286.453	2.045	face	n/a	intensity	pain	male	WC	young	task-faces/7Pain_Model5_2Male_1WC_1Young.mp4
 288.499	0.435	rating	0.466	intensity	pain	male	WC	young	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	intensity	pain	male	WC	young	n/a
 290.419	2.048	face	n/a	intensity	pleasure	female	WC	old	task-faces/8Pleasure_Model1_1Female_1WC_2Old.mp4
 292.467	1.085	rating	0.375	intensity	pleasure	female	WC	old	n/a
 292.567	0.985	rating_mouse_trajectory	0.375	intensity	pleasure	female	WC	old	n/a
@@ -274,7 +271,6 @@ n/a	n/a	rating_mouse_trajectory	0.466	intensity	pain	male	WC	young	n/a
 397.172	0.709	rating_mouse_trajectory	0.371	intensity	disgust	female	EA	old	n/a
 399.096	2.045	face	n/a	intensity	pain	male	EA	old	task-faces/7Pain_Model1_2Male_2EA_2Old.mp4
 401.141	0.39	rating	0.466	intensity	pain	male	EA	old	n/a
-n/a	n/a	rating_mouse_trajectory	0.466	intensity	pain	male	EA	old	n/a
 405.064	1.312	face	n/a	intensity	disgust	female	WC	young	task-faces/4Disgust_Model5_1Female_1WC_1Young.mp4
 406.376	1.75	rating	0.3568	intensity	disgust	female	WC	young	n/a
 406.976	1.15	rating_mouse_trajectory	0.3568	intensity	disgust	female	WC	young	n/a
