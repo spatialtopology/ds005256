@@ -47,20 +47,20 @@
       "block_question_presentation": "Prior to eight blocks of trials, the question of interest is presented on screen. For example, 'Is the person admiring someone?' or 'Is the person lifting something?'"
     },
     "HED": {
-      "dummy": "Action/Think/Encode",
-      "study": "Action/Think/Encode",
-      "test": "Action/Think/Recall",
-      "distraction_math": "Action/Think/Count",
-      "valid_cue": "Property/Task-property/Task-stimulus-role/Cue, Property/Data-property/Data-value/Categorical-value/Categorical-class-value/Valid",
-      "invalid_cue": "Property/Task-property/Task-stimulus-role/Cue, Property/Data-property/Data-value/Categorical-value/Categorical-class-value/Invalid",
-      "target_response": "Property/Task-property/Task-stimulus-role/Target, Property/Task-property/Task-event-role/Participant-response",
+      "dummy": "(Event/Experiment-structure, Action/Think/Encode)",
+      "study": "(Event/Experiment-structure, Action/Think/Encode)",
+      "test": "(Event/Experiment-structure, Action/Think/Recall)",
+      "distraction_math": "(Event/Experiment-structure, Action/Think/Count)",
+      "valid_cue": "(Task-stimulus-role/Cue, Categorical-class-value/Valid)",
+      "invalid_cue": "(Task-stimulus-role/Cue, Categorical-class-value/Invalid)",
+      "target_response": "(Task-stimulus-role/Target, Task-event-role/Participant-response)",
       "stimulus": "Sensory-event, Experimental-stimulus, Visual-presentation, Item/Language-item/Textblock",
-      "response": "Property/Task-property/Task-event-role/Participant-response, Action/Think/Judge",
-      "howhand": "Action/Think/Judge",
-      "whyhand": "Action/Think/Judge",
-      "whyface": "Action/Think/Judge",
-      "howface": "Action/Think/Judge",
-      "block_question_presentation": "Action/Perform/Read"
+      "response": "(Participant-response, Action/Think/Judge)",
+      "howhand": "(Condition-variable/howhand, Action/Think/Judge)",
+      "whyhand": "(Condition-variable/whyhand, Action/Think/Judge)",
+      "whyface": "(Condition-variable/whyface, Action/Think/Judge)",
+      "howface": "(Condition-variable/howface, Action/Think/Judge)",
+      "block_question_presentation": "(Task-stimulus-role/Cue, Action/Perform/Read)"
     }
   },
   "stim_file": {
@@ -82,8 +82,8 @@
     "HED": {
       "right": "Action/Move/Move-body-part/Move-upper-extremity/Press, Relation/Spatial-relation/Right-side-of",
       "left": "Action/Move/Move-body-part/Move-upper-extremity/Press, Relation/Spatial-relation/Left-side-of",
-      "old": "Action/Move/Move-body-part/Move-upper-extremity/Press",
-      "new": "Action/Move/Move-body-part/Move-upper-extremity/Press",
+      "old": "(Condition-variable/old)",
+      "new": "(Condition-variable/new)",
       "yes": "(Participant-Response, Categorical-class-value/True)",
       "no": "(Participant-Response, Categorical-class-value/False)"
     }
@@ -96,8 +96,8 @@
       "no": "Group responded no indicate the image does NOT match the question"
     },
     "HED": {
-      "yes": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/True",
-      "no": "Property/Data-property/Data-value/Categorical-value/Categorical-class-value/False"
+      "yes": "(Task-effect-evidence/Intended-effect, Categorical-class-value/True)",
+      "no": "(Task-effect-evidence/Intended-effect, Categorical-class-value/False)"
     }
   },
   "value": {
@@ -112,9 +112,9 @@
     },
     "HED": {
       "study_dummy": "Action/Perform/Read",
-      "study": "Action/Think/Encode",
-      "test_old": "Action/Think/Recall",
-      "test_new": "Action/Think/Recall",
+      "study": "(Action/Think/Encode, Action/Think/Memorize)",
+      "test_old": "(Action/Think/Recall, Condition-variable/old)",
+      "test_new": "(Action/Think/Recall, Condition-variable/new)",
       "math": "Action/Think/Count"
     }
   },
@@ -130,8 +130,8 @@
       "left": "The cue, highlighted in green, is presented on the left side of the screen."
     },
     "HED": {
-      "right": "Relation/Spatial-relation/Right-side-of",
-      "left": "Relation/Spatial-relation/Left-side-of"
+      "right": "(Task-stimulus-role/Cue, Relation/Spatial-relation/Right-side-of)",
+      "left": "(Task-stimulus-role/Cue, Relation/Spatial-relation/Left-side-of)"
     }
   },
   "target_location": {
@@ -142,8 +142,8 @@
       "left": "The target, a green circle, is presented inside the left box of the screen."
     },
     "HED": {
-      "right": "Relation/Spatial-relation/Right-side-of",
-      "left": "Relation/Spatial-relation/Left-side-of"
+      "right": "(Task-stimulus-role/Target, Relation/Spatial-relation/Right-side-of)",
+      "left": "(Task-stimulus-role/Target, Relation/Spatial-relation/Left-side-of)"
     }
   },
   "trial_index": {
