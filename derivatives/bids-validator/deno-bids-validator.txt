@@ -325,15 +325,6 @@
 
 [36m	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.[39m
 
-	[33m[WARNING] HED_WARNING The validation on this HED string returned a warning.[39m
-		[33mSIDECAR_KEY_MISSING[39m
-		/sub-0132/ses-01/func/sub-0132_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "stimulus" was referenced in column "trial_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 4. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
-		/sub-0132/ses-01/func/sub-0132_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "stimulus" was referenced in column "trial_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 8. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
-
-		35928 more files with the same issue
-
-[36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
-
 	[33m[WARNING] TSV_ADDITIONAL_COLUMNS_UNDEFINED A TSV file has extra columns which are not defined in its associated JSON sidecar[39m
 		[33mquestion[39m
 		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-01_events.tsv
@@ -343,12 +334,14 @@
 
 [36m	Please visit https://neurostars.org/search?q=TSV_ADDITIONAL_COLUMNS_UNDEFINED for existing conversations about this issue.[39m
 
-	[33m[WARNING] EVENT_ONSET_ORDER The onset column in events.tsv files should be sorted.
-[39m
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv
+	[33m[WARNING] HED_WARNING The validation on this HED string returned a warning.[39m
+		[33mSIDECAR_KEY_MISSING[39m
+		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "how_hand" was referenced in column "event_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 3. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "how_hand" was referenced in column "event_type" of file "undefined", but it was not found in any associated sidecar. TSV line: 4. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
 
-[36m	Please visit https://neurostars.org/search?q=EVENT_ONSET_ORDER for existing conversations about this issue.[39m
+		14326 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
 
 	[33m[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
 This design is suspiciously short.
@@ -372,10 +365,10 @@ This design is suspiciously long.
 
 	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
 		[31mTAG_EXPRESSION_REPEATED[39m
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 258, 259. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 258, 259. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 2, 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 2, 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
 
-		27935 more files with the same issue
+		201 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
 
