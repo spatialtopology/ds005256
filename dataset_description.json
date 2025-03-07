@@ -27,5 +27,23 @@
     "HowToAcknowledge": "Please cite: Jung, H., Amini, M., Hunt, B. J., Murphy, E. I., Sadil, P., Halchenko, Y. O., Miao, Z., Kragel, P.A., Han, X., Heilicher, M., Petre, B., Collins, O.G., Lindquist, M. A., & Wager, T. D. (2024). A massive multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks. bioRxiv. https://doi.org/10.1101/2024.06.21.599974",
     "License": "CC0",
     "Name": "A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks",
-    "ReferencesAndLinks": []
+    "ReferencesAndLinks": [],
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix",
+            "CodeURL": "https://github.com/rordenlab/dcm2niix/",
+            "Version": "v1.0.20201102"
+        },
+        {
+            "Name": "HeuDiConv",
+            "CodeURL": "https://github.com/nipy/heudiconv",
+            "Version": "0.9.0"
+        },
+        {
+            "Name": "ReproIn",
+            "CodeURL": "https://github.com/repronim/reproin",
+            "Container": "https://datasets.datalad.org/repronim/containers/images/repronim/repronim-reproin--0.9.0.sing",
+            "Version": "0.9.0"
+        }
+    ]
 }
