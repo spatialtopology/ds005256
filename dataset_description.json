@@ -42,8 +42,15 @@
         {
             "Name": "ReproIn",
             "CodeURL": "https://github.com/repronim/reproin",
-            "Container": "https://datasets.datalad.org/repronim/containers/images/repronim/repronim-reproin--0.9.0.sing",
+            "Container": {
+		    "Type": "singularity",
+		    "URI": "https://datasets.datalad.org/repronim/containers/images/repronim/repronim-reproin--0.9.0.sing"
+	    },
             "Version": "0.9.0"
+        },
+        {
+            "Name": "Manual",
+            "Description": "Many many steps. Check git log of the git version of the dataset"
         }
     ]
 }
