@@ -1,7 +1,4 @@
 	[33m[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.[39m
-		[33mGeneratedBy[39m
-		/dataset_description.json
-
 		[33mSourceDatasets[39m
 		/dataset_description.json
 
@@ -362,15 +359,6 @@ This design is suspiciously long.
 		7 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
-
-	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
-		[31mTAG_EXPRESSION_REPEATED[39m
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 2, 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-02_events.tsv - ERROR: [TAG_EXPRESSION_REPEATED] Duplicate tag - "Organizational-property/Task/tomspunt". TSV line: 2, 3. (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-expression-repeated.)
-
-		201 more files with the same issue
-
-[36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
 
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
