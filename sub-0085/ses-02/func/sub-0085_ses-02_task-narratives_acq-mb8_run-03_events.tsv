@@ -8,10 +8,12 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 70.277	3.533	rating_feeling	930.0	415.0	Erroneous judgement	town	Text	n/a
 71.26	2.55	feeling_mouse_trajectory	930.0	415.0	Erroneous judgement	town	Text	n/a
 74.293	0.076	rating_expectation	960.0	707.0	Erroneous judgement	town	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	960.0	707.0	Erroneous judgement	town	Text	n/a
 80.359	10.395	narrative_presentation	n/a	n/a	Revolt	town	Text	task-narratives/Narrative3Situation3.txt
 90.754	2.936	rating_feeling	988.0	401.0	Revolt	town	Text	n/a
 92.021	1.67	feeling_mouse_trajectory	988.0	401.0	Revolt	town	Text	n/a
 94.785	n/a	rating_expectation	n/a	n/a	Revolt	town	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Revolt	town	Text	n/a
 99.85	28.147	narrative_presentation	n/a	n/a	The enigma	city	Text	task-narratives/Narrative3Situation4.txt
 127.997	2.923	rating_feeling	736.0	422.0	The enigma	city	Text	n/a
 128.064	2.856	feeling_mouse_trajectory	736.0	422.0	The enigma	city	Text	n/a
@@ -31,6 +33,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 229.303	3.735	rating_feeling	934.0	413.0	Loss of loved one	forest	Text	n/a
 230.353	2.685	feeling_mouse_trajectory	934.0	413.0	Loss of loved one	forest	Text	n/a
 233.318	n/a	rating_expectation	n/a	n/a	Loss of loved one	forest	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Loss of loved one	forest	Text	n/a
 239.385	9.706	narrative_presentation	n/a	n/a	All sacrificed for passion	forest	Text	task-narratives/Narrative3Situation8.txt
 249.091	3.7	rating_feeling	902.0	490.0	All sacrificed for passion	forest	Text	n/a
 249.941	2.85	feeling_mouse_trajectory	902.0	490.0	All sacrificed for passion	forest	Text	n/a
@@ -55,6 +58,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 387.26	3.976	rating_feeling	826.0	409.0	Slaying of kin unrecognized	swamp	Text	n/a
 387.96	3.276	feeling_mouse_trajectory	826.0	409.0	Slaying of kin unrecognized	swamp	Text	n/a
 391.285	0.017	rating_expectation	960.0	707.0	Slaying of kin unrecognized	swamp	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	960.0	707.0	Slaying of kin unrecognized	swamp	Text	n/a
 396.36	21.111	narrative_presentation	n/a	n/a	Fatal imprudence	hospital	Text	task-narratives/Narrative4Situation4.txt
 417.472	3.702	rating_feeling	912.0	413.0	Fatal imprudence	hospital	Text	n/a
 417.572	3.602	feeling_mouse_trajectory	912.0	413.0	Fatal imprudence	hospital	Text	n/a
@@ -77,7 +81,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 519.274	1.783	expectation_mouse_trajectory	969.0	483.0	Recovery of a lost one	prison	Text	n/a
 522.157	38.534	narrative_presentation	n/a	n/a	Crimes of love	prison	Text	task-narratives/Narrative4Situation8.txt
 560.692	n/a	rating_feeling	n/a	n/a	Crimes of love	prison	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Crimes of love	prison	Text	n/a
 564.718	n/a	rating_expectation	n/a	n/a	Crimes of love	prison	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Crimes of love	prison	Text	n/a
 573.793	12.394	narrative_presentation	n/a	n/a	Abduction	prison	Text	task-narratives/Narrative4Situation9.txt
 586.187	3.817	rating_feeling	960.0	382.0	Abduction	prison	Text	n/a
 586.504	3.5	feeling_mouse_trajectory	960.0	382.0	Abduction	prison	Text	n/a

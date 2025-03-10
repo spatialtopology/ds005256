@@ -21,7 +21,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 122.016	0.872	expectation_mouse_trajectory	617.0	455.0	Loss of loved one	swamp	Audio	n/a
 127.168	7.306	narrative_presentation	n/a	n/a	An enemy loved	swamp	Audio	task-narratives/Narrative6Situation5.mp3
 134.475	n/a	rating_feeling	n/a	n/a	An enemy loved	swamp	Audio	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	An enemy loved	swamp	Audio	n/a
 138.501	n/a	rating_expectation	n/a	n/a	An enemy loved	swamp	Audio	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	An enemy loved	swamp	Audio	n/a
 144.556	10.812	narrative_presentation	n/a	n/a	Daring Enterprise	swamp	Audio	task-narratives/Narrative6Situation6.mp3
 155.367	2.959	rating_feeling	712.0	540.0	Daring Enterprise	swamp	Audio	n/a
 155.751	2.576	feeling_mouse_trajectory	712.0	540.0	Daring Enterprise	swamp	Audio	n/a
@@ -79,9 +81,11 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 431.283	0.89	expectation_mouse_trajectory	730.0	618.0	Revolt	beach	Audio	n/a
 437.849	7.279	narrative_presentation	n/a	n/a	An enemy loved	beach	Audio	task-narratives/Narrative5Situation8.mp3
 445.128	n/a	rating_feeling	n/a	n/a	An enemy loved	beach	Audio	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	An enemy loved	beach	Audio	n/a
 449.15	1.417	rating_expectation	562.0	557.0	An enemy loved	beach	Audio	n/a
 449.65	0.917	expectation_mouse_trajectory	562.0	557.0	An enemy loved	beach	Audio	n/a
 456.206	37.939	narrative_presentation	n/a	n/a	Mistaken jealousy	beach	Audio	task-narratives/Narrative5Situation9.mp3
 494.145	n/a	rating_feeling	n/a	n/a	Mistaken jealousy	beach	Audio	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Mistaken jealousy	beach	Audio	n/a
 498.169	3.95	rating_expectation	660.0	686.0	Mistaken jealousy	beach	Audio	n/a
 499.852	2.267	expectation_mouse_trajectory	660.0	686.0	Mistaken jealousy	beach	Audio	n/a

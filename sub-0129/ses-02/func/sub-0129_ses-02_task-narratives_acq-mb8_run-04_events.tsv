@@ -33,6 +33,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 189.769	3.983	rating_feeling	929.0	418.0	Fatal imprudence	prison	Text	n/a
 190.019	3.733	feeling_mouse_trajectory	929.0	418.0	Fatal imprudence	prison	Text	n/a
 193.786	n/a	rating_expectation	n/a	n/a	Fatal imprudence	prison	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Fatal imprudence	prison	Text	n/a
 198.869	12.391	narrative_presentation	n/a	n/a	Discovery of dishonour of loved one	prison	Text	task-narratives/Narrative1Situation8.txt
 211.26	2.917	rating_feeling	958.0	319.0	Discovery of dishonour of loved one	prison	Text	n/a
 211.793	2.383	feeling_mouse_trajectory	958.0	319.0	Discovery of dishonour of loved one	prison	Text	n/a
@@ -85,5 +86,6 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 499.395	1.767	expectation_mouse_trajectory	763.0	591.0	Discovery of dishonour of loved one	hospital	Text	n/a
 505.376	15.409	narrative_presentation	n/a	n/a	Self-sacrifice for an ideal	hospital	Text	task-narratives/Narrative2Situation9.txt
 520.785	n/a	rating_feeling	n/a	n/a	Self-sacrifice for an ideal	hospital	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Self-sacrifice for an ideal	hospital	Text	n/a
 524.813	3.6	rating_expectation	1055.0	551.0	Self-sacrifice for an ideal	hospital	Text	n/a
 526.446	1.967	expectation_mouse_trajectory	1055.0	551.0	Self-sacrifice for an ideal	hospital	Text	n/a

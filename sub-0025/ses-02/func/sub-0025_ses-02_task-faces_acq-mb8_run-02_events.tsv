@@ -79,6 +79,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 114.405	0.426	rating_mouse_trajectory	0.7229	sex	sad	female	EA	young	n/a
 115.861	2.045	face	n/a	sex	pain	female	WC	old	task-faces/7Pain_Model4_1Female_1WC_2Old.mp4
 117.906	1.068	rating	0.466	sex	pain	female	WC	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	sex	pain	female	WC	old	n/a
 119.829	1.312	face	n/a	sex	sad	male	EA	young	task-faces/6Sad_Model3_2Male_2EA_1Young.mp4
 121.141	1.474	rating	0.2536	sex	sad	male	EA	young	n/a
 121.624	0.99	rating_mouse_trajectory	0.2536	sex	sad	male	EA	young	n/a
@@ -102,6 +103,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 147.65	0.268	rating_mouse_trajectory	0.5024	sex	fear	male	African	young	n/a
 148.652	2.05	face	n/a	sex	pleasure	male	WC	young	task-faces/8Pleasure_Model4_2Male_1WC_1Young.mp4
 150.702	0.702	rating	0.466	sex	pleasure	male	WC	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	sex	pleasure	male	WC	young	n/a
 152.607	2.046	face	n/a	sex	pain	female	WC	young	task-faces/7Pain_Model1_1Female_1WC_1Young.mp4
 154.653	0.901	rating	0.6703	sex	pain	female	WC	young	n/a
 155.137	0.418	rating_mouse_trajectory	0.6703	sex	pain	female	WC	young	n/a
@@ -173,6 +175,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 254.657	1.174	rating_mouse_trajectory	0.0129	sex	surprise	male	African	old	n/a
 256.046	1.313	face	n/a	sex	anger	female	EA	old	task-faces/5Anger_Model5_1Female_2EA_2Old.mp4
 257.358	0.723	rating	0.466	sex	anger	female	EA	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	sex	anger	female	EA	old	n/a
 260.282	1.311	face	n/a	sex	sad	female	African	young	task-faces/6Sad_Model3_1Female_3African_1Young.mp4
 261.593	0.921	rating	0.7553	sex	sad	female	African	young	n/a
 261.91	0.604	rating_mouse_trajectory	0.7553	sex	sad	female	African	young	n/a
@@ -265,6 +268,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 389.424	0.457	rating_mouse_trajectory	0.3143	sex	pleasure	female	African	old	n/a
 390.897	1.312	face	n/a	sex	disgust	male	EA	old	task-faces/4Disgust_Model2_2Male_2EA_2Old.mp4
 392.209	1.773	rating	0.466	sex	disgust	male	EA	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	sex	disgust	male	EA	old	n/a
 396.133	1.311	face	n/a	sex	disgust	female	African	old	task-faces/4Disgust_Model5_1Female_3African_2Old.mp4
 397.444	1.671	rating	0.1626	sex	disgust	female	African	old	n/a
 397.977	1.137	rating_mouse_trajectory	0.1626	sex	disgust	female	African	old	n/a

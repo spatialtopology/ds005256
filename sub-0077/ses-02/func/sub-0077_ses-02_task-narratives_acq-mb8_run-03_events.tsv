@@ -16,7 +16,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 94.782	1.501	expectation_mouse_trajectory	660.0	488.0	Revolt	town	Text	n/a
 99.815	28.148	narrative_presentation	n/a	n/a	The enigma	city	Text	task-narratives/Narrative3Situation4.txt
 127.962	n/a	rating_feeling	n/a	n/a	The enigma	city	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	The enigma	city	Text	n/a
 131.998	n/a	rating_expectation	n/a	n/a	The enigma	city	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	The enigma	city	Text	n/a
 139.063	15.08	narrative_presentation	n/a	n/a	Deliverance	city	Text	task-narratives/Narrative3Situation5.txt
 154.142	3.067	rating_feeling	752.0	561.0	Deliverance	city	Text	n/a
 155.192	2.017	feeling_mouse_trajectory	752.0	561.0	Deliverance	city	Text	n/a
@@ -41,6 +43,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 285.637	2.8	rating_feeling	626.0	459.0	Discovery of dishonour of loved one	forest	Text	n/a
 286.921	1.517	feeling_mouse_trajectory	626.0	459.0	Discovery of dishonour of loved one	forest	Text	n/a
 289.654	n/a	rating_expectation	n/a	n/a	Discovery of dishonour of loved one	forest	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Discovery of dishonour of loved one	forest	Text	n/a
 295.738	22.446	narrative_presentation	n/a	n/a	Conflict with a god	swamp	Text	task-narratives/Narrative4Situation1.txt
 318.184	3.05	rating_feeling	721.0	494.0	Conflict with a god	swamp	Text	n/a
 320.717	0.517	feeling_mouse_trajectory	721.0	494.0	Conflict with a god	swamp	Text	n/a
@@ -58,7 +61,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 392.176	1.474	expectation_mouse_trajectory	601.0	399.0	Slaying of kin unrecognized	swamp	Text	n/a
 396.359	21.111	narrative_presentation	n/a	n/a	Fatal imprudence	hospital	Text	task-narratives/Narrative4Situation4.txt
 417.47	n/a	rating_feeling	n/a	n/a	Fatal imprudence	hospital	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Fatal imprudence	hospital	Text	n/a
 421.487	n/a	rating_expectation	n/a	n/a	Fatal imprudence	hospital	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Fatal imprudence	hospital	Text	n/a
 426.553	25.797	narrative_presentation	n/a	n/a	Erroneous judgement	hospital	Text	task-narratives/Narrative4Situation5.txt
 452.35	3.985	rating_feeling	705.0	517.0	Erroneous judgement	hospital	Text	n/a
 453.067	3.268	feeling_mouse_trajectory	705.0	517.0	Erroneous judgement	hospital	Text	n/a
@@ -66,12 +71,17 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 456.417	-0.033	expectation_mouse_trajectory	960.0	707.0	Erroneous judgement	hospital	Text	n/a
 461.433	23.444	narrative_presentation	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	task-narratives/Narrative4Situation6.txt
 484.877	n/a	rating_feeling	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	n/a
 488.899	n/a	rating_expectation	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	n/a
 493.962	19.094	narrative_presentation	n/a	n/a	Recovery of a lost one	prison	Text	task-narratives/Narrative4Situation7.txt
 513.055	n/a	rating_feeling	n/a	n/a	Recovery of a lost one	prison	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Recovery of a lost one	prison	Text	n/a
 517.073	n/a	rating_expectation	n/a	n/a	Recovery of a lost one	prison	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Recovery of a lost one	prison	Text	n/a
 522.139	38.534	narrative_presentation	n/a	n/a	Crimes of love	prison	Text	task-narratives/Narrative4Situation8.txt
 560.673	n/a	rating_feeling	n/a	n/a	Crimes of love	prison	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Crimes of love	prison	Text	n/a
 564.698	3.917	rating_expectation	775.0	520.0	Crimes of love	prison	Text	n/a
 567.832	0.783	expectation_mouse_trajectory	775.0	520.0	Crimes of love	prison	Text	n/a
 573.791	12.392	narrative_presentation	n/a	n/a	Abduction	prison	Text	task-narratives/Narrative4Situation9.txt

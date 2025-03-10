@@ -46,7 +46,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 264.029	0.818	expectation_mouse_trajectory	759	579	Self-sacrifice for an ideal	hospital	Text	n/a
 269.779	10.391	narrative_presentation	n/a	n/a	Supplication	hospital	Text	task-narratives/Narrative1Situation1.txt
 280.171	2.244	rating_feeling	960	707	Supplication	hospital	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	960	707	Supplication	hospital	Text	n/a
 284.187	2.109	rating_expectation	960	707	Supplication	hospital	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	960	707	Supplication	hospital	Text	n/a
 290.254	14.41	narrative_presentation	n/a	n/a	Madness	hospital	Text	task-narratives/Narrative1Situation2.txt
 304.663	1.984	rating_feeling	761	550	Madness	hospital	Text	n/a
 305.563	1.084	feeling_mouse_trajectory	761	550	Madness	hospital	Text	n/a

@@ -115,6 +115,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 161.331	1.79	rating_mouse_trajectory	0.551	intensity	pleasure	female	African	old	n/a
 166.193	1.306	face	n/a	intensity	surprise	male	WC	young	task-faces/2Surprise_Model2_2Male_1WC_1Young.mp4
 167.5	0.405	rating	0.466	intensity	surprise	male	WC	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	male	WC	young	n/a
 170.424	1.31	face	n/a	intensity	sad	female	African	old	task-faces/6Sad_Model5_1Female_3African_2Old.mp4
 171.735	1.82	rating	0.1303	intensity	sad	female	African	old	n/a
 172.101	1.454	rating_mouse_trajectory	0.1303	intensity	sad	female	African	old	n/a
@@ -168,6 +169,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 241.694	0.869	rating_mouse_trajectory	0.5247	intensity	surprise	male	WC	old	n/a
 242.621	1.324	face	n/a	intensity	sad	female	EA	old	task-faces/6Sad_Model2_1Female_2EA_2Old.mp4
 243.945	n/a	rating	n/a	intensity	sad	female	EA	old	n/a
+n/a	n/a	rating_mouse_trajectory	n/a	intensity	sad	female	EA	old	n/a
 249.861	1.32	face	n/a	intensity	sad	male	EA	young	task-faces/6Sad_Model1_2Male_2EA_1Young.mp4
 251.181	1.85	rating	0.377	intensity	sad	male	EA	young	n/a
 252.348	0.683	rating_mouse_trajectory	0.377	intensity	sad	male	EA	young	n/a

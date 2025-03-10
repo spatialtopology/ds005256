@@ -118,9 +118,11 @@ onset	duration	trial_type	response_angle	response_label	block_condition	mentaliz
 409.457	1.189	rating_mouse_trajectory	12.8	Moderate	mentalizing	heights	n/a
 413.912	5.834	video	n/a	n/a	mentalizing	heights	task-shortvideo/ses-03_run-01_order-03_content-bestfriendsweating.mp4
 419.811	0.019	rating	90.0	Very strong	mentalizing	heights	n/a
+n/a	n/a	rating_mouse_trajectory	90.0	Very strong	mentalizing	heights	n/a
 424.846	3.152	cue	n/a	n/a	similarity	n/a	n/a
 427.999	4.084	video	n/a	n/a	similarity	n/a	task-shortvideo/ses-03_run-01_order-05_content-parkour.mp4
 432.149	0.017	rating	90.0	Very strong	similarity	n/a	n/a
+n/a	n/a	rating_mouse_trajectory	90.0	Very strong	similarity	n/a	n/a
 437.258	5.572	video	n/a	n/a	similarity	n/a	task-shortvideo/ses-03_run-01_order-20_content-cupstacking.mp4
 442.886	2.66	rating	64.36	Very strong	similarity	n/a	n/a
 443.553	1.993	rating_mouse_trajectory	64.36	Very strong	similarity	n/a	n/a
@@ -193,6 +195,7 @@ onset	duration	trial_type	response_angle	response_label	block_condition	mentaliz
 681.124	1.405	rating_mouse_trajectory	98.82	Strongest possible	similarity	n/a	n/a
 684.301	5.829	video	n/a	n/a	similarity	n/a	task-shortvideo/ses-03_run-01_order-03_content-bestfriendsweating.mp4
 690.195	n/a	rating	n/a	Strongest possible	similarity	n/a	n/a
+n/a	n/a	rating_mouse_trajectory	n/a	Strongest possible	similarity	n/a	n/a
 695.309	6.34	video	n/a	n/a	similarity	n/a	task-shortvideo/ses-03_run-01_order-17_content-freesolo.mp4
 701.716	3.301	rating	34.82	Strong	similarity	n/a	n/a
 703.916	1.101	rating_mouse_trajectory	34.82	Strong	similarity	n/a	n/a

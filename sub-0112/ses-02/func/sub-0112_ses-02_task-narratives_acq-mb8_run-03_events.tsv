@@ -26,6 +26,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 166.231	0.934	expectation_mouse_trajectory	613.0	429.0	Erroneous judgement	hospital	Text	n/a
 170.664	23.445	narrative_presentation	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	task-narratives/Narrative4Situation6.txt
 194.109	n/a	rating_feeling	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	n/a
 198.127	1.267	rating_expectation	554.0	546.0	Necessity of sacrificing loved ones	hospital	Text	n/a
 198.377	1.017	expectation_mouse_trajectory	554.0	546.0	Necessity of sacrificing loved ones	hospital	Text	n/a
 203.193	19.094	narrative_presentation	n/a	n/a	Recovery of a lost one	prison	Text	task-narratives/Narrative4Situation7.txt
@@ -62,9 +63,12 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 428.514	3.117	rating_feeling	955.0	705.0	The enigma	city	Text	n/a
 431.247	0.383	feeling_mouse_trajectory	955.0	705.0	The enigma	city	Text	n/a
 432.531	n/a	rating_expectation	n/a	n/a	The enigma	city	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	The enigma	city	Text	n/a
 439.614	15.079	narrative_presentation	n/a	n/a	Deliverance	city	Text	task-narratives/Narrative3Situation5.txt
 454.693	n/a	rating_feeling	n/a	n/a	Deliverance	city	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Deliverance	city	Text	n/a
 458.707	n/a	rating_expectation	n/a	n/a	Deliverance	city	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Deliverance	city	Text	n/a
 465.774	15.075	narrative_presentation	n/a	n/a	Remorse	city	Text	task-narratives/Narrative3Situation6.txt
 480.85	2.317	rating_feeling	593.0	574.0	Remorse	city	Text	n/a
 482.066	1.1	feeling_mouse_trajectory	593.0	574.0	Remorse	city	Text	n/a
@@ -72,7 +76,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 486.174	1.335	expectation_mouse_trajectory	666.0	556.0	Remorse	city	Text	n/a
 492.951	36.85	narrative_presentation	n/a	n/a	Loss of loved one	forest	Text	task-narratives/Narrative3Situation7.txt
 529.801	n/a	rating_feeling	n/a	n/a	Loss of loved one	forest	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Loss of loved one	forest	Text	n/a
 533.825	n/a	rating_expectation	n/a	n/a	Loss of loved one	forest	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Loss of loved one	forest	Text	n/a
 539.919	9.707	narrative_presentation	n/a	n/a	All sacrificed for passion	forest	Text	task-narratives/Narrative3Situation8.txt
 549.626	2.468	rating_feeling	655.0	557.0	All sacrificed for passion	forest	Text	n/a
 550.426	1.668	feeling_mouse_trajectory	655.0	557.0	All sacrificed for passion	forest	Text	n/a

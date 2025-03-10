@@ -91,6 +91,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 128.619	0.506	rating_mouse_trajectory	0.0	sex	pleasure	female	WC	old	n/a
 131.144	1.31	face	n/a	sex	anger	female	African	old	task-faces/5Anger_Model2_1Female_3African_2Old.mp4
 132.454	n/a	rating	n/a	sex	anger	female	African	old	n/a
+n/a	n/a	rating_mouse_trajectory	n/a	sex	anger	female	African	old	n/a
 134.377	2.045	face	n/a	sex	pain	male	WC	old	task-faces/7Pain_Model2_2Male_1WC_2Old.mp4
 136.423	0.636	rating	0.0	sex	pain	male	WC	old	n/a
 136.473	0.586	rating_mouse_trajectory	0.0	sex	pain	male	WC	old	n/a
@@ -126,6 +127,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 180.007	0.437	rating_mouse_trajectory	0.1505	sex	anger	male	African	old	n/a
 182.332	1.31	face	n/a	sex	anger	male	EA	young	task-faces/5Anger_Model2_2Male_2EA_1Young.mp4
 183.642	n/a	rating	n/a	sex	anger	male	EA	young	n/a
+n/a	n/a	rating_mouse_trajectory	n/a	sex	anger	male	EA	young	n/a
 185.565	1.311	face	n/a	sex	surprise	male	WC	young	task-faces/2Surprise_Model5_2Male_1WC_1Young.mp4
 186.877	0.951	rating	0.0	sex	surprise	male	WC	young	n/a
 187.543	0.285	rating_mouse_trajectory	0.0	sex	surprise	male	WC	young	n/a
@@ -152,6 +154,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 219.723	1.039	rating_mouse_trajectory	0.0	sex	anger	male	WC	young	n/a
 222.151	2.041	face	n/a	sex	pleasure	female	African	old	task-faces/8Pleasure_Model5_1Female_3African_2Old.mp4
 224.192	n/a	rating	n/a	sex	pleasure	female	African	old	n/a
+n/a	n/a	rating_mouse_trajectory	n/a	sex	pleasure	female	African	old	n/a
 227.118	2.043	face	n/a	sex	pain	male	EA	young	task-faces/7Pain_Model1_2Male_2EA_1Young.mp4
 229.161	0.502	rating	0.0	sex	pain	male	EA	young	n/a
 229.311	0.352	rating_mouse_trajectory	0.0	sex	pain	male	EA	young	n/a
@@ -277,6 +280,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 406.216	0.536	rating_mouse_trajectory	1.0	sex	surprise	female	African	young	n/a
 408.508	2.044	face	n/a	sex	pain	male	African	young	task-faces/7Pain_Model3_2Male_3African_1Young.mp4
 410.551	n/a	rating	n/a	sex	pain	male	African	young	n/a
+n/a	n/a	rating_mouse_trajectory	n/a	sex	pain	male	African	young	n/a
 412.455	1.314	face	n/a	sex	fear	male	WC	young	task-faces/3Fear_Model4_2Male_1WC_1Young.mp4
 413.769	0.701	rating	0.0	sex	fear	male	WC	young	n/a
 414.203	0.268	rating_mouse_trajectory	0.0	sex	fear	male	WC	young	n/a

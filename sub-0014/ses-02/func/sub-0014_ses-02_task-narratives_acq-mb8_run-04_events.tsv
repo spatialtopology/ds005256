@@ -76,7 +76,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 424.954	1.042	expectation_mouse_trajectory	694.0	429.0	An enemy loved	town	Text	n/a
 431.905	22.112	narrative_presentation	n/a	n/a	Fatal imprudence	prison	Text	task-narratives/Narrative1Situation7.txt
 454.017	n/a	rating_feeling	n/a	n/a	Fatal imprudence	prison	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Fatal imprudence	prison	Text	n/a
 458.034	n/a	rating_expectation	n/a	n/a	Fatal imprudence	prison	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Fatal imprudence	prison	Text	n/a
 463.101	12.391	narrative_presentation	n/a	n/a	Discovery of dishonour of loved one	prison	Text	task-narratives/Narrative1Situation8.txt
 475.493	2.24	rating_feeling	691.0	541.0	Discovery of dishonour of loved one	prison	Text	n/a
 476.193	1.54	feeling_mouse_trajectory	691.0	541.0	Discovery of dishonour of loved one	prison	Text	n/a
@@ -84,5 +86,6 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 479.848	1.538	expectation_mouse_trajectory	532.0	481.0	Discovery of dishonour of loved one	prison	Text	n/a
 491.58	29.481	narrative_presentation	n/a	n/a	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
 521.061	n/a	rating_feeling	n/a	n/a	Abduction	prison	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Abduction	prison	Text	n/a
 525.083	3.772	rating_expectation	758.0	585.0	Abduction	prison	Text	n/a
 528.083	0.772	expectation_mouse_trajectory	758.0	585.0	Abduction	prison	Text	n/a

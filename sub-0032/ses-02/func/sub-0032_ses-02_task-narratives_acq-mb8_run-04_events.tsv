@@ -13,6 +13,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 101.717	3.968	rating_feeling	830	563	Necessity of sacrificing loved ones	forest	Text	n/a
 104.567	1.118	feeling_mouse_trajectory	830	563	Necessity of sacrificing loved ones	forest	Text	n/a
 105.734	0.026	rating_expectation	960.0	707.0	Necessity of sacrificing loved ones	forest	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	960.0	707.0	Necessity of sacrificing loved ones	forest	Text	n/a
 112.802	18.427	narrative_presentation	n/a	n/a	Murderous adultury	town	Text	task-narratives/Narrative2Situation4.txt
 131.228	2.051	rating_feeling	673	481	Murderous adultury	town	Text	n/a
 131.795	1.484	feeling_mouse_trajectory	673	481	Murderous adultury	town	Text	n/a
@@ -82,6 +83,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 475.145	1.938	rating_feeling	735	453	Discovery of dishonour of loved one	prison	Text	n/a
 475.612	1.471	feeling_mouse_trajectory	735	453	Discovery of dishonour of loved one	prison	Text	n/a
 479.177	n/a	rating_expectation	n/a	n/a	Discovery of dishonour of loved one	prison	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Discovery of dishonour of loved one	prison	Text	n/a
 491.243	29.481	narrative_presentation	n/a	n/a	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
 520.724	2.488	rating_feeling	606	354	Abduction	prison	Text	n/a
 521.29	1.921	feeling_mouse_trajectory	606	354	Abduction	prison	Text	n/a

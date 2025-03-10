@@ -13,6 +13,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 90.787	2.7	rating_feeling	989	332	Revolt	town	Text	n/a
 91.753	1.733	feeling_mouse_trajectory	989	332	Revolt	town	Text	n/a
 94.818	0.136	rating_expectation	960	707	Revolt	town	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	960	707	Revolt	town	Text	n/a
 99.882	28.148	narrative_presentation	n/a	n/a	The enigma	city	Text	task-narratives/Narrative3Situation4.txt
 128.03	2.357	rating_feeling	834	336	The enigma	city	Text	n/a
 128.58	1.807	feeling_mouse_trajectory	834	336	The enigma	city	Text	n/a
@@ -67,6 +68,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 452.356	3.483	rating_feeling	763	389	Erroneous judgement	hospital	Text	n/a
 453.672	2.167	feeling_mouse_trajectory	763	389	Erroneous judgement	hospital	Text	n/a
 456.371	0.101	rating_expectation	960	707	Erroneous judgement	hospital	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	960	707	Erroneous judgement	hospital	Text	n/a
 461.436	23.445	narrative_presentation	n/a	n/a	Necessity of sacrificing loved ones	hospital	Text	task-narratives/Narrative4Situation6.txt
 484.881	3.057	rating_feeling	752	360	Necessity of sacrificing loved ones	hospital	Text	n/a
 485.731	2.207	feeling_mouse_trajectory	752	360	Necessity of sacrificing loved ones	hospital	Text	n/a

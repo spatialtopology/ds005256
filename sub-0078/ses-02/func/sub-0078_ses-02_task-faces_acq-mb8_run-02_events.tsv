@@ -139,6 +139,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 201.811	0.743	rating_mouse_trajectory	0.5611	sex	anger	female	WC	young	n/a
 204.408	1.304	face	n/a	sex	surprise	female	African	young	task-faces/2Surprise_Model5_1Female_3African_1Young.mp4
 205.712	0.974	rating	0.466	sex	surprise	female	African	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	sex	surprise	female	African	young	n/a
 208.637	1.311	face	n/a	sex	surprise	female	WC	old	task-faces/2Surprise_Model2_1Female_1WC_2Old.mp4
 209.947	1.056	rating	0.5307	sex	surprise	female	WC	old	n/a
 210.481	0.523	rating_mouse_trajectory	0.5307	sex	surprise	female	WC	old	n/a
@@ -264,8 +265,10 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 382.361	0.725	rating_mouse_trajectory	0.5914	sex	anger	female	African	old	n/a
 386.869	2.045	face	n/a	sex	pleasure	female	African	old	task-faces/8Pleasure_Model5_1Female_3African_2Old.mp4
 388.914	0.856	rating	0.466	sex	pleasure	female	African	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	sex	pleasure	female	African	old	n/a
 390.837	1.312	face	n/a	sex	disgust	male	EA	old	task-faces/4Disgust_Model2_2Male_2EA_2Old.mp4
 392.149	1.055	rating	0.466	sex	disgust	male	EA	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	sex	disgust	male	EA	old	n/a
 396.072	1.312	face	n/a	sex	disgust	female	African	old	task-faces/4Disgust_Model5_1Female_3African_2Old.mp4
 397.384	1.003	rating	0.2658	sex	disgust	female	African	old	n/a
 397.801	0.586	rating_mouse_trajectory	0.2658	sex	disgust	female	African	old	n/a

@@ -26,6 +26,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 163.582	1.518	expectation_mouse_trajectory	702.0	429.0	Daring Enterprise	town	Text	n/a
 169.182	5.689	narrative_presentation	n/a	n/a	Ambition	town	Text	task-narratives/Narrative2Situation6.txt
 174.871	n/a	rating_feeling	n/a	n/a	Ambition	town	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Ambition	town	Text	n/a
 178.888	0.843	rating_expectation	835.0	540.0	Ambition	town	Text	n/a
 178.955	0.777	expectation_mouse_trajectory	835.0	540.0	Ambition	town	Text	n/a
 183.955	19.095	narrative_presentation	n/a	n/a	Mistaken jealousy	hospital	Text	task-narratives/Narrative2Situation7.txt
@@ -45,6 +46,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 262.836	1.251	expectation_mouse_trajectory	1009.0	474.0	Self-sacrifice for an ideal	hospital	Text	n/a
 269.82	10.391	narrative_presentation	n/a	n/a	Supplication	hospital	Text	task-narratives/Narrative1Situation1.txt
 280.211	n/a	rating_feeling	n/a	n/a	Supplication	hospital	Text	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Supplication	hospital	Text	n/a
 284.231	1.937	rating_expectation	1026.0	551.0	Supplication	hospital	Text	n/a
 284.431	1.737	expectation_mouse_trajectory	1026.0	551.0	Supplication	hospital	Text	n/a
 290.294	14.409	narrative_presentation	n/a	n/a	Madness	hospital	Text	task-narratives/Narrative1Situation2.txt
@@ -81,6 +83,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 475.149	2.267	rating_feeling	860.0	472.0	Discovery of dishonour of loved one	prison	Text	n/a
 476.533	0.883	feeling_mouse_trajectory	860.0	472.0	Discovery of dishonour of loved one	prison	Text	n/a
 479.167	n/a	rating_expectation	n/a	n/a	Discovery of dishonour of loved one	prison	Text	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Discovery of dishonour of loved one	prison	Text	n/a
 491.236	29.48	narrative_presentation	n/a	n/a	Abduction	prison	Text	task-narratives/Narrative1Situation9.txt
 520.716	1.701	rating_feeling	884.0	527.0	Abduction	prison	Text	n/a
 521.716	0.701	feeling_mouse_trajectory	884.0	527.0	Abduction	prison	Text	n/a

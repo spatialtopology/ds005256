@@ -23,6 +23,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 118.018	1.25	rating_feeling	813.0	563.0	Supplication	city	Audio	n/a
 118.718	0.55	feeling_mouse_trajectory	813.0	563.0	Supplication	city	Audio	n/a
 122.039	n/a	rating_expectation	n/a	n/a	Supplication	city	Audio	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Supplication	city	Audio	n/a
 128.125	5.976	narrative_presentation	n/a	n/a	Rivalry of kin	city	Audio	task-narratives/Narrative8Situation6.mp3
 134.102	0.983	rating_feeling	1152.0	604.0	Rivalry of kin	city	Audio	n/a
 134.518	0.567	feeling_mouse_trajectory	1152.0	604.0	Rivalry of kin	city	Audio	n/a
@@ -55,6 +56,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 284.97	3.7	expectation_mouse_trajectory	631.0	415.0	Adultery	prison	Audio	n/a
 297.006	7.44	narrative_presentation	n/a	n/a	Pursuit	prison	Audio	task-narratives/Narrative7Situation3.mp3
 304.447	n/a	rating_feeling	n/a	n/a	Pursuit	prison	Audio	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Pursuit	prison	Audio	n/a
 308.473	3.9	rating_expectation	822.0	582.0	Pursuit	prison	Audio	n/a
 309.957	2.417	expectation_mouse_trajectory	822.0	582.0	Pursuit	prison	Audio	n/a
 315.528	11.485	narrative_presentation	n/a	n/a	Conflict with a god	park	Audio	task-narratives/Narrative7Situation4.mp3
@@ -64,6 +66,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 331.703	1.6	expectation_mouse_trajectory	1124.0	585.0	Conflict with a god	park	Audio	n/a
 340.105	7.988	narrative_presentation	n/a	n/a	Recovery of a lost one	park	Audio	task-narratives/Narrative7Situation5.mp3
 348.094	n/a	rating_feeling	n/a	n/a	Recovery of a lost one	park	Audio	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Recovery of a lost one	park	Audio	n/a
 352.123	2.15	rating_expectation	1115.0	570.0	Recovery of a lost one	park	Audio	n/a
 352.573	1.7	expectation_mouse_trajectory	1115.0	570.0	Recovery of a lost one	park	Audio	n/a
 359.178	8.787	narrative_presentation	n/a	n/a	Supplication	park	Audio	task-narratives/Narrative7Situation6.mp3

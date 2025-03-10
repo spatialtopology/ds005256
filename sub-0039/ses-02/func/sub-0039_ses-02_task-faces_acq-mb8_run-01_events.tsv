@@ -16,6 +16,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 19.757	0.652	rating_mouse_trajectory	0.5044	intensity	surprise	male	African	young	n/a
 25.182	1.311	face	n/a	intensity	sad	male	WC	young	task-faces/6Sad_Model4_2Male_1WC_1Young.mp4
 26.493	1.652	rating	0.466	intensity	sad	male	WC	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	sad	male	WC	young	n/a
 28.415	1.312	face	n/a	intensity	fear	male	EA	young	task-faces/3Fear_Model5_2Male_2EA_1Young.mp4
 29.727	1.035	rating	0.3831	intensity	fear	male	EA	young	n/a
 30.161	0.602	rating_mouse_trajectory	0.3831	intensity	fear	male	EA	young	n/a
@@ -24,10 +25,13 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 33.062	0.651	rating_mouse_trajectory	0.3345	intensity	fear	male	African	old	n/a
 34.868	1.312	face	n/a	intensity	surprise	male	EA	young	task-faces/2Surprise_Model3_2Male_2EA_1Young.mp4
 36.18	0.635	rating	0.466	intensity	surprise	male	EA	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	male	EA	young	n/a
 38.085	1.312	face	n/a	intensity	anger	male	EA	young	task-faces/5Anger_Model4_2Male_2EA_1Young.mp4
 39.398	0.301	rating	0.466	intensity	anger	male	EA	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	anger	male	EA	young	n/a
 43.321	2.045	face	n/a	intensity	pleasure	female	WC	young	task-faces/8Pleasure_Model2_1Female_1WC_1Young.mp4
 45.367	0.757	rating	0.466	intensity	pleasure	female	WC	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	pleasure	female	WC	young	n/a
 48.291	1.311	face	n/a	intensity	happy	male	African	old	task-faces/1Happy_Model2_2Male_3African_2Old.mp4
 49.601	1.072	rating	0.3083	intensity	happy	male	African	old	n/a
 50.101	0.572	rating_mouse_trajectory	0.3083	intensity	happy	male	African	old	n/a
@@ -132,6 +136,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 191.654	1.219	rating_mouse_trajectory	0.2091	intensity	fear	female	African	old	n/a
 195.178	2.045	face	n/a	intensity	pain	male	African	young	task-faces/7Pain_Model5_2Male_3African_1Young.mp4
 197.223	0.385	rating	0.466	intensity	pain	male	African	young	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	pain	male	African	young	n/a
 200.147	1.311	face	n/a	intensity	disgust	female	African	young	task-faces/4Disgust_Model1_1Female_3African_1Young.mp4
 201.458	0.918	rating	0.4256	intensity	disgust	female	African	young	n/a
 201.908	0.468	rating_mouse_trajectory	0.4256	intensity	disgust	female	African	young	n/a
@@ -161,6 +166,7 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 235.321	0.553	rating_mouse_trajectory	0.4033	intensity	fear	male	EA	old	n/a
 238.678	1.311	face	n/a	intensity	surprise	male	WC	old	task-faces/2Surprise_Model3_2Male_1WC_2Old.mp4
 239.989	0.485	rating	0.466	intensity	surprise	male	WC	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	male	WC	old	n/a
 241.894	1.313	face	n/a	intensity	sad	female	EA	old	task-faces/6Sad_Model2_1Female_2EA_2Old.mp4
 243.207	1.151	rating	0.0595	intensity	sad	female	EA	old	n/a
 243.707	0.651	rating_mouse_trajectory	0.0595	intensity	sad	female	EA	old	n/a
@@ -172,13 +178,16 @@ onset	duration	trial_type	response_value	rating_type	expression	sex	race	age	sti
 255.111	0.718	rating_mouse_trajectory	0.2172	intensity	pain	female	EA	young	n/a
 257.295	1.301	face	n/a	intensity	surprise	male	African	old	task-faces/2Surprise_Model5_2Male_3African_2Old.mp4
 258.596	0.428	rating	0.466	intensity	surprise	male	African	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	male	African	old	n/a
 261.503	1.311	face	n/a	intensity	sad	male	EA	old	task-faces/6Sad_Model3_2Male_2EA_2Old.mp4
 262.814	1.552	rating	0.0494	intensity	sad	male	EA	old	n/a
 263.281	1.085	rating_mouse_trajectory	0.0494	intensity	sad	male	EA	old	n/a
 265.738	1.311	face	n/a	intensity	surprise	female	African	old	task-faces/2Surprise_Model3_1Female_3African_2Old.mp4
 267.049	0.508	rating	0.466	intensity	surprise	female	African	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	female	African	old	n/a
 268.978	1.306	face	n/a	intensity	surprise	male	EA	old	task-faces/2Surprise_Model5_2Male_2EA_2Old.mp4
 270.284	0.507	rating	0.466	intensity	surprise	male	EA	old	n/a
+n/a	n/a	rating_mouse_trajectory	0.466	intensity	surprise	male	EA	old	n/a
 273.207	2.045	face	n/a	intensity	pleasure	male	WC	young	task-faces/8Pleasure_Model2_2Male_1WC_1Young.mp4
 275.252	1.121	rating	0.4478	intensity	pleasure	male	WC	young	n/a
 275.852	0.521	rating_mouse_trajectory	0.4478	intensity	pleasure	male	WC	young	n/a

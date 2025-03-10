@@ -41,6 +41,7 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 214.131	3.75	expectation_mouse_trajectory	1005.0	483.0	Falling prey to misfortune	city	Audio	n/a
 222.131	9.308	narrative_presentation	n/a	n/a	Madness	city	Audio	task-narratives/Narrative6Situation9.mp3
 231.439	n/a	rating_feeling	n/a	n/a	Madness	city	Audio	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Madness	city	Audio	n/a
 235.466	1.717	rating_expectation	745.0	457.0	Madness	city	Audio	n/a
 236.649	0.534	expectation_mouse_trajectory	745.0	457.0	Madness	city	Audio	n/a
 244.522	12.65	narrative_presentation	n/a	n/a	Enmity of kin	prison	Audio	task-narratives/Narrative5Situation1.mp3
@@ -70,7 +71,9 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 381.587	1.484	expectation_mouse_trajectory	885.0	525.0	Necessity of sacrificing loved ones	park	Audio	n/a
 388.31	5.48	narrative_presentation	n/a	n/a	Adultery	park	Audio	task-narratives/Narrative5Situation6.mp3
 393.79	n/a	rating_feeling	n/a	n/a	Adultery	park	Audio	n/a
+n/a	n/a	feeling_mouse_trajectory	n/a	n/a	Adultery	park	Audio	n/a
 397.814	n/a	rating_expectation	n/a	n/a	Adultery	park	Audio	n/a
+n/a	n/a	expectation_mouse_trajectory	n/a	n/a	Adultery	park	Audio	n/a
 405.883	20.818	narrative_presentation	n/a	n/a	Revolt	beach	Audio	task-narratives/Narrative5Situation7.mp3
 426.7	1.317	rating_feeling	928.0	477.0	Revolt	beach	Audio	n/a
 427.167	0.851	feeling_mouse_trajectory	928.0	477.0	Revolt	beach	Audio	n/a
