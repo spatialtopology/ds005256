@@ -20,6 +20,9 @@
     "BIDSVersion": "1.9.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds005256.v1.0.0",
     "DatasetType": "raw",
+    "EthicsApprovals": [
+	    "The institutional review board of Dartmouth College approved the study (CPHS STUDY00031937: Spatial Topology 31937), and all participants provided written consent."
+    ],
     "Funding": [
         "NIBIB:R01EB026549-03"
     ],
