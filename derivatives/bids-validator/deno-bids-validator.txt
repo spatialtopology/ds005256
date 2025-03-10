@@ -360,6 +360,15 @@ This design is suspiciously long.
 
 [36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
 
+	[31m[ERROR] HED_INTERNAL_ERROR An internal error occurred during HED validation.[39m
+		[31mGENERIC_ERROR[39m
+		/sub-0132/ses-02/func/sub-0132_ses-02_task-faces_acq-mb8_run-01_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
+		/sub-0132/ses-02/func/sub-0132_ses-02_task-faces_acq-mb8_run-02_events.tsv - ERROR: [GENERIC_ERROR] Internal error - message: "Attempting to access the onset of a TSV row without one.". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#generic-error.)
+
+		319 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=HED_INTERNAL_ERROR for existing conversations about this issue.[39m
+
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
           26371 Files, 2.23 TB               alignvideo              MRI                  
