@@ -18,10 +18,10 @@
         "Tor D. Wager"
     ],
     "BIDSVersion": "1.9.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005256.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005256.v1.1.0",
     "DatasetType": "raw",
     "EthicsApprovals": [
-	    "The institutional review board of Dartmouth College approved the study (CPHS STUDY00031937: Spatial Topology 31937), and all participants provided written consent."
+        "The institutional review board of Dartmouth College approved the study (CPHS STUDY00031937: Spatial Topology 31937), and all participants provided written consent."
     ],
     "Funding": [
         "NIBIB:R01EB026549-03"
@@ -31,8 +31,8 @@
     "License": "CC0",
     "Name": "A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks",
     "ReferencesAndLinks": [
-	    "https://doi.org/10.1101/2024.06.21.599974",
-	    "https://github.com/spatialtopology/spacetop-prep"
+        "https://doi.org/10.1101/2024.06.21.599974",
+        "https://github.com/spatialtopology/spacetop-prep"
     ],
     "GeneratedBy": [
         {
@@ -49,9 +49,9 @@
             "Name": "ReproIn",
             "CodeURL": "https://github.com/repronim/reproin",
             "Container": {
-		    "Type": "singularity",
-		    "URI": "https://datasets.datalad.org/repronim/containers/images/repronim/repronim-reproin--0.9.0.sing"
-	    },
+                "Type": "singularity",
+                "URI": "https://datasets.datalad.org/repronim/containers/images/repronim/repronim-reproin--0.9.0.sing"
+            },
             "Version": "0.9.0"
         },
         {
