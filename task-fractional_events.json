@@ -15,6 +15,11 @@
     "Description": "Spell out the name of each task",
     "HED": "Organizational-property/Task/#"
   },
+  "question": {
+    "LongName": "Type of question in task-tomspunt, task-tomsaxe",
+    "Description": "Question which was asked in each trial",
+    "HED": "Organizational-property/Control-variable/#"
+  },
   "response_accuracy": {
     "LongName": "Correct or Incorrect response",
     "Description": "Correct or Incorrect response in regards to question presented on screen; Options are True or False, presented on screen, underneath question. Participants are prompted to respond with MR-compatible button box",
