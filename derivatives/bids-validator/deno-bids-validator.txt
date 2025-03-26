@@ -1,360 +1,784 @@
+	[33m[WARNING] HED_WARNING The validation on this HED string returned a warning.[39m
+		[33mTAG_EXTENDED[39m
+		/task-social_events.json - WARNING: [TAG_EXTENDED] Tag extensions found for [Data-source-type/Participant-generated] in "(Data-source-type/Participant-generated, Data-value/Quantitative-value/Item-interval/#)".  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extended.)
+		/task-social_events.json - WARNING: [TAG_EXTENDED] Tag extensions found for [Data-source-type/Participant-generated, Categorical-judgment-value/No-sensation] in "(Data-source-type/Participant-generated, Categorical-judgment-value/No-sensation)".  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extended.)
+
+		111468 more files with the same issue
+
+		[33mSIDECAR_KEY_MISSING[39m
+		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-02_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Values "[falsebelief, falsephoto]" appear in column "value" of file "", but were not defined in any associated sidecar.  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Values "[falsebelief, falsephoto]" appear in column "value" of file "", but were not defined in any associated sidecar.  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+
+		49 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
+
 	[33m[WARNING] JSON_KEY_RECOMMENDED A JSON file is missing a key listed as recommended.[39m
 		[33mSourceDatasets[39m
-		/dataset_description.json
+		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets.
+Valid keys in each object include `"URL"`, `"DOI"` (see
+[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
+`"Version"` with
+[string](https://www.w3schools.com/js/js_json_datatypes.asp)
+values.
+
 
 [36m	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
 	[33m[WARNING] SIDECAR_KEY_RECOMMENDED A data file's JSON sidecar is missing a key listed as recommended.[39m
 		[33mGradientSetType[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: It should be possible to infer the gradient coil from the scanner model.
+If not, for example because of a custom upgrade or use of a gradient
+insert set, then the specifications of the actual gradient coil should be
+reported independently.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: It should be possible to infer the gradient coil from the scanner model.
+If not, for example because of a custom upgrade or use of a gradient
+insert set, then the specifications of the actual gradient coil should be
+reported independently.
+
 
 		10589 more files with the same issue
 
 		[33mMRTransmitCoilSequence[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: This is a relevant field if a non-standard transmit coil is used.
+Corresponds to DICOM Tag 0018, 9049 `MR Transmit Coil Sequence`.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: This is a relevant field if a non-standard transmit coil is used.
+Corresponds to DICOM Tag 0018, 9049 `MR Transmit Coil Sequence`.
+
 
 		10589 more files with the same issue
 
 		[33mMatrixCoilMode[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: (If used)
+A method for reducing the number of independent channels by combining in
+analog the signals from multiple coil elements.
+There are typically different default modes when using un-accelerated or
+accelerated (for example, `"GRAPPA"`, `"SENSE"`) imaging.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: (If used)
+A method for reducing the number of independent channels by combining in
+analog the signals from multiple coil elements.
+There are typically different default modes when using un-accelerated or
+accelerated (for example, `"GRAPPA"`, `"SENSE"`) imaging.
+
 
 		10589 more files with the same issue
 
 		[33mCoilCombinationMethod[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: Almost all fMRI studies using phased-array coils use root-sum-of-squares
+(rSOS) combination, but other methods exist.
+The image reconstruction is changed by the coil combination method
+(as for the matrix coil mode above),
+so anything non-standard should be reported.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Almost all fMRI studies using phased-array coils use root-sum-of-squares
+(rSOS) combination, but other methods exist.
+The image reconstruction is changed by the coil combination method
+(as for the matrix coil mode above),
+so anything non-standard should be reported.
+
 
 		10589 more files with the same issue
 
 		[33mPulseSequenceType[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: A general description of the pulse sequence used for the scan.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: A general description of the pulse sequence used for the scan.
+
 
 		10589 more files with the same issue
 
 		[33mMTState[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: Boolean stating whether the magnetization transfer pulse is applied.
+Corresponds to DICOM Tag 0018, 9020 `Magnetization Transfer`.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Boolean stating whether the magnetization transfer pulse is applied.
+Corresponds to DICOM Tag 0018, 9020 `Magnetization Transfer`.
+
 
 		10589 more files with the same issue
 
 		[33mSpoilingState[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: Boolean stating whether the pulse sequence uses any type of spoiling
+strategy to suppress residual transverse magnetization.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Boolean stating whether the pulse sequence uses any type of spoiling
+strategy to suppress residual transverse magnetization.
+
 
 		10589 more files with the same issue
 
 		[33mNumberShots[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The number of RF excitations needed to reconstruct a slice or volume
+(may be referred to as partition).
+Please mind that this is not the same as Echo Train Length which denotes the
+number of k-space lines collected after excitation in a multi-echo readout.
+The data type array is applicable for specifying this parameter before and
+after the k-space center is sampled.
+Please see
+[`"NumberShots"` metadata field]\
+(SPEC_ROOT/appendices/qmri.md#numbershots-metadata-field)
+in the qMRI appendix for corresponding calculations.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The number of RF excitations needed to reconstruct a slice or volume
+(may be referred to as partition).
+Please mind that this is not the same as Echo Train Length which denotes the
+number of k-space lines collected after excitation in a multi-echo readout.
+The data type array is applicable for specifying this parameter before and
+after the k-space center is sampled.
+Please see
+[`"NumberShots"` metadata field]\
+(SPEC_ROOT/appendices/qmri.md#numbershots-metadata-field)
+in the qMRI appendix for corresponding calculations.
+
 
 		10589 more files with the same issue
 
-		[33mParallelReductionFactorInPlane[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
-
-		10472 more files with the same issue
-
 		[33mParallelReductionFactorOutOfPlane[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The parallel imaging (for instance, GRAPPA) factor in the second phase encoding dimension of 3D sequences.
+Use the denominator of the fraction of k-space encoded in the second phase encoding dimension.
+For example, 2 means half of k-space is encoded.
+Will typically be 1 for 2D sequences, as each slice in a 2D acquisition is usually fully encoded.
+`ParallelReductionFactorOutOfPlane` should not be confused with `MultibandAccelerationFactor`,
+as they imply different methods of accelerating the acquisition.
+Corresponds to DICOM Tag 0018, 9155 `Parallel Reduction Factor out-of-plane`.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The parallel imaging (for instance, GRAPPA) factor in the second phase encoding dimension of 3D sequences.
+Use the denominator of the fraction of k-space encoded in the second phase encoding dimension.
+For example, 2 means half of k-space is encoded.
+Will typically be 1 for 2D sequences, as each slice in a 2D acquisition is usually fully encoded.
+`ParallelReductionFactorOutOfPlane` should not be confused with `MultibandAccelerationFactor`,
+as they imply different methods of accelerating the acquisition.
+Corresponds to DICOM Tag 0018, 9155 `Parallel Reduction Factor out-of-plane`.
+
 
 		10589 more files with the same issue
 
 		[33mParallelAcquisitionTechnique[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The type of parallel imaging used (for example `"GRAPPA"`, `"SENSE"`).
+Corresponds to DICOM Tag 0018, 9078 `Parallel Acquisition Technique`.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The type of parallel imaging used (for example `"GRAPPA"`, `"SENSE"`).
+Corresponds to DICOM Tag 0018, 9078 `Parallel Acquisition Technique`.
+
 
 		10589 more files with the same issue
 
 		[33mPartialFourierDirection[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The direction where only partial Fourier information was collected.
+Corresponds to DICOM Tag 0018, 9036 `Partial Fourier Direction`.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The direction where only partial Fourier information was collected.
+Corresponds to DICOM Tag 0018, 9036 `Partial Fourier Direction`.
+
 
 		10589 more files with the same issue
+
+		[33mEffectiveEchoSpacing[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The "effective" sampling interval, specified in seconds,
+between lines in the phase-encoding direction,
+defined based on the size of the reconstructed image in the phase direction.
+It is frequently, but incorrectly, referred to as "dwell time"
+(see the `"DwellTime"` parameter for actual dwell time).
+It is required for unwarping distortions using field maps.
+Note that beyond just in-plane acceleration,
+a variety of other manipulations to the phase encoding need to be accounted
+for properly, including partial fourier, phase oversampling,
+phase resolution, phase field-of-view and interpolation.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The "effective" sampling interval, specified in seconds,
+between lines in the phase-encoding direction,
+defined based on the size of the reconstructed image in the phase direction.
+It is frequently, but incorrectly, referred to as "dwell time"
+(see the `"DwellTime"` parameter for actual dwell time).
+It is required for unwarping distortions using field maps.
+Note that beyond just in-plane acceleration,
+a variety of other manipulations to the phase encoding need to be accounted
+for properly, including partial fourier, phase oversampling,
+phase resolution, phase field-of-view and interpolation.
+
+
+		232 more files with the same issue
 
 		[33mMixingTime[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: In the context of a stimulated- and spin-echo 3D EPI sequence for B1+ mapping
+or a stimulated-echo MRS sequence,
+corresponds to the interval between spin- and stimulated-echo pulses.
+In the context of a diffusion-weighted double spin-echo sequence,
+corresponds to the interval between two successive diffusion sensitizing
+gradients, specified in seconds.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: In the context of a stimulated- and spin-echo 3D EPI sequence for B1+ mapping
+or a stimulated-echo MRS sequence,
+corresponds to the interval between spin- and stimulated-echo pulses.
+In the context of a diffusion-weighted double spin-echo sequence,
+corresponds to the interval between two successive diffusion sensitizing
+gradients, specified in seconds.
+
 
 		10589 more files with the same issue
 
-		[33mInversionTime[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		[33mPhaseEncodingDirection[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The letters `i`, `j`, `k` correspond to the first, second and third axis of
+the data in the NIFTI file.
+The polarity of the phase encoding is assumed to go from zero index to
+maximum index unless `-` sign is present
+(then the order is reversed - starting from the highest index instead of
+zero).
+`PhaseEncodingDirection` is defined as the direction along which phase is was
+modulated which may result in visible distortions.
+Note that this is not the same as the DICOM term
+`InPlanePhaseEncodingDirection` which can have `ROW` or `COL` values.
 
-		10472 more files with the same issue
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The letters `i`, `j`, `k` correspond to the first, second and third axis of
+the data in the NIFTI file.
+The polarity of the phase encoding is assumed to go from zero index to
+maximum index unless `-` sign is present
+(then the order is reversed - starting from the highest index instead of
+zero).
+`PhaseEncodingDirection` is defined as the direction along which phase is was
+modulated which may result in visible distortions.
+Note that this is not the same as the DICOM term
+`InPlanePhaseEncodingDirection` which can have `ROW` or `COL` values.
 
-		[33mSliceEncodingDirection[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
 
-		10350 more files with the same issue
+		232 more files with the same issue
+
+		[33mTotalReadoutTime[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: This is actually the "effective" total readout time,
+defined as the readout duration, specified in seconds,
+that would have generated data with the given level of distortion.
+It is NOT the actual, physical duration of the readout train.
+If `"EffectiveEchoSpacing"` has been properly computed,
+it is just `EffectiveEchoSpacing * (ReconMatrixPE - 1)`.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: This is actually the "effective" total readout time,
+defined as the readout duration, specified in seconds,
+that would have generated data with the given level of distortion.
+It is NOT the actual, physical duration of the readout train.
+If `"EffectiveEchoSpacing"` has been properly computed,
+it is just `EffectiveEchoSpacing * (ReconMatrixPE - 1)`.
+
+
+		232 more files with the same issue
 
 		[33mMultibandAccelerationFactor[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The multiband factor, for multiband acquisitions.
+
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The multiband factor, for multiband acquisitions.
+
 
 		6063 more files with the same issue
 
+		[33mManufacturer[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer of the equipment that produced the measurements.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer of the equipment that produced the measurements.
+
+
+		115 more files with the same issue
+
+		[33mManufacturersModelName[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's model name of the equipment that produced the measurements.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's model name of the equipment that produced the measurements.
+
+
+		115 more files with the same issue
+
+		[33mDeviceSerialNumber[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The serial number of the equipment that produced the measurements.
+A pseudonym can also be used to prevent the equipment from being
+identifiable, so long as each pseudonym is unique within the dataset.
+
+
+		115 more files with the same issue
+
+		[33mStationName[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Institution defined name of the machine that produced the measurements.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Institution defined name of the machine that produced the measurements.
+
+
+		115 more files with the same issue
+
+		[33mSoftwareVersions[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's designation of software version of the equipment that produced
+the measurements.
+
+
+		115 more files with the same issue
+
+		[33mMagneticFieldStrength[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Nominal field strength of MR magnet in Tesla.
+Corresponds to DICOM Tag 0018, 0087 `Magnetic Field Strength`.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Nominal field strength of MR magnet in Tesla.
+Corresponds to DICOM Tag 0018, 0087 `Magnetic Field Strength`.
+
+
+		115 more files with the same issue
+
+		[33mReceiveCoilName[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information describing the receiver coil.
+Corresponds to DICOM Tag 0018, 1250 `Receive Coil Name`,
+although not all vendors populate that DICOM Tag,
+in which case this field can be derived from an appropriate
+private DICOM field.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information describing the receiver coil.
+Corresponds to DICOM Tag 0018, 1250 `Receive Coil Name`,
+although not all vendors populate that DICOM Tag,
+in which case this field can be derived from an appropriate
+private DICOM field.
+
+
+		115 more files with the same issue
+
+		[33mReceiveCoilActiveElements[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information describing the active/selected elements of the receiver coil.
+This does not correspond to a tag in the DICOM ontology.
+The vendor-defined terminology for active coil elements can go in this field.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information describing the active/selected elements of the receiver coil.
+This does not correspond to a tag in the DICOM ontology.
+The vendor-defined terminology for active coil elements can go in this field.
+
+
+		115 more files with the same issue
+
+		[33mScanningSequence[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Description of the type of data acquired.
+Corresponds to DICOM Tag 0018, 0020 `Scanning Sequence`.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Description of the type of data acquired.
+Corresponds to DICOM Tag 0018, 0020 `Scanning Sequence`.
+
+
+		115 more files with the same issue
+
+		[33mSequenceVariant[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Variant of the ScanningSequence.
+Corresponds to DICOM Tag 0018, 0021 `Sequence Variant`.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Variant of the ScanningSequence.
+Corresponds to DICOM Tag 0018, 0021 `Sequence Variant`.
+
+
+		115 more files with the same issue
+
+		[33mScanOptions[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Parameters of ScanningSequence.
+Corresponds to DICOM Tag 0018, 0022 `Scan Options`.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Parameters of ScanningSequence.
+Corresponds to DICOM Tag 0018, 0022 `Scan Options`.
+
+
+		115 more files with the same issue
+
+		[33mSequenceName[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's designation of the sequence name.
+Corresponds to DICOM Tag 0018, 0024 `Sequence Name`.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's designation of the sequence name.
+Corresponds to DICOM Tag 0018, 0024 `Sequence Name`.
+
+
+		115 more files with the same issue
+
+		[33mPulseSequenceDetails[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information beyond pulse sequence type that identifies the specific pulse
+sequence used (for example,
+`"Standard Siemens Sequence distributed with the VB17 software"`,
+`"Siemens WIP ### version #.##,"` or
+`"Sequence written by X using a version compiled on MM/DD/YYYY"`).
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information beyond pulse sequence type that identifies the specific pulse
+sequence used (for example,
+`"Standard Siemens Sequence distributed with the VB17 software"`,
+`"Siemens WIP ### version #.##,"` or
+`"Sequence written by X using a version compiled on MM/DD/YYYY"`).
+
+
+		115 more files with the same issue
+
+		[33mParallelReductionFactorInPlane[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The parallel imaging (for instance, GRAPPA) factor in plane.
+Use the denominator of the fraction of k-space encoded for each slice.
+For example, 2 means half of k-space is encoded.
+Corresponds to DICOM Tag 0018, 9069 `Parallel Reduction Factor In-plane`.
+
+		/sub-0132/ses-01/dwi/sub-0132_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz - Field description: The parallel imaging (for instance, GRAPPA) factor in plane.
+Use the denominator of the fraction of k-space encoded for each slice.
+For example, 2 means half of k-space is encoded.
+Corresponds to DICOM Tag 0018, 9069 `Parallel Reduction Factor In-plane`.
+
+
+		10472 more files with the same issue
+
+		[33mPartialFourier[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The fraction of partial Fourier information collected.
+Corresponds to DICOM Tag 0018, 9081 `Partial Fourier`.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The fraction of partial Fourier information collected.
+Corresponds to DICOM Tag 0018, 9081 `Partial Fourier`.
+
+
+		115 more files with the same issue
+
+		[33mEchoTime[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The echo time (TE) for the acquisition, specified in seconds.
+Corresponds to DICOM Tag 0018, 0081 `Echo Time`
+(please note that the DICOM term is in milliseconds not seconds).
+The data type number may apply to files from any MRI modality concerned with
+a single value for this field, or to the files in a
+[file collection](SPEC_ROOT/appendices/file-collections.md)
+where the value of this field is iterated using the
+[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The echo time (TE) for the acquisition, specified in seconds.
+Corresponds to DICOM Tag 0018, 0081 `Echo Time`
+(please note that the DICOM term is in milliseconds not seconds).
+The data type number may apply to files from any MRI modality concerned with
+a single value for this field, or to the files in a
+[file collection](SPEC_ROOT/appendices/file-collections.md)
+where the value of this field is iterated using the
+[`echo` entity](SPEC_ROOT/appendices/entities.md#echo).
+
+
+		115 more files with the same issue
+
+		[33mInversionTime[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The inversion time (TI) for the acquisition, specified in seconds.
+Inversion time is the time after the middle of inverting RF pulse to middle
+of excitation pulse to detect the amount of longitudinal magnetization.
+Corresponds to DICOM Tag 0018, 0082 `Inversion Time`
+(please note that the DICOM term is in milliseconds not seconds).
+
+		/sub-0132/ses-01/dwi/sub-0132_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz - Field description: The inversion time (TI) for the acquisition, specified in seconds.
+Inversion time is the time after the middle of inverting RF pulse to middle
+of excitation pulse to detect the amount of longitudinal magnetization.
+Corresponds to DICOM Tag 0018, 0082 `Inversion Time`
+(please note that the DICOM term is in milliseconds not seconds).
+
+
+		10472 more files with the same issue
+
+		[33mDwellTime[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Actual dwell time (in seconds) of the receiver per point in the readout
+direction, including any oversampling.
+For Siemens, this corresponds to DICOM field 0019, 1018 (in ns).
+This value is necessary for the optional readout distortion correction of
+anatomicals in the HCP Pipelines.
+It also usefully provides a handle on the readout bandwidth,
+which isn't captured in the other metadata tags.
+Not to be confused with `"EffectiveEchoSpacing"`, and the frequent mislabeling
+of echo spacing (which is spacing in the phase encoding direction) as
+"dwell time" (which is spacing in the readout direction).
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Actual dwell time (in seconds) of the receiver per point in the readout
+direction, including any oversampling.
+For Siemens, this corresponds to DICOM field 0019, 1018 (in ns).
+This value is necessary for the optional readout distortion correction of
+anatomicals in the HCP Pipelines.
+It also usefully provides a handle on the readout bandwidth,
+which isn't captured in the other metadata tags.
+Not to be confused with `"EffectiveEchoSpacing"`, and the frequent mislabeling
+of echo spacing (which is spacing in the phase encoding direction) as
+"dwell time" (which is spacing in the readout direction).
+
+
+		115 more files with the same issue
+
+		[33mFlipAngle[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Flip angle (FA) for the acquisition, specified in degrees.
+Corresponds to: DICOM Tag 0018, 1314 `Flip Angle`.
+The data type number may apply to files from any MRI modality concerned with
+a single value for this field, or to the files in a
+[file collection](SPEC_ROOT/appendices/file-collections.md)
+where the value of this field is iterated using the
+[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Flip angle (FA) for the acquisition, specified in degrees.
+Corresponds to: DICOM Tag 0018, 1314 `Flip Angle`.
+The data type number may apply to files from any MRI modality concerned with
+a single value for this field, or to the files in a
+[file collection](SPEC_ROOT/appendices/file-collections.md)
+where the value of this field is iterated using the
+[`flip` entity](SPEC_ROOT/appendices/entities.md#flip).
+
+
+		115 more files with the same issue
+
+		[33mInstitutionName[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The name of the institution in charge of the equipment that produced the
+measurements.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The name of the institution in charge of the equipment that produced the
+measurements.
+
+
+		115 more files with the same issue
+
+		[33mInstitutionAddress[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The address of the institution in charge of the equipment that produced the
+measurements.
+
+
+		115 more files with the same issue
+
+		[33mInstitutionalDepartmentName[39m
+		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+
+		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The department in the institution in charge of the equipment that produced
+the measurements.
+
+
+		115 more files with the same issue
+
+		[33mSliceEncodingDirection[39m
+		/sub-0132/ses-01/dwi/sub-0132_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz - Field description: The axis of the NIfTI data along which slices were acquired,
+and the direction in which `"SliceTiming"` is defined with respect to.
+`i`, `j`, `k` identifiers correspond to the first, second and third axis of
+the data in the NIfTI file.
+A `-` sign indicates that the contents of `"SliceTiming"` are defined in
+reverse order - that is, the first entry corresponds to the slice with the
+largest index, and the final entry corresponds to slice index zero.
+When present, the axis defined by `"SliceEncodingDirection"` needs to be
+consistent with the `slice_dim` field in the NIfTI header.
+When absent, the entries in `"SliceTiming"` must be in the order of increasing
+slice index as defined by the NIfTI header.
+
+		/sub-0132/ses-01/fmap/sub-0132_ses-01_acq-96dirX6b0Xmb_dir-ap_epi.nii.gz - Field description: The axis of the NIfTI data along which slices were acquired,
+and the direction in which `"SliceTiming"` is defined with respect to.
+`i`, `j`, `k` identifiers correspond to the first, second and third axis of
+the data in the NIfTI file.
+A `-` sign indicates that the contents of `"SliceTiming"` are defined in
+reverse order - that is, the first entry corresponds to the slice with the
+largest index, and the final entry corresponds to slice index zero.
+When present, the axis defined by `"SliceEncodingDirection"` needs to be
+consistent with the `slice_dim` field in the NIfTI header.
+When absent, the entries in `"SliceTiming"` must be in the order of increasing
+slice index as defined by the NIfTI header.
+
+
+		10355 more files with the same issue
+
 		[33mB0FieldIdentifier[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+		/sub-0132/ses-01/fmap/sub-0132_ses-01_acq-96dirX6b0Xmb_dir-ap_epi.nii.gz - Field description: The presence of this key states that this particular 3D or 4D image MAY be
+used for fieldmap estimation purposes.
+Each `"B0FieldIdentifier"` MUST be a unique string within one participant's tree,
+shared only by the images meant to be used as inputs for the estimation of a
+particular instance of the *B<sub>0</sub> field* estimation.
+It is RECOMMENDED to derive this identifier from DICOM Tags, for example,
+DICOM tag 0018, 1030 `Protocol Name`, or DICOM tag 0018, 0024 `Sequence Name`
+when the former is not defined (for example, in GE devices.)
+
+		/sub-0132/ses-01/fmap/sub-0132_ses-01_acq-96dirX6b0Xmb_dir-pa_epi.nii.gz - Field description: The presence of this key states that this particular 3D or 4D image MAY be
+used for fieldmap estimation purposes.
+Each `"B0FieldIdentifier"` MUST be a unique string within one participant's tree,
+shared only by the images meant to be used as inputs for the estimation of a
+particular instance of the *B<sub>0</sub> field* estimation.
+It is RECOMMENDED to derive this identifier from DICOM Tags, for example,
+DICOM tag 0018, 1030 `Protocol Name`, or DICOM tag 0018, 0024 `Sequence Name`
+when the former is not defined (for example, in GE devices.)
+
 
 		1967 more files with the same issue
 
-		[33mStimulusPresentation[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-faces_acq-mb8_run-02_events.tsv
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-04_events.tsv
-
-		4219 more files with the same issue
-
 		[33mNumberOfVolumesDiscardedByScanner[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: Number of volumes ("dummy scans") discarded by the scanner
+(as opposed to those discarded by the user post hoc)
+before saving the imaging file.
+For example, a sequence that automatically discards the first 4 volumes
+before saving would have this field as 4.
+A sequence that does not discard dummy scans would have this set to 0.
+Please note that the onsets recorded in the `events.tsv` file should always
+refer to the beginning of the acquisition of the first volume in the
+corresponding imaging file - independent of the value of
+`"NumberOfVolumesDiscardedByScanner"` field.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: Number of volumes ("dummy scans") discarded by the scanner
+(as opposed to those discarded by the user post hoc)
+before saving the imaging file.
+For example, a sequence that automatically discards the first 4 volumes
+before saving would have this field as 4.
+A sequence that does not discard dummy scans would have this set to 0.
+Please note that the onsets recorded in the `events.tsv` file should always
+refer to the beginning of the acquisition of the first volume in the
+corresponding imaging file - independent of the value of
+`"NumberOfVolumesDiscardedByScanner"` field.
+
 
 		4176 more files with the same issue
 
 		[33mNumberOfVolumesDiscardedByUser[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: Number of volumes ("dummy scans") discarded by the user before including the
+file in the dataset.
+If possible, including all of the volumes is strongly recommended.
+Please note that the onsets recorded in the `events.tsv` file should always
+refer to the beginning of the acquisition of the first volume in the
+corresponding imaging file - independent of the value of
+`"NumberOfVolumesDiscardedByUser"` field.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: Number of volumes ("dummy scans") discarded by the user before including the
+file in the dataset.
+If possible, including all of the volumes is strongly recommended.
+Please note that the onsets recorded in the `events.tsv` file should always
+refer to the beginning of the acquisition of the first volume in the
+corresponding imaging file - independent of the value of
+`"NumberOfVolumesDiscardedByUser"` field.
+
 
 		4176 more files with the same issue
 
 		[33mDelayTime[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: User specified time (in seconds) to delay the acquisition of data for the
+following volume.
+If the field is not present it is assumed to be set to zero.
+Corresponds to Siemens CSA header field `lDelayTimeInTR`.
+This field is REQUIRED for sparse sequences using the `"RepetitionTime"` field
+that do not have the `"SliceTiming"` field set to allowed for accurate
+calculation of "acquisition time".
+This field is mutually exclusive with `"VolumeTiming"`.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: User specified time (in seconds) to delay the acquisition of data for the
+following volume.
+If the field is not present it is assumed to be set to zero.
+Corresponds to Siemens CSA header field `lDelayTimeInTR`.
+This field is REQUIRED for sparse sequences using the `"RepetitionTime"` field
+that do not have the `"SliceTiming"` field set to allowed for accurate
+calculation of "acquisition time".
+This field is mutually exclusive with `"VolumeTiming"`.
+
 
 		4176 more files with the same issue
 
 		[33mAcquisitionDuration[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: Duration (in seconds) of volume acquisition.
+Corresponds to DICOM Tag 0018, 9073 `Acquisition Duration`.
+This field is mutually exclusive with `"RepetitionTime"`.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: Duration (in seconds) of volume acquisition.
+Corresponds to DICOM Tag 0018, 9073 `Acquisition Duration`.
+This field is mutually exclusive with `"RepetitionTime"`.
+
 
 		4176 more files with the same issue
 
 		[33mDelayAfterTrigger[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: Duration (in seconds) from trigger delivery to scan onset.
+This delay is commonly caused by adjustments and loading times.
+This specification is entirely independent of
+`"NumberOfVolumesDiscardedByScanner"` or `"NumberOfVolumesDiscardedByUser"`,
+as the delay precedes the acquisition.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: Duration (in seconds) from trigger delivery to scan onset.
+This delay is commonly caused by adjustments and loading times.
+This specification is entirely independent of
+`"NumberOfVolumesDiscardedByScanner"` or `"NumberOfVolumesDiscardedByUser"`,
+as the delay precedes the acquisition.
+
 
 		4176 more files with the same issue
 
 		[33mInstructions[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: Text of the instructions given to participants before the recording.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: Text of the instructions given to participants before the recording.
+
 
 		4176 more files with the same issue
 
 		[33mTaskDescription[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: Longer description of the task.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: Longer description of the task.
+
 
 		4176 more files with the same issue
 
 		[33mCogPOID[39m
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-alignvideo_acq-mb8_run-03_bold.nii.gz
-		/sub-0104/ses-02/func/sub-0104_ses-02_task-narratives_acq-mb8_run-03_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
+of the corresponding [CogPO](http://www.cogpo.org/) term.
+
 
 		4176 more files with the same issue
 
-		[33mEffectiveEchoSpacing[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
+		[33mStimulusPresentation[39m
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
 
-		237 more files with the same issue
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_events.tsv - Field description: Object containing key-value pairs related to the software used to present
+the stimuli during the experiment.
 
-		[33mPhaseEncodingDirection[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
 
-		237 more files with the same issue
-
-		[33mTotalReadoutTime[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		237 more files with the same issue
-
-		[33mManufacturer[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mManufacturersModelName[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mDeviceSerialNumber[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mStationName[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mSoftwareVersions[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mMagneticFieldStrength[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mReceiveCoilName[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mReceiveCoilActiveElements[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mScanningSequence[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mSequenceVariant[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mScanOptions[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mSequenceName[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mPulseSequenceDetails[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mPartialFourier[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mEchoTime[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mDwellTime[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mFlipAngle[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mInstitutionName[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		125 more files with the same issue
-
-		[33mInstitutionAddress[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mInstitutionalDepartmentName[39m
-		/sub-0104/ses-01/anat/sub-0104_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-		/sub-0103/ses-01/anat/sub-0103_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz
-
-		120 more files with the same issue
-
-		[33mSliceTiming[39m
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
-		/sub-0006/ses-04/func/sub-0006_ses-04_task-fractional_acq-mb8_run-02_bold.nii.gz
-
-		3 more files with the same issue
-
-		[33mTaskName[39m
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
-		/sub-0006/ses-04/func/sub-0006_ses-04_task-fractional_acq-mb8_run-01_sbref.nii.gz
-
-		3 more files with the same issue
+		4219 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
 	[33m[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.[39m
 		[33mduration[39m
-		/sub-0104/ses-04/func/sub-0104_ses-04_task-social_acq-mb8_run-01_events.tsv - defined in /task-social_events.json
-		/sub-0104/ses-04/func/sub-0104_ses-04_task-social_acq-mb8_run-04_events.tsv - defined in /task-social_events.json
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-social_acq-mb8_run-01_events.tsv - defined in /task-social_events.json
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-social_acq-mb8_run-02_events.tsv - defined in /task-social_events.json
 
 		1811 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.[39m
 
-	[33m[WARNING] HED_WARNING The validation on this HED string returned a warning.[39m
-		[33mSIDECAR_KEY_MISSING[39m
-		/sub-0104/ses-04/func/sub-0104_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "falsebelief" was referenced in column "value" of file "undefined", but it was not found in any associated sidecar. TSV line: 2. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
-		/sub-0104/ses-04/func/sub-0104_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Key "falsebelief" was referenced in column "value" of file "undefined", but it was not found in any associated sidecar. TSV line: 3. (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+	[33m[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
+This design is suspiciously short.
+[39m
+		/sub-0003/ses-01/func/sub-0003_ses-01_task-social_acq-mb8_run-01_bold.nii.gz
+		/sub-0003/ses-01/func/sub-0003_ses-01_task-social_acq-mb8_run-06_bold.nii.gz
 
-		14326 more files with the same issue
+		15 more files with the same issue
 
-[36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
+[36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_SHORT_EVENT_DESIGN for existing conversations about this issue.[39m
 
-	[33m[WARNING] TSV_ADDITIONAL_COLUMNS_UNDEFINED A TSV file has extra columns which are not defined in its associated JSON sidecar[39m
-		[33mquestion[39m
-		/sub-0104/ses-04/func/sub-0104_ses-04_task-fractional_acq-mb8_run-02_events.tsv
-		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-01_events.tsv
+	[33m[WARNING] SUSPICIOUSLY_LONG_EVENT_DESIGN The onset of the last event is after the total duration of the corresponding scan.
+This design is suspiciously long.
+[39m
+		/sub-0011/ses-02/func/sub-0011_ses-02_task-narratives_acq-mb8_run-02_bold.nii.gz
+		/sub-0013/ses-04/func/sub-0013_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
 
-		46 more files with the same issue
+		7 more files with the same issue
 
-[36m	Please visit https://neurostars.org/search?q=TSV_ADDITIONAL_COLUMNS_UNDEFINED for existing conversations about this issue.[39m
+[36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
 
-	[31m[ERROR] NIFTI_HEADER_UNREADABLE We were unable to parse header data from this NIfTI file. Please ensure it is not corrupted or mislabeled.[39m
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-ap_run-01_epi.nii.gz
-		/sub-0104/ses-02/fmap/sub-0104_ses-02_acq-mb8_dir-pa_run-02_epi.nii.gz
+	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
+		[31mVALUE_INVALID[39m
+		/sub-0132/ses-02/func/sub-0132_ses-02_task-narratives_acq-mb8_run-01_events.tsv - ERROR: [VALUE_INVALID] Invalid placeholder value for tag "Label/Necessity of sacrificing loved ones". TSV line: "2". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)
+		/sub-0132/ses-02/func/sub-0132_ses-02_task-narratives_acq-mb8_run-01_events.tsv - ERROR: [VALUE_INVALID] Invalid placeholder value for tag "Label/Necessity of sacrificing loved ones". TSV line: "3". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)
 
-		10417 more files with the same issue
+		43969 more files with the same issue
 
-[36m	Please visit https://neurostars.org/search?q=NIFTI_HEADER_UNREADABLE for existing conversations about this issue.[39m
+[36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
 
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
-          26371 Files, 5.84 GB               narratives              MRI                  
-          117 - Subjects 4 - Sessions        shortvideo                                   
-                                             alignvideo                                   
-                                             social                                       
-                                             faces                                        
+          26382 Files, 2.23 TB               alignvideo              MRI                  
+          117 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
+                                             narratives                                   
+                                             shortvideo                                   
+                                             social                                       
 
 [36m	If you have any questions, please post on https://neurostars.org/tags/bids.[39m
