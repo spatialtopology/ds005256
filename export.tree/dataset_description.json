@@ -1,0 +1,34 @@
+{
+    "Acknowledgements": "We thank Terry J. Sacket and Courtney Rogers and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav O. Halchenko for helping to prepare this BIDS dataset.",
+    "Authors": [
+        "Heejung Jung",
+        "Yaroslav O. Halchenko",
+        "Maryam Amini",
+        "Bethany J. Hunt",
+        "Eilis I. Murphy",
+        "Patrick Sadil",
+        "Bogdan Petre",
+        "Zizhuang Miao",
+        "Philip A. Kragel",
+        "Xiaochun Han",
+        "Mickela O. Heilicher",
+        "Michael Sun",
+        "Owen G. Collins",
+        "Martin A. Lindquist",
+        "Tor D. Wager"
+    ],
+    "BIDSVersion": "1.9.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005256.v1.0.0",
+    "DatasetType": "raw",
+    "Funding": [
+        "NIBIB:R01EB026549-03"
+    ],
+    "HEDVersion": "8.2.0",
+    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+    "License": "CC0",
+    "Name": "A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks",
+    "ReferencesAndLinks": [
+        "TODO",
+        "List of papers or websites"
+    ]
+}

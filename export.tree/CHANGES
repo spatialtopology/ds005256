@@ -1,0 +1,9 @@
+1.0.0 2024-11-12
+  - BIDSidfy _events.tsv file and harmonize with func data
+  - Populate IntendedFor field in fmap metadata
+  - Identify runs to remove based on scannotes
+0.0.1  Initial data acquired
+TODOs:
+	- verify and possibly extend information in participants.tsv (see for example http://datasets.datalad.org/?dir=/openfmri/ds000208)
+	- fill out dataset_description.json, README, sourcedata/README (if present)
+	- provide _events.tsv file for each _bold.nii.gz with onsets of events (see  '8.5 Task events'  of BIDS specification)

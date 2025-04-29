@@ -1,0 +1,61 @@
+{
+    "duration": {
+        "Description": "For the 'rating' events, if no response was provided, the duration was imputed from the mouse trajectory data: It is the time point when participants stopped moving the mouse minus the time point when the trial started. In rare cases, participants did not move the mouse at all, no response could be imputed, and the duration would be 'n/a'. If you would like to model the rating period, you can use the maximum time for rating (5 seconds) to replace those missing values.", 
+        "Units": "s"
+    },
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "A categorical variable indicating event types within a trial",
+        "Levels": {
+            "cue": "when the cue of question type was displayed at the start of each block",
+            "video": "when the video was played in each trial",
+            "rating": "the rating period",
+            "rating_mouse_trajectory": "the period when the participant was moving the trackball during the rating"
+        }, 
+        "HED": {
+            "cue": "Sensory-event, Experimental-stimulus, Visual-presentation",
+            "video": "Sensory-event, Experimental-stimulus, Visual-presentation, Auditory-presentation",
+            "rating": "Agent-action, Human-agent, Experiment-participant, Participant-response",
+            "rating_mouse_trajectory": "Agent-action, Human-agent, Experiment-participant, Participant-response"
+        }
+    },
+    "response_angle": {
+        "LongName": "The angle of the rating",
+        "Description": "The scale is of a semi-circular shape, and a single value of angle can represent a rating. Here the left most end of the scale was defined as 0 degree, while the right most is 180 degree. Thus, all rating angles were within [0 180].", 
+        "Units": "degree", 
+        "HED": "(Angle/#, Agent-action, (Press, Mouse-button, Scroll-wheel))"
+    },
+    "response_label": {
+        "LongName": "The label of the rating",
+        "Description": "According to a set of rules (see main texts for details), we assigned each rating a label based on the angle of it.", 
+        "HED": "Label/#"
+    },
+    "block_condition": {
+        "LongName": "The experimental condition of the current block (of three trials)",
+        "Description": "The value in each Level below is the specific cue used in each type of blocks.",
+        "Levels": {
+            "likeability": "Consider how much you like this character",
+            "similarity": "How similar are you to the character?",
+            "mentalizing": "Consider what the character is thinking"
+        }, 
+        "HED": "Label/#"
+    },
+    "mentalizing_level": {
+        "LongName": "The specific condition for mentalizing blocks",
+        "Description": "Seven levels of mentalizing questions were used in the study. This column indicates which level was used if the block is mentalizing. The values in each level below are the questions used for that level.",
+        "Levels": {
+            "angry": "Was the character feeling angry?",
+            "calm": "Was the character feeling calm?",
+            "danger": "Did the character feel in danger?",
+            "enjoy": "Was the character enjoying themselves?",
+            "heights": "Was the character afraid of heights?",
+            "remember": "Was the character remembering something?",
+            "tired": "Was the character feeling tired?"
+        }, 
+        "HED": "Label/#"
+    },
+    "stim_file_TODO": {
+        "LongName": "The name of the stimulus file in this trial", 
+        "HED": "Pathname/#"
+    }
+}

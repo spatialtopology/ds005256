@@ -1,0 +1,49 @@
+onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_value	rating_glmslabel	rating_value_fillna	rating_glmslabel_fillna	rating_mouseonset	rating_mousedur	stim_file_TODO	pain_onset_ttl1	pain_onset_ttl2	pain_onset_ttl3	pain_onset_ttl4	pain_stimulus_delivery_success	cognitive_correct_response	cognitive_participant_response	cognitive_response_accuracy
+11.6	0.99	vicarious	cue	1	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l019.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+14.81	3.25	vicarious	expectrating	1	low_cue	n/a	26.87	Moderate	26.87	Moderate	1.72	1.54	task-social/cue/runtype-vicarious/scl/l019.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+21.49	5.0	vicarious	stimulus	1	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/nm106t1aaunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+36.91	3.67	vicarious	outcomerating	1	low_cue	low_stim	13.7	Moderate	13.7	Moderate	1.72	1.54	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+42.39	0.99	vicarious	cue	2	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h053.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+44.21	2.42	vicarious	expectrating	2	high_cue	n/a	74.4	Very Strong	74.4	Very Strong	0.83	1.59	task-social/cue/runtype-vicarious/sch/h053.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+57.49	5.0	vicarious	stimulus	2	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/bn080t1aeaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+67.51	3.59	vicarious	outcomerating	2	high_cue	med_stim	77.65	Very Strong	77.65	Very Strong	0.83	1.59	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+74.21	0.98	vicarious	cue	3	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h004.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+77.41	3.06	vicarious	expectrating	3	high_cue	n/a	92.99	Very Strong	92.99	Very Strong	1.23	1.82	task-social/cue/runtype-vicarious/sch/h004.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+85.09	5.0	vicarious	stimulus	3	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/mg101t2afunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+96.6	3.62	vicarious	outcomerating	3	high_cue	low_stim	79.86	Very Strong	79.86	Very Strong	1.23	1.82	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+110.59	1.0	vicarious	cue	4	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h001.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+113.31	2.78	vicarious	expectrating	4	high_cue	n/a	55.1	Strong	55.1	Strong	0.78	2.0	task-social/cue/runtype-vicarious/sch/h001.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+119.99	5.0	vicarious	stimulus	4	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/nm106t1afaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+133.2	2.77	vicarious	outcomerating	4	high_cue	high_stim	73.61	Very Strong	73.61	Very Strong	0.78	2.0	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+139.91	0.98	vicarious	cue	5	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l036.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+143.11	n/a	vicarious	expectrating	5	low_cue	n/a	n/a	n/a	54.78	Strong	0.18	3.25	task-social/cue/runtype-vicarious/scl/l036.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+156.8	5.0	vicarious	stimulus	5	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/bg096t2aaaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+165.72	n/a	vicarious	outcomerating	5	low_cue	med_stim	n/a	n/a	108.22	Strongest sensation of any kind	0.18	3.25	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+181.29	0.99	vicarious	cue	6	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l046.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+183.71	3.24	vicarious	expectrating	6	low_cue	n/a	58.92	Strong	58.92	Strong	0.6	2.64	task-social/cue/runtype-vicarious/scl/l046.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+196.79	5.0	vicarious	stimulus	6	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/bn080t1afaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+210.41	n/a	vicarious	outcomerating	6	low_cue	high_stim	n/a	n/a	90.69	Very Strong	0.6	2.64	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+216.09	0.99	vicarious	cue	7	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l011.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+218.71	2.14	vicarious	expectrating	7	low_cue	n/a	30.69	Strong	30.69	Strong	0.75	1.39	task-social/cue/runtype-vicarious/scl/l011.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+235.79	5.0	vicarious	stimulus	7	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/bm049t2aeaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+244.51	2.98	vicarious	outcomerating	7	low_cue	med_stim	23.59	Moderate	23.59	Moderate	0.75	1.39	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+250.39	0.99	vicarious	cue	8	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l016.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+253.11	1.77	vicarious	expectrating	8	low_cue	n/a	37.33	Strong	37.33	Strong	0.45	1.32	task-social/cue/runtype-vicarious/scl/l016.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+265.79	5.0	vicarious	stimulus	8	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/ib109t1aiaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+282.71	3.02	vicarious	outcomerating	8	low_cue	high_stim	45.49	Strong	45.49	Strong	0.45	1.32	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+287.69	0.99	vicarious	cue	9	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h041.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+289.49	3.1	vicarious	expectrating	9	high_cue	n/a	113.17	Strongest sensation of any kind	113.17	Strongest sensation of any kind	1.37	1.74	task-social/cue/runtype-vicarious/sch/h041.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+297.09	5.0	vicarious	stimulus	9	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/tv095t2aeunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+308.2	3.91	vicarious	outcomerating	9	high_cue	low_stim	15.6	Moderate	15.6	Moderate	1.37	1.74	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+317.99	1.0	vicarious	cue	10	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h014.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+320.61	n/a	vicarious	expectrating	10	high_cue	n/a	n/a	n/a	111.59	Strongest sensation of any kind	1.17	3.95	task-social/cue/runtype-vicarious/sch/h014.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+328.19	5.0	vicarious	stimulus	10	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/dr052t1aiaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+337.52	3.07	vicarious	outcomerating	10	high_cue	high_stim	130.78	Strongest sensation of any kind	130.78	Strongest sensation of any kind	1.17	3.95	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+343.9	0.98	vicarious	cue	11	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h051.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+345.71	2.94	vicarious	expectrating	11	high_cue	n/a	115.63	Strongest sensation of any kind	115.63	Strongest sensation of any kind	1.22	1.72	task-social/cue/runtype-vicarious/sch/h051.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+357.79	5.0	vicarious	stimulus	11	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/nm106t2aaunaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+366.72	2.95	vicarious	outcomerating	11	high_cue	med_stim	20.99	Moderate	20.99	Moderate	1.22	1.72	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+374.8	0.99	vicarious	cue	12	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l025.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+376.7	2.57	vicarious	expectrating	12	low_cue	n/a	20.18	Moderate	20.18	Moderate	1.08	1.48	task-social/cue/runtype-vicarious/scl/l025.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+384.29	5.0	vicarious	stimulus	12	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/dr052t1aeunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+394.81	n/a	vicarious	outcomerating	12	low_cue	low_stim	n/a	n/a	59.33	Strong	1.08	1.48	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
