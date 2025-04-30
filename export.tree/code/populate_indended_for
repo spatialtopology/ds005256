@@ -1,0 +1,8 @@
+#!/bin/bash
+
+set -eu
+
+heudiconv -f code/heuristic.py --command populate-intended-for   -o . --files doesnotmatter
+# for one subj session -- relaxed
+heudiconv -f code/heuristic-intendedfor-imagingvolume.py --command populate-intended-for -o . -s 0070 -ss 04 --files doesnotmatter
+#

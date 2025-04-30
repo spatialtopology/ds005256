@@ -1,0 +1,14 @@
+{
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "age": {
+    "Description": "Age in years as in the initial session, might not be correct for other sessions"
+  },
+  "sex": {
+    "Description": "Self-rated by participant, M for male/F for female/O for other"
+  },
+  "group": {
+    "Description": "By default everyone is in control group"
+  }
+}
