@@ -1,3 +1,0 @@
-#!/bin/bash
-
-/usr/bin/find -iname '*task-social*' | while read f; do code/rename_file.sh "$f" "${f//social/cue}"; done
