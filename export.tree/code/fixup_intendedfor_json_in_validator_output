@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# Given legacy bids validator output log file, fixup those json files 
+#
+
+sed -n -e "/IntendedFor.*_epi/s,.*fieldmap  *('/\([^']*\).nii.gz'.*,\1.json,gp" "$1" \
+| uniq \
+| xargs ${0//_in_validator_output/}
