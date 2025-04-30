@@ -1,0 +1,49 @@
+onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_value	rating_glmslabel	rating_value_fillna	rating_glmslabel_fillna	rating_mouseonset	rating_mousedur	stim_file	pain_onset_ttl1	pain_onset_ttl2	pain_onset_ttl3	pain_onset_ttl4	pain_stimulus_delivery_success	cognitive_correct_response	cognitive_participant_response	cognitive_response_accuracy
+14.21	0.98	vicarious	cue	1	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l005.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+16.01	1.72	vicarious	expectrating	1	low_cue	n/a	2.79	Barely detectable	2.79	Barely detectable	0.58	1.14	task-social/cue/runtype-vicarious/scl/l005.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+22.6	5.0	vicarious	stimulus	1	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/dr052t1aeunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+35.32	2.13	vicarious	outcomerating	1	low_cue	low_stim	2.78	Barely detectable	2.78	Barely detectable	0.58	1.14	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+40.61	0.99	vicarious	cue	2	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l026.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+43.61	1.77	vicarious	expectrating	2	low_cue	n/a	0.0	n/a	0.0	n/a	0.35	1.42	task-social/cue/runtype-vicarious/scl/l026.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+50.2	5.0	vicarious	stimulus	2	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/bg096t2aaaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+63.72	2.58	vicarious	outcomerating	2	low_cue	med_stim	23.77	Moderate	23.77	Moderate	0.35	1.42	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+72.2	0.99	vicarious	cue	3	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h052.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+75.21	2.12	vicarious	expectrating	3	high_cue	n/a	12.8	Moderate	12.8	Moderate	0.75	1.37	task-social/cue/runtype-vicarious/sch/h052.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+86.1	5.0	vicarious	stimulus	3	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/aa048t2afunaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+95.91	1.56	vicarious	outcomerating	3	high_cue	med_stim	0.0	n/a	0.0	n/a	0.75	1.37	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+109.0	0.99	vicarious	cue	4	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+110.92	1.82	vicarious	expectrating	4	low_cue	n/a	0.23	No sensation	0.23	No sensation	0.53	1.28	task-social/cue/runtype-vicarious/scl/l037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+120.3	5.0	vicarious	stimulus	4	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/aa048t2aeaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+130.51	3.33	vicarious	outcomerating	4	low_cue	high_stim	3.58	Weak	3.58	Weak	0.53	1.28	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+145.12	0.98	vicarious	cue	5	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h013.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+146.82	2.52	vicarious	expectrating	5	high_cue	n/a	9.95	Weak	9.95	Weak	0.67	1.85	task-social/cue/runtype-vicarious/sch/h013.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+155.31	5.0	vicarious	stimulus	5	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/dr052t2aaaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+166.53	1.75	vicarious	outcomerating	5	high_cue	med_stim	0.0	n/a	0.0	n/a	0.67	1.85	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+171.41	0.99	vicarious	cue	6	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l053.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+174.51	2.63	vicarious	expectrating	6	low_cue	n/a	1.38	Barely detectable	1.38	Barely detectable	0.77	1.86	task-social/cue/runtype-vicarious/scl/l053.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+182.7	5.0	vicarious	stimulus	6	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/dr052t1aiaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+194.52	2.17	vicarious	outcomerating	6	low_cue	high_stim	29.55	Strong	29.55	Strong	0.77	1.86	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+199.81	0.99	vicarious	cue	7	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l047.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+202.81	2.45	vicarious	expectrating	7	low_cue	n/a	3.38	Weak	3.38	Weak	0.67	1.78	task-social/cue/runtype-vicarious/scl/l047.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+218.2	5.0	vicarious	stimulus	7	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/jl047t1aaunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+231.12	1.85	vicarious	outcomerating	7	low_cue	low_stim	0.0	n/a	0.0	n/a	0.67	1.78	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+236.81	0.99	vicarious	cue	8	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h003.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+238.51	2.94	vicarious	expectrating	8	high_cue	n/a	7.13	Weak	7.13	Weak	0.82	2.12	task-social/cue/runtype-vicarious/sch/h003.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+245.3	5.0	vicarious	stimulus	8	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/nm106t1afaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+255.51	3.18	vicarious	outcomerating	8	high_cue	high_stim	18.58	Moderate	18.58	Moderate	0.82	2.12	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+264.22	0.98	vicarious	cue	9	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h029.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+267.22	2.25	vicarious	expectrating	9	high_cue	n/a	10.35	Moderate	10.35	Moderate	0.55	1.7	task-social/cue/runtype-vicarious/sch/h029.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+279.5	5.0	vicarious	stimulus	9	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/bg096t1aeaff_H.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+290.53	2.77	vicarious	outcomerating	9	high_cue	high_stim	34.07	Strong	34.07	Strong	0.55	1.7	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+298.41	0.98	vicarious	cue	10	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+301.21	2.9	vicarious	expectrating	10	high_cue	n/a	6.47	Weak	6.47	Weak	0.9	2.0	task-social/cue/runtype-vicarious/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+321.9	5.0	vicarious	stimulus	10	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/ll042t1aaunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+331.13	1.72	vicarious	outcomerating	10	high_cue	low_stim	10.53	Moderate	10.53	Moderate	0.9	2.0	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+336.01	0.99	vicarious	cue	11	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/sch/h007.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+338.91	1.75	vicarious	expectrating	11	high_cue	n/a	4.49	Weak	4.49	Weak	0.48	1.27	task-social/cue/runtype-vicarious/sch/h007.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+345.7	5.0	vicarious	stimulus	11	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/aa048t2aaunaff_L.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+359.42	2.41	vicarious	outcomerating	11	high_cue	low_stim	0.0	n/a	0.0	n/a	0.48	1.27	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+367.01	0.99	vicarious	cue	12	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-vicarious/scl/l002.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+368.91	1.59	vicarious	expectrating	12	low_cue	n/a	0.0	n/a	0.0	n/a	0.55	1.04	task-social/cue/runtype-vicarious/scl/l002.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+382.5	5.0	vicarious	stimulus	12	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-vicarious/ll042t1afunaff_M.mp4	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+394.52	3.53	vicarious	outcomerating	12	low_cue	med_stim	3.45	Weak	3.45	Weak	0.55	1.04	task-social/outcomerating/task-vicarious_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
