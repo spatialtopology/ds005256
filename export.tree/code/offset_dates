@@ -1,0 +1,113 @@
+#!/usr/bin/env python3
+"""
+A command line utility to offset dates by a specified number of days.
+"""
+
+import argparse
+from pathlib import Path
+import pandas as pd
+from datetime import datetime
+from datetime import timedelta
+
+__author__ = "Arshitha Basavaraj"
+__credits__ = ["Eric Earl"]
+__email__ = "arsh2794@proton.me"
+
+
+def get_args():
+    # creating an argument parser object
+    parser = argparse.ArgumentParser(add_help=False)
+
+    # adding a subparser to handle sub-commands
+    subparsers = parser.add_subparsers(title='Input type')
+
+    # parses tables with date columns in .xlsx, .csv, .tsv, and .txt file formats
+    table_parser = subparsers.add_parser("table")
+    table_parser.add_argument('tabular_files', type=Path, nargs='+', help="Path(s) to tabular data file.")
+    table_parser.add_argument('-c', '--columns', required=True, type=str, nargs='+',
+                              help="Space-separated list of column names with dates to be offset.")
+    table_parser.add_argument('-o', '--offset', type=int, dest='delta', metavar='OFFSET', required=True,
+                              help="Total number of days to be subtracted from the original date.")
+
+    # parses list of dates provided at command line or as a file
+    list_parser = subparsers.add_parser("list")
+    list_parser.add_argument('dates_list', nargs='+', type=str, help='Space separated list of dates to be offset.')
+    list_parser.add_argument('-f', '--filepath', type=Path, help="A file with dates on every line.")
+    list_parser.add_argument('-o', '--offset', nargs='+', type=int, dest='delta', metavar='OFFSET', required=True,
+                             help="Space separated list of total number of days to be subtracted from the original dates. MUST be the same length as the count of rows in the input dates list.")
+    list_parser.add_argument('-df', '--date-format', choices=["MMDDYYYY", "DDMMYYYY", "YYYYMMDD"], required=True,
+                             metavar='DATE_FORMAT',
+                             help="Date format of the provided input. Separating character between day, month and year can be anything, but all entries MUST be eight characters long.")
+
+    args = parser.parse_args()
+    return args
+
+
+def get_delimiter(extension):
+    if extension == '.csv':
+        return ','
+    elif extension == '.tsv':
+        return '\t'
+    elif extension == '.txt':
+        return ' '
+
+
+def offset_column(df, date_col, offset_in_days):
+    offset_timedelta = timedelta(days=offset_in_days)
+    # Convert date_col to datetime if it's not already
+    df[date_col] = pd.to_datetime(df[date_col])
+    df.loc[df[date_col] > pd.Timestamp('1925-01-01'), date_col] -= offset_timedelta
+    return df
+
+
+def main():
+    args = get_args()
+    # print(args)
+    offset_delta = args.delta
+
+    date_cols = args.columns
+    for tabular_file in args.tabular_files:
+        ext = tabular_file.suffix
+
+        # define a new filename for the output file
+        # output_filename = tab_filepath.stem + '_date_offset' + ext
+        # output_filepath = tab_filepath.parent / output_filename
+        # We will overwrite original file
+        output_filepath = tabular_file
+
+        if ext == '.xlsx':
+            table_names = pd.ExcelFile(tabular_file).sheet_names  # extract sheet names in the excel workbook
+
+            new_tabs_list = []
+            for table_name in table_names:
+                curr_tab = pd.read_excel(tabular_file, sheet_name=table_name)
+                for date_col in date_cols:
+                    # if user provided column matches with one of the columns in the table
+                    if date_col in curr_tab.columns:
+                        new_tab = offset_column(curr_tab, date_col, offset_delta)
+                    else:
+                        new_tab = curr_tab
+                    new_tabs_list.append((new_tab, table_name))
+
+            # write date anonymized tables to new excel workbook
+            with pd.ExcelWriter(output_filepath) as writer:
+                for new_df_tuple in new_tabs_list:
+                    new_df_tuple[0].to_excel(writer, sheet_name=new_df_tuple[1])
+
+        elif ext in ['.csv', '.tsv', '.txt']:
+            delimiter = get_delimiter(ext)
+            df = pd.read_csv(tabular_file, sep=delimiter, parse_dates=['acq_time'])
+            for date_col in date_cols:
+                if date_col in df.columns:
+                    df = offset_column(df, date_col, offset_delta)
+            # TODO: fixup date format here -- must have T not space between date and time
+            df.to_csv(output_filepath, sep=delimiter, index=False)
+
+        elif args.dates_list:
+            raise NotImplementError()
+            dates_list = args.dates_list
+            pass
+
+
+if __name__ == "__main__":
+    main()
