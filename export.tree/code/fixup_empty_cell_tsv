@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# to address (fresh?) bids-validator whining about empty cells better be n/a
+
+cd "$(dirname $0)/.."
+
+find * -iname '*.tsv' | xargs sed -i -e 's,\t\t,\tn/a\t,g' -e 's,\t$,\tn/a,g'
