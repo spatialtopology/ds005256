@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -eu
-
-cd "$(dirname $0)/.."
-rm -f .heudiconv/bids-validator.log; 
-singularity run -B $PWD:$PWD /home/bids/repronim-containers/images/bids/bids-validator--1.14.5.sing $PWD  > .heudiconv/bids-validator.log
