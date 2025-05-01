@@ -1,6 +1,0 @@
-#!/bin/bash
-#
-# Go through events files which still have TODOs in them, thus were not regenerated
-# and report where we do have neuroimaging data for them
-#
-git grep TODO | grep events.tsv | while IFS=: read -r fn _; do nii=${fn//_events.tsv/_bold.nii.gz}; /usr/bin/test -L "$nii" && echo "no events for $nii" || "no nii for $fn" ; done
