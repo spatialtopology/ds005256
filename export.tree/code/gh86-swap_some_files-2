@@ -1,0 +1,24 @@
+#!/bin/bash
+#
+# This follows https://github.com/spatialtopology/spacetop-prep/issues/86#issuecomment-2151342072
+# but with some fixes (e.g. no --swap was desired actually)
+# 
+set -eu
+set -x
+
+
+for d in ap pa; do
+    code/rename_file --all-extensions sub-0050/ses-02/fmap/sub-0050_ses-02_acq-mb8_dir-${d}_run-{02,03}_epi.json
+    code/rename_file --all-extensions sub-0050/ses-02/fmap/sub-0050_ses-02_acq-mb8_dir-${d}_run-{51,02}_epi.json
+
+    code/rename_file --all-extensions sub-0023/ses-01/fmap/sub-0023_ses-01_acq-mb8_dir-${d}_run-{02,03}_epi.json
+    code/rename_file --all-extensions sub-0023/ses-01/fmap/sub-0023_ses-01_acq-mb8_dir-${d}_run-{51,02}_epi.json
+    
+    code/rename_file --all-extensions sub-0023/ses-02/fmap/sub-0023_ses-02_acq-mb8_dir-${d}_run-{02,03}_epi.json
+    code/rename_file --all-extensions sub-0023/ses-02/fmap/sub-0023_ses-02_acq-mb8_dir-${d}_run-{51,02}_epi.json
+    
+    code/rename_file --all-extensions sub-0069/ses-01/fmap/sub-0069_ses-01_acq-mb8_dir-${d}_run-{02,03}_epi.json
+    code/rename_file --all-extensions sub-0069/ses-01/fmap/sub-0069_ses-01_acq-mb8_dir-${d}_run-{51,01}_epi.json
+    code/rename_file --all-extensions sub-0069/ses-01/fmap/sub-0069_ses-01_acq-mb8_dir-${d}_run-{61,02}_epi.json
+done
+
