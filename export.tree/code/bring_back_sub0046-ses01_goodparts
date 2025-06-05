@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+set -eu
+
+# apparently some files were ok in that session, in particular the anatomicals
+# we better revert them back from the state before we removed them.
+
+git checkout a6d6c8d0e171a28293ea523d162040da8d2018e4^ .heudiconv/0046/ses-01 sub-0046/ses-01
+
+# remove all with bad coils
+git grep -l '"ReceiveCoilActiveElements": "HEP"' -- sub-0046/ses-01/ | while read f; do fb=${f%.*}; git rm -f $fb.*;done
+
+# we did get rid of all the functionals for task-social so just remove them as well
+git rm -f sub-0046/ses-01/func/sub-0046_ses-01_task-social*
