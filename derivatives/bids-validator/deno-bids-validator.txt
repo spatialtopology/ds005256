@@ -3,13 +3,13 @@
 		/task-social_events.json - WARNING: [TAG_EXTENDED] Tag extensions found for [Data-source-type/Participant-generated] in "(Data-source-type/Participant-generated, Data-value/Quantitative-value/Item-interval/#)".  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extended.)
 		/task-social_events.json - WARNING: [TAG_EXTENDED] Tag extensions found for [Data-source-type/Participant-generated, Categorical-judgment-value/No-sensation] in "(Data-source-type/Participant-generated, Categorical-judgment-value/No-sensation)".  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#tag-extended.)
 
-		111468 more files with the same issue
+		110435 more files with the same issue
 
 		[33mSIDECAR_KEY_MISSING[39m
-		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-02_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Values "[falsebelief, falsephoto]" appear in column "value" of file "", but were not defined in any associated sidecar.  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
-		/sub-0001/ses-04/func/sub-0001_ses-04_task-fractional_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Values "[falsebelief, falsephoto]" appear in column "value" of file "", but were not defined in any associated sidecar.  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Values "[Very-Strong]" appear in column "rating_glmslabel" of file "", but were not defined in any associated sidecar.  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-social_acq-mb8_run-01_events.tsv - WARNING: [SIDECAR_KEY_MISSING] Values "[Very-Strong]" appear in column "rating_glmslabel_fillna" of file "", but were not defined in any associated sidecar.  (For more information on this HED warning, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#sidecar-key-missing.)
 
-		49 more files with the same issue
+		3122 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_WARNING for existing conversations about this issue.[39m
 
@@ -42,10 +42,10 @@ reported independently.
 
 		[33mMRTransmitCoilSequence[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: This is a relevant field if a non-standard transmit coil is used.
-Corresponds to DICOM Tag 0018, 9049 `MR Transmit Coil Sequence`.
+Corresponds to [DICOM Tag 0018, 9049](https://dicomlookup.com/dicomtags/(0018,9049)) `MR Transmit Coil Sequence`.
 
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: This is a relevant field if a non-standard transmit coil is used.
-Corresponds to DICOM Tag 0018, 9049 `MR Transmit Coil Sequence`.
+Corresponds to [DICOM Tag 0018, 9049](https://dicomlookup.com/dicomtags/(0018,9049)) `MR Transmit Coil Sequence`.
 
 
 		10589 more files with the same issue
@@ -92,10 +92,10 @@ so anything non-standard should be reported.
 
 		[33mMTState[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: Boolean stating whether the magnetization transfer pulse is applied.
-Corresponds to DICOM Tag 0018, 9020 `Magnetization Transfer`.
+Corresponds to [DICOM Tag 0018, 9020](https://dicomlookup.com/dicomtags/(0018,9020)) `Magnetization Transfer`.
 
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Boolean stating whether the magnetization transfer pulse is applied.
-Corresponds to DICOM Tag 0018, 9020 `Magnetization Transfer`.
+Corresponds to [DICOM Tag 0018, 9020](https://dicomlookup.com/dicomtags/(0018,9020)) `Magnetization Transfer`.
 
 
 		10589 more files with the same issue
@@ -143,7 +143,8 @@ For example, 2 means half of k-space is encoded.
 Will typically be 1 for 2D sequences, as each slice in a 2D acquisition is usually fully encoded.
 `ParallelReductionFactorOutOfPlane` should not be confused with `MultibandAccelerationFactor`,
 as they imply different methods of accelerating the acquisition.
-Corresponds to DICOM Tag 0018, 9155 `Parallel Reduction Factor out-of-plane`.
+Corresponds to [DICOM Tag 0018, 9155](https://dicomlookup.com/dicomtags/(0018,9155))
+`Parallel Reduction Factor out-of-plane`.
 
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The parallel imaging (for instance, GRAPPA) factor in the second phase encoding dimension of 3D sequences.
 Use the denominator of the fraction of k-space encoded in the second phase encoding dimension.
@@ -151,27 +152,30 @@ For example, 2 means half of k-space is encoded.
 Will typically be 1 for 2D sequences, as each slice in a 2D acquisition is usually fully encoded.
 `ParallelReductionFactorOutOfPlane` should not be confused with `MultibandAccelerationFactor`,
 as they imply different methods of accelerating the acquisition.
-Corresponds to DICOM Tag 0018, 9155 `Parallel Reduction Factor out-of-plane`.
+Corresponds to [DICOM Tag 0018, 9155](https://dicomlookup.com/dicomtags/(0018,9155))
+`Parallel Reduction Factor out-of-plane`.
 
 
 		10589 more files with the same issue
 
 		[33mParallelAcquisitionTechnique[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The type of parallel imaging used (for example `"GRAPPA"`, `"SENSE"`).
-Corresponds to DICOM Tag 0018, 9078 `Parallel Acquisition Technique`.
+Corresponds to [DICOM Tag 0018, 9078](https://dicomlookup.com/dicomtags/(0018,9078))
+`Parallel Acquisition Technique`.
 
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The type of parallel imaging used (for example `"GRAPPA"`, `"SENSE"`).
-Corresponds to DICOM Tag 0018, 9078 `Parallel Acquisition Technique`.
+Corresponds to [DICOM Tag 0018, 9078](https://dicomlookup.com/dicomtags/(0018,9078))
+`Parallel Acquisition Technique`.
 
 
 		10589 more files with the same issue
 
 		[33mPartialFourierDirection[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_T1w.nii.gz - Field description: The direction where only partial Fourier information was collected.
-Corresponds to DICOM Tag 0018, 9036 `Partial Fourier Direction`.
+Corresponds to [DICOM Tag 0018, 9036](https://dicomlookup.com/dicomtags/(0018,9036)) `Partial Fourier Direction`.
 
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The direction where only partial Fourier information was collected.
-Corresponds to DICOM Tag 0018, 9036 `Partial Fourier Direction`.
+Corresponds to [DICOM Tag 0018, 9036](https://dicomlookup.com/dicomtags/(0018,9036)) `Partial Fourier Direction`.
 
 
 		10589 more files with the same issue
@@ -320,23 +324,23 @@ the measurements.
 
 		[33mMagneticFieldStrength[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Nominal field strength of MR magnet in Tesla.
-Corresponds to DICOM Tag 0018, 0087 `Magnetic Field Strength`.
+Corresponds to [DICOM Tag 0018, 0087](https://dicomlookup.com/dicomtags/(0018,0087)) `Magnetic Field Strength`.
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Nominal field strength of MR magnet in Tesla.
-Corresponds to DICOM Tag 0018, 0087 `Magnetic Field Strength`.
+Corresponds to [DICOM Tag 0018, 0087](https://dicomlookup.com/dicomtags/(0018,0087)) `Magnetic Field Strength`.
 
 
 		115 more files with the same issue
 
 		[33mReceiveCoilName[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information describing the receiver coil.
-Corresponds to DICOM Tag 0018, 1250 `Receive Coil Name`,
+Corresponds to [DICOM Tag 0018, 1250](https://dicomlookup.com/dicomtags/(0018,1250)) `Receive Coil Name`,
 although not all vendors populate that DICOM Tag,
 in which case this field can be derived from an appropriate
 private DICOM field.
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Information describing the receiver coil.
-Corresponds to DICOM Tag 0018, 1250 `Receive Coil Name`,
+Corresponds to [DICOM Tag 0018, 1250](https://dicomlookup.com/dicomtags/(0018,1250)) `Receive Coil Name`,
 although not all vendors populate that DICOM Tag,
 in which case this field can be derived from an appropriate
 private DICOM field.
@@ -358,40 +362,40 @@ The vendor-defined terminology for active coil elements can go in this field.
 
 		[33mScanningSequence[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Description of the type of data acquired.
-Corresponds to DICOM Tag 0018, 0020 `Scanning Sequence`.
+Corresponds to [DICOM Tag 0018, 0020](https://dicomlookup.com/dicomtags/(0018,0020)) `Scanning Sequence`.
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Description of the type of data acquired.
-Corresponds to DICOM Tag 0018, 0020 `Scanning Sequence`.
+Corresponds to [DICOM Tag 0018, 0020](https://dicomlookup.com/dicomtags/(0018,0020)) `Scanning Sequence`.
 
 
 		115 more files with the same issue
 
 		[33mSequenceVariant[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Variant of the ScanningSequence.
-Corresponds to DICOM Tag 0018, 0021 `Sequence Variant`.
+Corresponds to [DICOM Tag 0018, 0021](https://dicomlookup.com/dicomtags/(0018,0021)) `Sequence Variant`.
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Variant of the ScanningSequence.
-Corresponds to DICOM Tag 0018, 0021 `Sequence Variant`.
+Corresponds to [DICOM Tag 0018, 0021](https://dicomlookup.com/dicomtags/(0018,0021)) `Sequence Variant`.
 
 
 		115 more files with the same issue
 
 		[33mScanOptions[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Parameters of ScanningSequence.
-Corresponds to DICOM Tag 0018, 0022 `Scan Options`.
+Corresponds to [DICOM Tag 0018, 0022](https://dicomlookup.com/dicomtags/(0018,0022)) `Scan Options`.
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Parameters of ScanningSequence.
-Corresponds to DICOM Tag 0018, 0022 `Scan Options`.
+Corresponds to [DICOM Tag 0018, 0022](https://dicomlookup.com/dicomtags/(0018,0022)) `Scan Options`.
 
 
 		115 more files with the same issue
 
 		[33mSequenceName[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's designation of the sequence name.
-Corresponds to DICOM Tag 0018, 0024 `Sequence Name`.
+Corresponds to [DICOM Tag 0018, 0024](https://dicomlookup.com/dicomtags/(0018,0024)) `Sequence Name`.
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Manufacturer's designation of the sequence name.
-Corresponds to DICOM Tag 0018, 0024 `Sequence Name`.
+Corresponds to [DICOM Tag 0018, 0024](https://dicomlookup.com/dicomtags/(0018,0024)) `Sequence Name`.
 
 
 		115 more files with the same issue
@@ -416,29 +420,31 @@ sequence used (for example,
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The parallel imaging (for instance, GRAPPA) factor in plane.
 Use the denominator of the fraction of k-space encoded for each slice.
 For example, 2 means half of k-space is encoded.
-Corresponds to DICOM Tag 0018, 9069 `Parallel Reduction Factor In-plane`.
+Corresponds to [DICOM Tag 0018, 9069](https://dicomlookup.com/dicomtags/(0018,9069))
+`Parallel Reduction Factor In-plane`.
 
 		/sub-0132/ses-01/dwi/sub-0132_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz - Field description: The parallel imaging (for instance, GRAPPA) factor in plane.
 Use the denominator of the fraction of k-space encoded for each slice.
 For example, 2 means half of k-space is encoded.
-Corresponds to DICOM Tag 0018, 9069 `Parallel Reduction Factor In-plane`.
+Corresponds to [DICOM Tag 0018, 9069](https://dicomlookup.com/dicomtags/(0018,9069))
+`Parallel Reduction Factor In-plane`.
 
 
 		10472 more files with the same issue
 
 		[33mPartialFourier[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The fraction of partial Fourier information collected.
-Corresponds to DICOM Tag 0018, 9081 `Partial Fourier`.
+Corresponds to [DICOM Tag 0018, 9081](https://dicomlookup.com/dicomtags/(0018,9081)) `Partial Fourier`.
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The fraction of partial Fourier information collected.
-Corresponds to DICOM Tag 0018, 9081 `Partial Fourier`.
+Corresponds to [DICOM Tag 0018, 9081](https://dicomlookup.com/dicomtags/(0018,9081)) `Partial Fourier`.
 
 
 		115 more files with the same issue
 
 		[33mEchoTime[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The echo time (TE) for the acquisition, specified in seconds.
-Corresponds to DICOM Tag 0018, 0081 `Echo Time`
+Corresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`
 (please note that the DICOM term is in milliseconds not seconds).
 The data type number may apply to files from any MRI modality concerned with
 a single value for this field, or to the files in a
@@ -447,7 +453,7 @@ where the value of this field is iterated using the
 [`echo` entity](SPEC_ROOT/appendices/entities.md#echo).
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The echo time (TE) for the acquisition, specified in seconds.
-Corresponds to DICOM Tag 0018, 0081 `Echo Time`
+Corresponds to [DICOM Tag 0018, 0081](https://dicomlookup.com/dicomtags/(0018,0081)) `Echo Time`
 (please note that the DICOM term is in milliseconds not seconds).
 The data type number may apply to files from any MRI modality concerned with
 a single value for this field, or to the files in a
@@ -462,13 +468,13 @@ where the value of this field is iterated using the
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: The inversion time (TI) for the acquisition, specified in seconds.
 Inversion time is the time after the middle of inverting RF pulse to middle
 of excitation pulse to detect the amount of longitudinal magnetization.
-Corresponds to DICOM Tag 0018, 0082 `Inversion Time`
+Corresponds to [DICOM Tag 0018, 0082](https://dicomlookup.com/dicomtags/(0018,0082)) `Inversion Time`
 (please note that the DICOM term is in milliseconds not seconds).
 
 		/sub-0132/ses-01/dwi/sub-0132_ses-01_acq-96dirX6b0Xmb_dwi.nii.gz - Field description: The inversion time (TI) for the acquisition, specified in seconds.
 Inversion time is the time after the middle of inverting RF pulse to middle
 of excitation pulse to detect the amount of longitudinal magnetization.
-Corresponds to DICOM Tag 0018, 0082 `Inversion Time`
+Corresponds to [DICOM Tag 0018, 0082](https://dicomlookup.com/dicomtags/(0018,0082)) `Inversion Time`
 (please note that the DICOM term is in milliseconds not seconds).
 
 
@@ -502,7 +508,7 @@ of echo spacing (which is spacing in the phase encoding direction) as
 
 		[33mFlipAngle[39m
 		/sub-0132/ses-01/anat/sub-0132_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Flip angle (FA) for the acquisition, specified in degrees.
-Corresponds to: DICOM Tag 0018, 1314 `Flip Angle`.
+Corresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.
 The data type number may apply to files from any MRI modality concerned with
 a single value for this field, or to the files in a
 [file collection](SPEC_ROOT/appendices/file-collections.md)
@@ -510,7 +516,7 @@ where the value of this field is iterated using the
 [`flip` entity](SPEC_ROOT/appendices/entities.md#flip).
 
 		/sub-0001/ses-01/anat/sub-0001_ses-01_acq-MPRAGEXp3X08mm_mod-T1w_defacemask.nii.gz - Field description: Flip angle (FA) for the acquisition, specified in degrees.
-Corresponds to: DICOM Tag 0018, 1314 `Flip Angle`.
+Corresponds to: [DICOM Tag 0018, 1314](https://dicomlookup.com/dicomtags/(0018,1314)) `Flip Angle`.
 The data type number may apply to files from any MRI modality concerned with
 a single value for this field, or to the files in a
 [file collection](SPEC_ROOT/appendices/file-collections.md)
@@ -670,11 +676,11 @@ This field is mutually exclusive with `"VolumeTiming"`.
 
 		[33mAcquisitionDuration[39m
 		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz - Field description: Duration (in seconds) of volume acquisition.
-Corresponds to DICOM Tag 0018, 9073 `Acquisition Duration`.
+Corresponds to [DICOM Tag 0018, 9073](https://dicomlookup.com/dicomtags/(0018,9073)) `Acquisition Duration`.
 This field is mutually exclusive with `"RepetitionTime"`.
 
 		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.nii.gz - Field description: Duration (in seconds) of volume acquisition.
-Corresponds to DICOM Tag 0018, 9073 `Acquisition Duration`.
+Corresponds to [DICOM Tag 0018, 9073](https://dicomlookup.com/dicomtags/(0018,9073)) `Acquisition Duration`.
 This field is mutually exclusive with `"RepetitionTime"`.
 
 
@@ -734,6 +740,31 @@ the stimuli during the experiment.
 
 [36m	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
+	[33m[WARNING] SIDECAR_FIELD_OVERRIDE Sidecar files should not override values assigned at a higher level.[39m
+		[33mdcmmeta_reorient_transform[39m
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.json - Sidecar key defined in /task-alignvideo_acq-mb8_bold.json overrides previous value (0,-1,0,81,1,0,0,0,0,0,1,0,0,0,0,1) from /sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.json
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.json - Sidecar key defined in /task-alignvideo_acq-mb8_bold.json overrides previous value (0,-1,0,81,1,0,0,0,0,0,1,0,0,0,0,1) from /sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-02_bold.json
+
+		4176 more files with the same issue
+
+		[33mImageType[39m
+		/sub-0132/ses-02/func/sub-0132_ses-02_task-faces_acq-mb8_run-01_bold.json - Sidecar key defined in /task-faces_acq-mb8_bold.json overrides previous value (ORIGINAL,PRIMARY,M,MB,ND,NORM,MOSAIC) from /sub-0132/ses-02/func/sub-0132_ses-02_task-faces_acq-mb8_run-01_bold.json
+		/sub-0132/ses-02/func/sub-0132_ses-02_task-faces_acq-mb8_run-02_bold.json - Sidecar key defined in /task-faces_acq-mb8_bold.json overrides previous value (ORIGINAL,PRIMARY,M,MB,ND,NORM,MOSAIC) from /sub-0132/ses-02/func/sub-0132_ses-02_task-faces_acq-mb8_run-02_bold.json
+
+		1035 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=SIDECAR_FIELD_OVERRIDE for existing conversations about this issue.[39m
+
+	[33m[WARNING] EVENTS_TSV_MISSING Task scans should have a corresponding 'events.tsv' file.
+If this is a resting state scan you can ignore this warning or rename the task to include the word "rest".
+[39m
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_bold.nii.gz
+		/sub-0132/ses-01/func/sub-0132_ses-01_task-alignvideo_acq-mb8_run-01_sbref.nii.gz
+
+		8298 more files with the same issue
+
+[36m	Please visit https://neurostars.org/search?q=EVENTS_TSV_MISSING for existing conversations about this issue.[39m
+
 	[33m[WARNING] TSV_COLUMN_TYPE_REDEFINED A column required in a TSV file has been redefined in a sidecar file. This redefinition is being ignored.[39m
 		[33mduration[39m
 		/sub-0132/ses-01/func/sub-0132_ses-01_task-social_acq-mb8_run-01_events.tsv - defined in /task-social_events.json
@@ -743,38 +774,32 @@ the stimuli during the experiment.
 
 [36m	Please visit https://neurostars.org/search?q=TSV_COLUMN_TYPE_REDEFINED for existing conversations about this issue.[39m
 
-	[33m[WARNING] SUSPICIOUSLY_SHORT_EVENT_DESIGN The onset of the last event is less than half the total duration of the corresponding scan.
-This design is suspiciously short.
-[39m
-		/sub-0003/ses-01/func/sub-0003_ses-01_task-social_acq-mb8_run-01_bold.nii.gz
-		/sub-0003/ses-01/func/sub-0003_ses-01_task-social_acq-mb8_run-06_bold.nii.gz
+	[31m[ERROR] NOT_INCLUDED Files with such naming scheme are not part of BIDS specification. This error is most commonly caused by typos in file names that make them not BIDS compatible. Please consult the specification and make sure your files are named correctly. If this is not a file naming issue (for example when including files not yet covered by the BIDS specification) you should include a ".bidsignore" file in your dataset (see https://github.com/bids-standard/bids-validator#bidsignore for details). Please note that derived (processed) data should be placed in /derivatives folder and source data (such as DICOMS or behavioural logs in proprietary formats) should be placed in the /sourcedata folder.[39m
+		/package.json
+		/package-lock.json
 
-		15 more files with the same issue
+		3 more files with the same issue
 
-[36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_SHORT_EVENT_DESIGN for existing conversations about this issue.[39m
-
-	[33m[WARNING] SUSPICIOUSLY_LONG_EVENT_DESIGN The onset of the last event is after the total duration of the corresponding scan.
-This design is suspiciously long.
-[39m
-		/sub-0011/ses-02/func/sub-0011_ses-02_task-narratives_acq-mb8_run-02_bold.nii.gz
-		/sub-0013/ses-04/func/sub-0013_ses-04_task-fractional_acq-mb8_run-01_bold.nii.gz
-
-		7 more files with the same issue
-
-[36m	Please visit https://neurostars.org/search?q=SUSPICIOUSLY_LONG_EVENT_DESIGN for existing conversations about this issue.[39m
+[36m	Please visit https://neurostars.org/search?q=NOT_INCLUDED for existing conversations about this issue.[39m
 
 	[31m[ERROR] HED_ERROR The validation on this HED string returned an error.[39m
 		[31mVALUE_INVALID[39m
-		/sub-0132/ses-02/func/sub-0132_ses-02_task-narratives_acq-mb8_run-01_events.tsv - ERROR: [VALUE_INVALID] Invalid placeholder value for tag "Label/Necessity of sacrificing loved ones". TSV line: "2". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)
-		/sub-0132/ses-02/func/sub-0132_ses-02_task-narratives_acq-mb8_run-01_events.tsv - ERROR: [VALUE_INVALID] Invalid placeholder value for tag "Label/Necessity of sacrificing loved ones". TSV line: "3". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)
+		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-01_events.tsv - ERROR: [VALUE_INVALID] Invalid placeholder value for tag "Organizational-property/Control-variable/reaching?". TSV line: "2". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)
+		/sub-0132/ses-04/func/sub-0132_ses-04_task-fractional_acq-mb8_run-01_events.tsv - ERROR: [VALUE_INVALID] Invalid placeholder value for tag "Organizational-property/Control-variable/reaching?". TSV line: "3". (For more information on this HED error, see https://hed-specification.readthedocs.io/en/latest/Appendix_B.html#value-invalid.)
 
-		43969 more files with the same issue
+		13822 more files with the same issue
 
 [36m	Please visit https://neurostars.org/search?q=HED_ERROR for existing conversations about this issue.[39m
 
+	[31m[ERROR] SIDECAR_WITHOUT_DATAFILE A json sidecar file was found without a corresponding data file[39m
+		/package.json
+		/package-lock.json
+
+[36m	Please visit https://neurostars.org/search?q=SIDECAR_WITHOUT_DATAFILE for existing conversations about this issue.[39m
+
 
           [35mSummary:[39m                           [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
-          26382 Files, 2.23 TB               alignvideo              MRI                  
+          26387 Files, 2.23 TB               alignvideo              MRI                  
           117 - Subjects 4 - Sessions        faces                                        
                                              fractional                                   
                                              narratives                                   
