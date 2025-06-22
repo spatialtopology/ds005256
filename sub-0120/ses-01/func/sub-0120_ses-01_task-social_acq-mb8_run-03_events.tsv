@@ -4,7 +4,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 22.58	5.0	cognitive	stimulus	1	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/47_50.jpg	n/a	n/a	n/a	n/a	n/a	same	n/a	False
 35.29	3.4	cognitive	outcomerating	1	low_cue	low_stim	3.71	Weak	3.71	Weak	0.6	2.02	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 40.59	0.98	cognitive	cue	2	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l031.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-43.59	1.07	cognitive	expectrating	2	low_cue	n/a	2.34	Barely detectable	2.34	Barely detectable	0.33	0.73	task-social/cue/runtype-cognitive/scl/l031.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+43.59	1.07	cognitive	expectrating	2	low_cue	n/a	2.34	Barely-detectable	2.34	Barely-detectable	0.33	0.73	task-social/cue/runtype-cognitive/scl/l031.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 50.18	5.0	cognitive	stimulus	2	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/27_100.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
 63.68	2.81	cognitive	outcomerating	2	low_cue	med_stim	13.13	Moderate	13.13	Moderate	0.33	0.73	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 72.18	0.98	cognitive	cue	3	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h026.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -12,7 +12,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 86.09	5.0	cognitive	stimulus	3	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/47_100_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 95.88	1.72	cognitive	outcomerating	3	high_cue	med_stim	7.64	Weak	7.64	Weak	0.8	2.0	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 108.98	0.99	cognitive	cue	4	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l040.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-110.88	1.52	cognitive	expectrating	4	low_cue	n/a	0.23	No sensation	0.23	No sensation	0.68	0.84	task-social/cue/runtype-cognitive/scl/l040.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+110.88	1.52	cognitive	expectrating	4	low_cue	n/a	0.23	No-sensation	0.23	No-sensation	0.68	0.84	task-social/cue/runtype-cognitive/scl/l040.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 120.28	5.0	cognitive	stimulus	4	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/10_150.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
 130.49	2.75	cognitive	outcomerating	4	low_cue	high_stim	9.73	Weak	9.73	Weak	0.68	0.84	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 145.08	0.99	cognitive	cue	5	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h004.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -42,7 +42,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 335.98	0.99	cognitive	cue	11	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h048.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 338.88	2.01	cognitive	expectrating	11	high_cue	n/a	36.64	Strong	36.64	Strong	0.57	1.44	task-social/cue/runtype-cognitive/sch/h048.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 345.69	5.0	cognitive	stimulus	11	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/38_50.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
-359.39	1.32	cognitive	outcomerating	11	high_cue	low_stim	0.92	No sensation	0.92	No sensation	0.57	1.44	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+359.39	1.32	cognitive	outcomerating	11	high_cue	low_stim	0.92	No-sensation	0.92	No-sensation	0.57	1.44	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 366.98	0.99	cognitive	cue	12	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l033.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 368.88	2.22	cognitive	expectrating	12	low_cue	n/a	8.55	Weak	8.55	Weak	0.78	1.43	task-social/cue/runtype-cognitive/scl/l033.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 382.48	5.0	cognitive	stimulus	12	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/10_100.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True

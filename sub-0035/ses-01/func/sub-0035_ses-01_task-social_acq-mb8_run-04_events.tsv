@@ -6,9 +6,9 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 40.6	0.99	cognitive	cue	2	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l031.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 43.61	2.42	cognitive	expectrating	2	low_cue	n/a	29.55	Strong	29.55	Strong	0.72	1.71	task-social/cue/runtype-cognitive/scl/l031.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 50.21	5.0	cognitive	stimulus	2	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/27_100.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
-63.71	1.72	cognitive	outcomerating	2	low_cue	med_stim	67.13	Very Strong	67.13	Very Strong	0.72	1.71	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+63.71	1.72	cognitive	outcomerating	2	low_cue	med_stim	67.13	Very-Strong	67.13	Very-Strong	0.72	1.71	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 72.2	0.99	cognitive	cue	3	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h026.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-75.2	3.85	cognitive	expectrating	3	high_cue	n/a	91.62	Very Strong	91.62	Very Strong	2.67	1.18	task-social/cue/runtype-cognitive/sch/h026.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+75.2	3.85	cognitive	expectrating	3	high_cue	n/a	91.62	Very-Strong	91.62	Very-Strong	2.67	1.18	task-social/cue/runtype-cognitive/sch/h026.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 86.1	5.0	cognitive	stimulus	3	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/47_100_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 95.91	3.42	cognitive	outcomerating	3	high_cue	med_stim	11.13	Moderate	11.13	Moderate	2.67	1.18	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 109.0	0.99	cognitive	cue	4	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l040.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -26,11 +26,11 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 199.8	0.99	cognitive	cue	7	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l054.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 202.8	1.92	cognitive	expectrating	7	low_cue	n/a	0.0	n/a	0.0	n/a	0.73	1.18	task-social/cue/runtype-cognitive/scl/l054.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 218.2	5.0	cognitive	stimulus	7	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/11_50.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
-231.11	2.45	cognitive	outcomerating	7	low_cue	low_stim	1.87	Barely detectable	1.87	Barely detectable	0.73	1.18	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+231.11	2.45	cognitive	outcomerating	7	low_cue	low_stim	1.87	Barely-detectable	1.87	Barely-detectable	0.73	1.18	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 236.79	1.0	cognitive	cue	8	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h044.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 238.51	0.98	cognitive	expectrating	8	high_cue	n/a	42.35	Strong	42.35	Strong	0.45	0.53	task-social/cue/runtype-cognitive/sch/h044.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 245.3	5.0	cognitive	stimulus	8	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/5_150.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
-255.5	1.59	cognitive	outcomerating	8	high_cue	high_stim	65.31	Very Strong	65.31	Very Strong	0.45	0.53	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+255.5	1.59	cognitive	outcomerating	8	high_cue	high_stim	65.31	Very-Strong	65.31	Very-Strong	0.45	0.53	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 264.2	0.99	cognitive	cue	9	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h022.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 267.21	2.29	cognitive	expectrating	9	high_cue	n/a	50.28	Strong	50.28	Strong	1.12	1.17	task-social/cue/runtype-cognitive/sch/h022.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 279.51	5.0	cognitive	stimulus	9	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/38_150.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True

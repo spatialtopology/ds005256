@@ -62,15 +62,15 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 124.919	1.391	tomspunt	proud?	why_face	no	no	correct	task-fractional/runtype-tomspunt/F_776.jpg	54
 126.62	1.035	tomspunt	proud?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_618.jpg	55
 127.97	1.489	tomspunt	proud?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_695.jpg	56
-131.029	2.101	tomspunt	looking to side?	block_question_presentation	n/a	n/a	n/a	n/a	57
-136.04	1.67	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_590.jpg	57
-138.024	0.802	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_433.jpg	58
-139.141	0.802	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_716.jpg	59
-140.258	1.035	tomspunt	looking to side?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_779.jpg	60
-141.609	1.285	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_760.jpg	61
-143.209	1.068	tomspunt	looking to side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_111.jpg	62
-144.593	1.385	tomspunt	looking to side?	how_face	no	yes	incorrect	task-fractional/runtype-tomspunt/F_110.jpg	63
-146.294	1.019	tomspunt	looking to side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_798.jpg	64
+131.029	2.101	tomspunt	looking-to-side?	block_question_presentation	n/a	n/a	n/a	n/a	57
+136.04	1.67	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_590.jpg	57
+138.024	0.802	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_433.jpg	58
+139.141	0.802	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_716.jpg	59
+140.258	1.035	tomspunt	looking-to-side?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_779.jpg	60
+141.609	1.285	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_760.jpg	61
+143.209	1.068	tomspunt	looking-to-side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_111.jpg	62
+144.593	1.385	tomspunt	looking-to-side?	how_face	no	yes	incorrect	task-fractional/runtype-tomspunt/F_110.jpg	63
+146.294	1.019	tomspunt	looking-to-side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_798.jpg	64
 150.136	2.101	tomspunt	argument?	block_question_presentation	n/a	n/a	n/a	n/a	65
 155.147	1.252	tomspunt	argument?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_716.jpg	65
 156.714	1.252	tomspunt	argument?	why_face	no	no	correct	task-fractional/runtype-tomspunt/F_139.jpg	66
@@ -80,24 +80,24 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 161.583	0.744	tomspunt	argument?	why_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_844.jpg	70
 162.633	0.726	tomspunt	argument?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_743.jpg	71
 163.667	0.885	tomspunt	argument?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_758.jpg	72
-167.976	2.101	tomspunt	open mouth?	block_question_presentation	n/a	n/a	n/a	n/a	73
-172.987	0.622	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_844.jpg	73
-173.921	0.605	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_776.jpg	74
-174.838	0.756	tomspunt	open mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_544.jpg	75
-175.905	0.635	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_692.jpg	76
-176.855	0.788	tomspunt	open mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_584.jpg	77
-177.955	0.735	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_403.jpg	78
-179.006	0.754	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_086.jpg	79
-180.073	0.736	tomspunt	open mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_648.jpg	80
-185.866	2.101	tomspunt	pressing button?	block_question_presentation	n/a	n/a	n/a	n/a	81
-190.877	0.768	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_019.jpg	81
-191.961	0.018	tomspunt	pressing button?	how_hand	yes	no	incorrect	task-fractional/runtype-tomspunt/H_024.jpg	82
-192.294	1.002	tomspunt	pressing button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_130.jpg	83
-193.611	0.752	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_502.jpg	84
-194.678	0.885	tomspunt	pressing button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_261.jpg	85
-195.879	0.601	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_332.jpg	86
-196.796	0.652	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_126.jpg	87
-197.763	0.735	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_483.jpg	88
+167.976	2.101	tomspunt	open-mouth?	block_question_presentation	n/a	n/a	n/a	n/a	73
+172.987	0.622	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_844.jpg	73
+173.921	0.605	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_776.jpg	74
+174.838	0.756	tomspunt	open-mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_544.jpg	75
+175.905	0.635	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_692.jpg	76
+176.855	0.788	tomspunt	open-mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_584.jpg	77
+177.955	0.735	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_403.jpg	78
+179.006	0.754	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_086.jpg	79
+180.073	0.736	tomspunt	open-mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_648.jpg	80
+185.866	2.101	tomspunt	pressing-button?	block_question_presentation	n/a	n/a	n/a	n/a	81
+190.877	0.768	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_019.jpg	81
+191.961	0.018	tomspunt	pressing-button?	how_hand	yes	no	incorrect	task-fractional/runtype-tomspunt/H_024.jpg	82
+192.294	1.002	tomspunt	pressing-button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_130.jpg	83
+193.611	0.752	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_502.jpg	84
+194.678	0.885	tomspunt	pressing-button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_261.jpg	85
+195.879	0.601	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_332.jpg	86
+196.796	0.652	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_126.jpg	87
+197.763	0.735	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_483.jpg	88
 203.656	2.101	tomspunt	competing?	block_question_presentation	n/a	n/a	n/a	n/a	89
 208.667	1.11	tomspunt	competing?	why_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_261.jpg	89
 210.084	0.892	tomspunt	competing?	why_hand	no	no	correct	task-fractional/runtype-tomspunt/H_483.jpg	90
@@ -116,24 +116,24 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 232.709	0.869	tomspunt	self-doubt?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_754.jpg	102
 233.893	0.952	tomspunt	self-doubt?	why_face	no	no	correct	task-fractional/runtype-tomspunt/F_128.jpg	103
 235.16	1.219	tomspunt	self-doubt?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_584.jpg	104
-240.787	2.101	tomspunt	looking at camera?	block_question_presentation	n/a	n/a	n/a	n/a	105
-245.797	1.102	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_128.jpg	105
-247.215	0.601	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_618.jpg	106
-248.132	0.595	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_598.jpg	107
-249.032	0.669	tomspunt	looking at camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_743.jpg	108
-250.016	0.711	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_774.jpg	109
-251.033	0.743	tomspunt	looking at camera?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_582.jpg	110
-252.083	0.927	tomspunt	looking at camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_754.jpg	111
-253.317	0.759	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_129.jpg	112
-259.577	2.101	tomspunt	both hands?	block_question_presentation	n/a	n/a	n/a	n/a	113
-264.588	1.138	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_167.jpg	113
-266.038	0.854	tomspunt	both hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_091.jpg	114
-267.205	0.837	tomspunt	both hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_627.jpg	115
-268.356	0.804	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_027.jpg	116
-269.473	0.987	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_111.jpg	117
-270.773	0.853	tomspunt	both hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_159.jpg	118
-271.94	0.936	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_581.jpg	119
-273.191	0.819	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_349.jpg	120
+240.787	2.101	tomspunt	looking-at-camera?	block_question_presentation	n/a	n/a	n/a	n/a	105
+245.797	1.102	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_128.jpg	105
+247.215	0.601	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_618.jpg	106
+248.132	0.595	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_598.jpg	107
+249.032	0.669	tomspunt	looking-at-camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_743.jpg	108
+250.016	0.711	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_774.jpg	109
+251.033	0.743	tomspunt	looking-at-camera?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_582.jpg	110
+252.083	0.927	tomspunt	looking-at-camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_754.jpg	111
+253.317	0.759	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_129.jpg	112
+259.577	2.101	tomspunt	both-hands?	block_question_presentation	n/a	n/a	n/a	n/a	113
+264.588	1.138	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_167.jpg	113
+266.038	0.854	tomspunt	both-hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_091.jpg	114
+267.205	0.837	tomspunt	both-hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_627.jpg	115
+268.356	0.804	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_027.jpg	116
+269.473	0.987	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_111.jpg	117
+270.773	0.853	tomspunt	both-hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_159.jpg	118
+271.94	0.936	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_581.jpg	119
+273.191	0.819	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_349.jpg	120
 278.367	2.101	tomspunt	self-protection?	block_question_presentation	n/a	n/a	n/a	n/a	121
 283.378	0.835	tomspunt	self-protection?	why_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_443.jpg	121
 284.529	1.048	tomspunt	self-protection?	why_hand	no	no	correct	task-fractional/runtype-tomspunt/H_006.jpg	122
@@ -179,15 +179,15 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 368.543	0.918	tomspunt	reaching?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_007.jpg	158
 369.777	0.952	tomspunt	reaching?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_474.jpg	159
 371.044	1.202	tomspunt	reaching?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_132.jpg	160
-374.837	2.101	tomspunt	open mouth?	block_question_presentation	n/a	n/a	n/a	n/a	161
-379.847	0.879	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_403.jpg	161
-381.031	0.845	tomspunt	open mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_648.jpg	162
-382.182	0.685	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_776.jpg	163
-383.182	1.044	tomspunt	open mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_584.jpg	164
-384.532	0.702	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_844.jpg	165
-385.55	0.868	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_692.jpg	166
-386.733	0.81	tomspunt	open mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_086.jpg	167
-387.85	0.876	tomspunt	open mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_544.jpg	168
+374.837	2.101	tomspunt	open-mouth?	block_question_presentation	n/a	n/a	n/a	n/a	161
+379.847	0.879	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_403.jpg	161
+381.031	0.845	tomspunt	open-mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_648.jpg	162
+382.182	0.685	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_776.jpg	163
+383.182	1.044	tomspunt	open-mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_584.jpg	164
+384.532	0.702	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_844.jpg	165
+385.55	0.868	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_692.jpg	166
+386.733	0.81	tomspunt	open-mouth?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_086.jpg	167
+387.85	0.876	tomspunt	open-mouth?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_544.jpg	168
 393.527	2.084	tomspunt	argument?	block_question_presentation	n/a	n/a	n/a	n/a	169
 398.521	1.102	tomspunt	argument?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_403.jpg	169
 399.938	0.022	tomspunt	argument?	why_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_844.jpg	170
@@ -206,15 +206,15 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 423.547	0.912	tomspunt	helping?	why_hand	no	no	correct	task-fractional/runtype-tomspunt/H_159.jpg	182
 424.764	0.835	tomspunt	helping?	why_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_111.jpg	183
 425.915	0.885	tomspunt	helping?	why_hand	no	no	correct	task-fractional/runtype-tomspunt/H_012.jpg	184
-429.807	2.101	tomspunt	both hands?	block_question_presentation	n/a	n/a	n/a	n/a	185
-434.818	0.792	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_111.jpg	185
-435.918	0.641	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_027.jpg	186
-436.869	0.691	tomspunt	both hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_091.jpg	187
-437.869	0.741	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_167.jpg	188
-438.919	0.773	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_581.jpg	189
-440.003	0.768	tomspunt	both hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_159.jpg	190
-441.087	0.706	tomspunt	both hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_349.jpg	191
-442.104	0.756	tomspunt	both hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_627.jpg	192
+429.807	2.101	tomspunt	both-hands?	block_question_presentation	n/a	n/a	n/a	n/a	185
+434.818	0.792	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_111.jpg	185
+435.918	0.641	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_027.jpg	186
+436.869	0.691	tomspunt	both-hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_091.jpg	187
+437.869	0.741	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_167.jpg	188
+438.919	0.773	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_581.jpg	189
+440.003	0.768	tomspunt	both-hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_159.jpg	190
+441.087	0.706	tomspunt	both-hands?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_349.jpg	191
+442.104	0.756	tomspunt	both-hands?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_627.jpg	192
 447.33	2.101	tomspunt	healthy?	block_question_presentation	n/a	n/a	n/a	n/a	193
 452.341	0.819	tomspunt	healthy?	why_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_438.jpg	193
 453.475	0.802	tomspunt	healthy?	why_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_364.jpg	194
@@ -224,24 +224,24 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 458.277	0.951	tomspunt	healthy?	why_hand	no	no	correct	task-fractional/runtype-tomspunt/H_007.jpg	198
 459.544	0.933	tomspunt	healthy?	why_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_627.jpg	199
 460.778	0.852	tomspunt	healthy?	why_hand	no	no	correct	task-fractional/runtype-tomspunt/H_130.jpg	200
-466.387	2.084	tomspunt	pressing button?	block_question_presentation	n/a	n/a	n/a	n/a	201
-471.398	0.852	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_126.jpg	201
-472.565	0.695	tomspunt	pressing button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_130.jpg	202
-473.566	0.685	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_483.jpg	203
-474.566	0.661	tomspunt	pressing button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_024.jpg	204
-475.533	0.643	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_332.jpg	205
-476.483	0.676	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_019.jpg	206
-477.467	0.736	tomspunt	pressing button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_261.jpg	207
-478.518	0.635	tomspunt	pressing button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_502.jpg	208
-483.911	2.101	tomspunt	looking at camera?	block_question_presentation	n/a	n/a	n/a	n/a	209
-488.921	0.721	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_618.jpg	209
-489.955	1.038	tomspunt	looking at camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_754.jpg	210
-491.306	0.671	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_129.jpg	211
-492.289	0.704	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_598.jpg	212
-493.306	0.837	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_128.jpg	213
-494.457	0.719	tomspunt	looking at camera?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_582.jpg	214
-495.491	0.82	tomspunt	looking at camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_774.jpg	215
-496.624	0.802	tomspunt	looking at camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_743.jpg	216
+466.387	2.084	tomspunt	pressing-button?	block_question_presentation	n/a	n/a	n/a	n/a	201
+471.398	0.852	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_126.jpg	201
+472.565	0.695	tomspunt	pressing-button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_130.jpg	202
+473.566	0.685	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_483.jpg	203
+474.566	0.661	tomspunt	pressing-button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_024.jpg	204
+475.533	0.643	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_332.jpg	205
+476.483	0.676	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_019.jpg	206
+477.467	0.736	tomspunt	pressing-button?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_261.jpg	207
+478.518	0.635	tomspunt	pressing-button?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_502.jpg	208
+483.911	2.101	tomspunt	looking-at-camera?	block_question_presentation	n/a	n/a	n/a	n/a	209
+488.921	0.721	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_618.jpg	209
+489.955	1.038	tomspunt	looking-at-camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_754.jpg	210
+491.306	0.671	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_129.jpg	211
+492.289	0.704	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_598.jpg	212
+493.306	0.837	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_128.jpg	213
+494.457	0.719	tomspunt	looking-at-camera?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_582.jpg	214
+495.491	0.82	tomspunt	looking-at-camera?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_774.jpg	215
+496.624	0.802	tomspunt	looking-at-camera?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_743.jpg	216
 502.868	2.101	tomspunt	self-doubt?	block_question_presentation	n/a	n/a	n/a	n/a	217
 507.878	1.285	tomspunt	self-doubt?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_798.jpg	217
 509.479	1.135	tomspunt	self-doubt?	why_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_086.jpg	218
@@ -269,15 +269,15 @@ onset	duration	subtask_type	question	event_type	participant_response	normative_r
 549.294	0.818	tomspunt	lifting?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_189.jpg	238
 550.428	0.718	tomspunt	lifting?	how_hand	yes	yes	correct	task-fractional/runtype-tomspunt/H_170.jpg	239
 551.461	0.785	tomspunt	lifting?	how_hand	no	no	correct	task-fractional/runtype-tomspunt/H_077.jpg	240
-556.488	2.101	tomspunt	looking to side?	block_question_presentation	n/a	n/a	n/a	n/a	241
-561.498	0.601	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_716.jpg	241
-562.415	0.927	tomspunt	looking to side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_798.jpg	242
-563.649	0.801	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_760.jpg	243
-564.766	1.094	tomspunt	looking to side?	how_face	no	yes	incorrect	task-fractional/runtype-tomspunt/F_110.jpg	244
-566.167	0.943	tomspunt	looking to side?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_779.jpg	245
-567.417	1.475	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_590.jpg	246
-569.201	0.858	tomspunt	looking to side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_111.jpg	247
-570.368	0.808	tomspunt	looking to side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_433.jpg	248
+556.488	2.101	tomspunt	looking-to-side?	block_question_presentation	n/a	n/a	n/a	n/a	241
+561.498	0.601	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_716.jpg	241
+562.415	0.927	tomspunt	looking-to-side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_798.jpg	242
+563.649	0.801	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_760.jpg	243
+564.766	1.094	tomspunt	looking-to-side?	how_face	no	yes	incorrect	task-fractional/runtype-tomspunt/F_110.jpg	244
+566.167	0.943	tomspunt	looking-to-side?	how_face	yes	no	incorrect	task-fractional/runtype-tomspunt/F_779.jpg	245
+567.417	1.475	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_590.jpg	246
+569.201	0.858	tomspunt	looking-to-side?	how_face	no	no	correct	task-fractional/runtype-tomspunt/F_111.jpg	247
+570.368	0.808	tomspunt	looking-to-side?	how_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_433.jpg	248
 578.963	2.101	tomspunt	proud?	block_question_presentation	n/a	n/a	n/a	n/a	249
 583.974	0.836	tomspunt	proud?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_083.jpg	249
 585.124	0.019	tomspunt	proud?	why_face	yes	yes	correct	task-fractional/runtype-tomspunt/F_582.jpg	250

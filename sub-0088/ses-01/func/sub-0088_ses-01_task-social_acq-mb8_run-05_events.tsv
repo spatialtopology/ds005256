@@ -1,6 +1,6 @@
 onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_value	rating_glmslabel	rating_value_fillna	rating_glmslabel_fillna	rating_mouseonset	rating_mousedur	stim_file	pain_onset_ttl1	pain_onset_ttl2	pain_onset_ttl3	pain_onset_ttl4	pain_stimulus_delivery_success	cognitive_correct_response	cognitive_participant_response	cognitive_response_accuracy
 5.69	0.98	cognitive	cue	1	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l044.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-9.01	1.57	cognitive	expectrating	1	low_cue	n/a	70.91	Very Strong	70.91	Very Strong	0.5	1.07	task-social/cue/runtype-cognitive/scl/l044.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+9.01	1.57	cognitive	expectrating	1	low_cue	n/a	70.91	Very-Strong	70.91	Very-Strong	0.5	1.07	task-social/cue/runtype-cognitive/scl/l044.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 19.4	5.0	cognitive	stimulus	1	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/22_100.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
 28.1	1.55	cognitive	outcomerating	1	low_cue	med_stim	57.85	Strong	57.85	Strong	0.5	1.07	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 34.99	0.99	cognitive	cue	2	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h034.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -22,7 +22,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 163.39	0.99	cognitive	cue	6	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l013.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 165.69	1.98	cognitive	expectrating	6	low_cue	n/a	47.28	Strong	47.28	Strong	0.88	1.1	task-social/cue/runtype-cognitive/scl/l013.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 180.79	5.0	cognitive	stimulus	6	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/43_150_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	same	False
-188.6	1.62	cognitive	outcomerating	6	low_cue	high_stim	73.32	Very Strong	73.32	Very Strong	0.88	1.1	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+188.6	1.62	cognitive	outcomerating	6	low_cue	high_stim	73.32	Very-Strong	73.32	Very-Strong	0.88	1.1	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 193.38	1.0	cognitive	cue	7	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h022.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 195.0	1.85	cognitive	expectrating	7	high_cue	n/a	58.09	Strong	58.09	Strong	0.77	1.08	task-social/cue/runtype-cognitive/sch/h022.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 203.18	5.0	cognitive	stimulus	7	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/10_150.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
@@ -30,7 +30,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 234.4	0.98	cognitive	cue	8	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l030.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 236.0	2.02	cognitive	expectrating	8	low_cue	n/a	33.42	Strong	33.42	Strong	0.67	1.35	task-social/cue/runtype-cognitive/scl/l030.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 243.9	5.0	cognitive	stimulus	8	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/17_50.jpg	n/a	n/a	n/a	n/a	n/a	same	diff	False
-252.89	1.6	cognitive	outcomerating	8	low_cue	low_stim	75.56	Very Strong	75.56	Very Strong	0.67	1.35	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+252.89	1.6	cognitive	outcomerating	8	low_cue	low_stim	75.56	Very-Strong	75.56	Very-Strong	0.67	1.35	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 259.09	0.99	cognitive	cue	9	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l046.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 260.99	2.44	cognitive	expectrating	9	low_cue	n/a	55.93	Strong	55.93	Strong	0.52	1.93	task-social/cue/runtype-cognitive/scl/l046.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 276.1	5.0	cognitive	stimulus	9	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/34_50.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True

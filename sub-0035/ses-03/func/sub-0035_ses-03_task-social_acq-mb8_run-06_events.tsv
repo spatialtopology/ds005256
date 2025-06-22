@@ -28,7 +28,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 225.0	5.0	cognitive	stimulus	7	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/44_50_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 238.1	1.81	cognitive	outcomerating	7	low_cue	low_stim	19.24	Moderate	19.24	Moderate	0.05	1.1	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 244.29	0.99	cognitive	cue	8	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h032.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-247.31	2.82	cognitive	expectrating	8	high_cue	n/a	80.09	Very Strong	80.09	Very Strong	1.45	1.37	task-social/cue/runtype-cognitive/sch/h032.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+247.31	2.82	cognitive	expectrating	8	high_cue	n/a	80.09	Very-Strong	80.09	Very-Strong	1.45	1.37	task-social/cue/runtype-cognitive/sch/h032.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 253.99	5.0	cognitive	stimulus	8	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/47_150_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 263.0	2.35	cognitive	outcomerating	8	high_cue	high_stim	20.72	Moderate	20.72	Moderate	1.45	1.37	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 270.4	0.98	cognitive	cue	9	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h011.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -38,7 +38,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 304.1	0.99	cognitive	cue	10	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l050.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 306.3	3.38	cognitive	expectrating	10	low_cue	n/a	50.56	Strong	50.56	Strong	0.05	3.33	task-social/cue/runtype-cognitive/scl/l050.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 313.6	5.0	cognitive	stimulus	10	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/44_100_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
-329.8	1.27	cognitive	outcomerating	10	low_cue	med_stim	0.94	No sensation	0.94	No sensation	0.05	3.33	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+329.8	1.27	cognitive	outcomerating	10	low_cue	med_stim	0.94	No-sensation	0.94	No-sensation	0.05	3.33	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 338.09	0.99	cognitive	cue	11	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l021.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 340.29	0.97	cognitive	expectrating	11	low_cue	n/a	12.03	Moderate	12.03	Moderate	0.05	0.92	task-social/cue/runtype-cognitive/scl/l021.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 352.2	5.0	cognitive	stimulus	11	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/29_50_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	same	False

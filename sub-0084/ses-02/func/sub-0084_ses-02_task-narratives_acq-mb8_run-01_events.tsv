@@ -1,9 +1,9 @@
 onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_file
-7.839	15.346	narrative_presentation	n/a	n/a	Necessity of sacrificing loved ones	town	Audio	task-narratives/Narrative8Situation1.mp3
-23.185	3.983	rating_feeling	834	652	Necessity of sacrificing loved ones	town	Audio	n/a
-25.768	1.4	feeling_mouse_trajectory	834	652	Necessity of sacrificing loved ones	town	Audio	n/a
-27.242	3.967	rating_expectation	835	598	Necessity of sacrificing loved ones	town	Audio	n/a
-27.276	3.933	expectation_mouse_trajectory	835	598	Necessity of sacrificing loved ones	town	Audio	n/a
+7.839	15.346	narrative_presentation	n/a	n/a	Necessity-of-sacrificing-loved-ones	town	Audio	task-narratives/Narrative8Situation1.mp3
+23.185	3.983	rating_feeling	834	652	Necessity-of-sacrificing-loved-ones	town	Audio	n/a
+25.768	1.4	feeling_mouse_trajectory	834	652	Necessity-of-sacrificing-loved-ones	town	Audio	n/a
+27.242	3.967	rating_expectation	835	598	Necessity-of-sacrificing-loved-ones	town	Audio	n/a
+27.276	3.933	expectation_mouse_trajectory	835	598	Necessity-of-sacrificing-loved-ones	town	Audio	n/a
 34.431	8.786	narrative_presentation	n/a	n/a	Abduction	town	Audio	task-narratives/Narrative8Situation2.mp3
 43.216	3.917	rating_feeling	871	589	Abduction	town	Audio	n/a
 44.883	2.25	feeling_mouse_trajectory	871	589	Abduction	town	Audio	n/a
@@ -24,26 +24,26 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 119.373	1.683	feeling_mouse_trajectory	789	527	Supplication	city	Audio	n/a
 121.946	2.917	rating_expectation	810	519	Supplication	city	Audio	n/a
 123.313	1.55	expectation_mouse_trajectory	810	519	Supplication	city	Audio	n/a
-128.049	5.984	narrative_presentation	n/a	n/a	Rivalry of kin	city	Audio	task-narratives/Narrative8Situation6.mp3
-134.033	2.017	rating_feeling	831	589	Rivalry of kin	city	Audio	n/a
-134.783	1.267	feeling_mouse_trajectory	831	589	Rivalry of kin	city	Audio	n/a
-138.073	1.067	rating_expectation	831	579	Rivalry of kin	city	Audio	n/a
-138.623	0.517	expectation_mouse_trajectory	831	579	Rivalry of kin	city	Audio	n/a
-145.155	10.777	narrative_presentation	n/a	n/a	Recovery of a lost one	beach	Audio	task-narratives/Narrative8Situation7.mp3
-155.932	2.433	rating_feeling	864	585	Recovery of a lost one	beach	Audio	n/a
-156.115	2.25	feeling_mouse_trajectory	864	585	Recovery of a lost one	beach	Audio	n/a
-159.958	1.85	rating_expectation	846	615	Recovery of a lost one	beach	Audio	n/a
-161.074	0.733	expectation_mouse_trajectory	846	615	Recovery of a lost one	beach	Audio	n/a
-167.012	11.277	narrative_presentation	n/a	n/a	Rivalry of superior versus inferior	beach	Audio	task-narratives/Narrative8Situation8.mp3
-178.289	1.583	rating_feeling	856	595	Rivalry of superior versus inferior	beach	Audio	n/a
-179.039	0.833	feeling_mouse_trajectory	856	595	Rivalry of superior versus inferior	beach	Audio	n/a
-182.323	1.783	rating_expectation	824	605	Rivalry of superior versus inferior	beach	Audio	n/a
-182.656	1.45	expectation_mouse_trajectory	824	605	Rivalry of superior versus inferior	beach	Audio	n/a
-189.405	10.11	narrative_presentation	n/a	n/a	Slaying of kin unrecognized	beach	Audio	task-narratives/Narrative8Situation9.mp3
-199.515	1.317	rating_feeling	874	591	Slaying of kin unrecognized	beach	Audio	n/a
-199.582	1.25	feeling_mouse_trajectory	874	591	Slaying of kin unrecognized	beach	Audio	n/a
-203.541	1.583	rating_expectation	966	655	Slaying of kin unrecognized	beach	Audio	n/a
-204.908	0.217	expectation_mouse_trajectory	966	655	Slaying of kin unrecognized	beach	Audio	n/a
+128.049	5.984	narrative_presentation	n/a	n/a	Rivalry-of-kin	city	Audio	task-narratives/Narrative8Situation6.mp3
+134.033	2.017	rating_feeling	831	589	Rivalry-of-kin	city	Audio	n/a
+134.783	1.267	feeling_mouse_trajectory	831	589	Rivalry-of-kin	city	Audio	n/a
+138.073	1.067	rating_expectation	831	579	Rivalry-of-kin	city	Audio	n/a
+138.623	0.517	expectation_mouse_trajectory	831	579	Rivalry-of-kin	city	Audio	n/a
+145.155	10.777	narrative_presentation	n/a	n/a	Recovery-of-a-lost-one	beach	Audio	task-narratives/Narrative8Situation7.mp3
+155.932	2.433	rating_feeling	864	585	Recovery-of-a-lost-one	beach	Audio	n/a
+156.115	2.25	feeling_mouse_trajectory	864	585	Recovery-of-a-lost-one	beach	Audio	n/a
+159.958	1.85	rating_expectation	846	615	Recovery-of-a-lost-one	beach	Audio	n/a
+161.074	0.733	expectation_mouse_trajectory	846	615	Recovery-of-a-lost-one	beach	Audio	n/a
+167.012	11.277	narrative_presentation	n/a	n/a	Rivalry-of-superior-versus-inferior	beach	Audio	task-narratives/Narrative8Situation8.mp3
+178.289	1.583	rating_feeling	856	595	Rivalry-of-superior-versus-inferior	beach	Audio	n/a
+179.039	0.833	feeling_mouse_trajectory	856	595	Rivalry-of-superior-versus-inferior	beach	Audio	n/a
+182.323	1.783	rating_expectation	824	605	Rivalry-of-superior-versus-inferior	beach	Audio	n/a
+182.656	1.45	expectation_mouse_trajectory	824	605	Rivalry-of-superior-versus-inferior	beach	Audio	n/a
+189.405	10.11	narrative_presentation	n/a	n/a	Slaying-of-kin-unrecognized	beach	Audio	task-narratives/Narrative8Situation9.mp3
+199.515	1.317	rating_feeling	874	591	Slaying-of-kin-unrecognized	beach	Audio	n/a
+199.582	1.25	feeling_mouse_trajectory	874	591	Slaying-of-kin-unrecognized	beach	Audio	n/a
+203.541	1.583	rating_expectation	966	655	Slaying-of-kin-unrecognized	beach	Audio	n/a
+204.908	0.217	expectation_mouse_trajectory	966	655	Slaying-of-kin-unrecognized	beach	Audio	n/a
 209.612	54.278	narrative_presentation	n/a	n/a	Deliverance	prison	Audio	task-narratives/Narrative7Situation1.mp3
 263.89	3.833	rating_feeling	849	607	Deliverance	prison	Audio	n/a
 266.223	1.5	feeling_mouse_trajectory	849	607	Deliverance	prison	Audio	n/a
@@ -59,31 +59,31 @@ onset	duration	trial_type	response_x	response_y	situation	context	modality	stim_
 305.704	0.3	feeling_mouse_trajectory	859	610	Pursuit	prison	Audio	n/a
 308.513	1.217	rating_expectation	859	594	Pursuit	prison	Audio	n/a
 309.047	0.683	expectation_mouse_trajectory	859	594	Pursuit	prison	Audio	n/a
-315.584	11.482	narrative_presentation	n/a	n/a	Conflict with a god	park	Audio	task-narratives/Narrative7Situation4.mp3
-327.066	3.033	rating_feeling	889	565	Conflict with a god	park	Audio	n/a
-327.65	2.45	feeling_mouse_trajectory	889	565	Conflict with a god	park	Audio	n/a
-331.09	3.683	rating_expectation	956	583	Conflict with a god	park	Audio	n/a
-331.423	3.35	expectation_mouse_trajectory	956	583	Conflict with a god	park	Audio	n/a
-340.144	7.976	narrative_presentation	n/a	n/a	Recovery of a lost one	park	Audio	task-narratives/Narrative7Situation5.mp3
-348.121	2.617	rating_feeling	905	567	Recovery of a lost one	park	Audio	n/a
-348.637	2.1	feeling_mouse_trajectory	905	567	Recovery of a lost one	park	Audio	n/a
-352.146	2.65	rating_expectation	952	615	Recovery of a lost one	park	Audio	n/a
-353.113	1.683	expectation_mouse_trajectory	952	615	Recovery of a lost one	park	Audio	n/a
+315.584	11.482	narrative_presentation	n/a	n/a	Conflict-with-a-god	park	Audio	task-narratives/Narrative7Situation4.mp3
+327.066	3.033	rating_feeling	889	565	Conflict-with-a-god	park	Audio	n/a
+327.65	2.45	feeling_mouse_trajectory	889	565	Conflict-with-a-god	park	Audio	n/a
+331.09	3.683	rating_expectation	956	583	Conflict-with-a-god	park	Audio	n/a
+331.423	3.35	expectation_mouse_trajectory	956	583	Conflict-with-a-god	park	Audio	n/a
+340.144	7.976	narrative_presentation	n/a	n/a	Recovery-of-a-lost-one	park	Audio	task-narratives/Narrative7Situation5.mp3
+348.121	2.617	rating_feeling	905	567	Recovery-of-a-lost-one	park	Audio	n/a
+348.637	2.1	feeling_mouse_trajectory	905	567	Recovery-of-a-lost-one	park	Audio	n/a
+352.146	2.65	rating_expectation	952	615	Recovery-of-a-lost-one	park	Audio	n/a
+353.113	1.683	expectation_mouse_trajectory	952	615	Recovery-of-a-lost-one	park	Audio	n/a
 359.201	8.782	narrative_presentation	n/a	n/a	Supplication	park	Audio	task-narratives/Narrative7Situation6.mp3
 367.983	3.3	rating_feeling	1007	571	Supplication	park	Audio	n/a
 368.767	2.517	feeling_mouse_trajectory	1007	571	Supplication	park	Audio	n/a
 372.006	1.067	rating_expectation	1022	580	Supplication	park	Audio	n/a
 372.856	0.217	expectation_mouse_trajectory	1022	580	Supplication	park	Audio	n/a
-381.06	16.653	narrative_presentation	n/a	n/a	Involuntary crimes of love	hospital	Audio	task-narratives/Narrative7Situation7.mp3
-397.713	3.433	rating_feeling	986	543	Involuntary crimes of love	hospital	Audio	n/a
-398.546	2.6	feeling_mouse_trajectory	986	543	Involuntary crimes of love	hospital	Audio	n/a
-401.732	0.967	rating_expectation	972	582	Involuntary crimes of love	hospital	Audio	n/a
-401.798	0.9	expectation_mouse_trajectory	972	582	Involuntary crimes of love	hospital	Audio	n/a
-407.803	8.78	narrative_presentation	n/a	n/a	An enemy loved	hospital	Audio	task-narratives/Narrative7Situation8.mp3
-416.582	3.983	rating_feeling	913	567	An enemy loved	hospital	Audio	n/a
-417.866	2.7	feeling_mouse_trajectory	913	567	An enemy loved	hospital	Audio	n/a
-420.606	1.067	rating_expectation	793	600	An enemy loved	hospital	Audio	n/a
-421.489	0.183	expectation_mouse_trajectory	793	600	An enemy loved	hospital	Audio	n/a
+381.06	16.653	narrative_presentation	n/a	n/a	Involuntary-crimes-of-love	hospital	Audio	task-narratives/Narrative7Situation7.mp3
+397.713	3.433	rating_feeling	986	543	Involuntary-crimes-of-love	hospital	Audio	n/a
+398.546	2.6	feeling_mouse_trajectory	986	543	Involuntary-crimes-of-love	hospital	Audio	n/a
+401.732	0.967	rating_expectation	972	582	Involuntary-crimes-of-love	hospital	Audio	n/a
+401.798	0.9	expectation_mouse_trajectory	972	582	Involuntary-crimes-of-love	hospital	Audio	n/a
+407.803	8.78	narrative_presentation	n/a	n/a	An-enemy-loved	hospital	Audio	task-narratives/Narrative7Situation8.mp3
+416.582	3.983	rating_feeling	913	567	An-enemy-loved	hospital	Audio	n/a
+417.866	2.7	feeling_mouse_trajectory	913	567	An-enemy-loved	hospital	Audio	n/a
+420.606	1.067	rating_expectation	793	600	An-enemy-loved	hospital	Audio	n/a
+421.489	0.183	expectation_mouse_trajectory	793	600	An-enemy-loved	hospital	Audio	n/a
 426.659	7.979	narrative_presentation	n/a	n/a	Ambition	hospital	Audio	task-narratives/Narrative7Situation9.mp3
 434.639	3.85	rating_feeling	975	455	Ambition	hospital	Audio	n/a
 436.389	2.1	feeling_mouse_trajectory	975	455	Ambition	hospital	Audio	n/a

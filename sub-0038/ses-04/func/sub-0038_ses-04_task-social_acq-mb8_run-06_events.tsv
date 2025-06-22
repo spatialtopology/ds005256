@@ -1,6 +1,6 @@
 onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_value	rating_glmslabel	rating_value_fillna	rating_glmslabel_fillna	rating_mouseonset	rating_mousedur	stim_file	pain_onset_ttl1	pain_onset_ttl2	pain_onset_ttl3	pain_onset_ttl4	pain_stimulus_delivery_success	cognitive_correct_response	cognitive_participant_response	cognitive_response_accuracy
 3.41	0.98	cognitive	cue	1	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l019.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-6.11	1.43	cognitive	expectrating	1	low_cue	n/a	1.4	Barely detectable	1.4	Barely detectable	0.05	1.38	task-social/cue/runtype-cognitive/scl/l019.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+6.11	1.43	cognitive	expectrating	1	low_cue	n/a	1.4	Barely-detectable	1.4	Barely-detectable	0.05	1.38	task-social/cue/runtype-cognitive/scl/l019.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 18.51	5.0	cognitive	stimulus	1	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/47_150.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
 32.6	3.42	cognitive	outcomerating	1	low_cue	high_stim	25.02	Moderate	25.02	Moderate	0.05	1.38	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 41.6	0.98	cognitive	cue	2	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h046.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -12,7 +12,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 88.0	5.0	cognitive	stimulus	3	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/10_50.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
 97.81	3.25	cognitive	outcomerating	3	low_cue	low_stim	3.91	Weak	3.91	Weak	0.8	1.33	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 105.89	0.99	cognitive	cue	4	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l030.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-107.4	1.45	cognitive	expectrating	4	low_cue	n/a	0.46	No sensation	0.46	No sensation	0.42	1.04	task-social/cue/runtype-cognitive/scl/l030.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+107.4	1.45	cognitive	expectrating	4	low_cue	n/a	0.46	No-sensation	0.46	No-sensation	0.42	1.04	task-social/cue/runtype-cognitive/scl/l030.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 114.2	5.0	cognitive	stimulus	4	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/5_50_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 128.0	3.27	cognitive	outcomerating	4	low_cue	low_stim	4.84	Weak	4.84	Weak	0.42	1.04	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 137.09	1.0	cognitive	cue	5	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h055.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -28,7 +28,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 209.4	5.0	cognitive	stimulus	7	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/43_50_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 222.31	3.9	cognitive	outcomerating	7	high_cue	low_stim	38.77	Strong	38.77	Strong	0.42	1.11	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 234.79	0.99	cognitive	cue	8	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l013.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-237.31	1.67	cognitive	expectrating	8	low_cue	n/a	0.48	No sensation	0.48	No sensation	0.45	1.22	task-social/cue/runtype-cognitive/scl/l013.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+237.31	1.67	cognitive	expectrating	8	low_cue	n/a	0.48	No-sensation	0.48	No-sensation	0.45	1.22	task-social/cue/runtype-cognitive/scl/l013.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 251.3	5.0	cognitive	stimulus	8	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/35_150_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 262.7	3.67	cognitive	outcomerating	8	low_cue	high_stim	11.36	Moderate	11.36	Moderate	0.45	1.22	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 271.81	0.98	cognitive	cue	9	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l029.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a

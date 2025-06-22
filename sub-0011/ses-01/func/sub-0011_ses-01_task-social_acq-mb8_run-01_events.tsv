@@ -4,7 +4,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 14.91	5.0	cognitive	stimulus	1	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/29_150.jpg	n/a	n/a	n/a	n/a	n/a	same	diff	False
 23.92	2.04	cognitive	outcomerating	1	high_cue	high_stim	39.95	Strong	39.95	Strong	2.28	3.97	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 32.3	0.99	cognitive	cue	2	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l009.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-35.32	2.27	cognitive	expectrating	2	low_cue	n/a	1.64	Barely detectable	1.64	Barely detectable	0.58	1.69	task-social/cue/runtype-cognitive/scl/l009.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+35.32	2.27	cognitive	expectrating	2	low_cue	n/a	1.64	Barely-detectable	1.64	Barely-detectable	0.58	1.69	task-social/cue/runtype-cognitive/scl/l009.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 47.21	5.0	cognitive	stimulus	2	low_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/27_150_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	same	False
 58.51	2.33	cognitive	outcomerating	2	low_cue	high_stim	12.3	Moderate	12.3	Moderate	0.58	1.69	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 63.12	0.98	cognitive	cue	3	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l050.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -14,35 +14,35 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 95.11	0.99	cognitive	cue	4	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h043.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 97.51	2.45	cognitive	expectrating	4	high_cue	n/a	60.72	Strong	60.72	Strong	0.47	1.98	task-social/cue/runtype-cognitive/sch/h043.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 104.72	5.0	cognitive	stimulus	4	high_cue	high_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/43_150_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
-115.62	1.77	cognitive	outcomerating	4	high_cue	high_stim	71.93	Very Strong	71.93	Very Strong	0.47	1.98	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+115.62	1.77	cognitive	outcomerating	4	high_cue	high_stim	71.93	Very-Strong	71.93	Very-Strong	0.47	1.98	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 120.22	0.98	cognitive	cue	5	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l005.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 123.22	1.97	cognitive	expectrating	5	low_cue	n/a	17.12	Moderate	17.12	Moderate	0.23	1.74	task-social/cue/runtype-cognitive/scl/l005.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 140.41	5.0	cognitive	stimulus	5	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/27_50_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	n/a	False
 149.02	2.52	cognitive	outcomerating	5	low_cue	low_stim	50.37	Strong	50.37	Strong	0.23	1.74	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 159.9	0.99	cognitive	cue	6	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-162.92	1.76	cognitive	expectrating	6	high_cue	n/a	94.02	Very Strong	94.02	Very Strong	0.62	1.14	task-social/cue/runtype-cognitive/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+162.92	1.76	cognitive	expectrating	6	high_cue	n/a	94.02	Very-Strong	94.02	Very-Strong	0.62	1.14	task-social/cue/runtype-cognitive/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 189.01	5.0	cognitive	stimulus	6	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/17_50.jpg	n/a	n/a	n/a	n/a	n/a	same	diff	False
-208.4	2.52	cognitive	outcomerating	6	high_cue	low_stim	69.64	Very Strong	69.64	Very Strong	0.62	1.14	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+208.4	2.52	cognitive	outcomerating	6	high_cue	low_stim	69.64	Very-Strong	69.64	Very-Strong	0.62	1.14	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 219.31	0.99	cognitive	cue	7	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l025.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 221.51	1.49	cognitive	expectrating	7	low_cue	n/a	24.39	Moderate	24.39	Moderate	0.45	1.04	task-social/cue/runtype-cognitive/scl/l025.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 230.51	5.0	cognitive	stimulus	7	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/6_100_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 241.42	1.92	cognitive	outcomerating	7	low_cue	med_stim	24.2	Moderate	24.2	Moderate	0.45	1.04	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 252.5	0.99	cognitive	cue	8	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h028.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-255.11	3.02	cognitive	expectrating	8	high_cue	n/a	104.53	Strongest sensation of any kind	104.53	Strongest sensation of any kind	0.42	2.61	task-social/cue/runtype-cognitive/sch/h028.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+255.11	3.02	cognitive	expectrating	8	high_cue	n/a	104.53	Strongest-sensation-of-any-kind	104.53	Strongest-sensation-of-any-kind	0.42	2.61	task-social/cue/runtype-cognitive/sch/h028.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 262.11	5.0	cognitive	stimulus	8	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/4_100_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
-274.01	2.13	cognitive	outcomerating	8	high_cue	med_stim	92.3	Very Strong	92.3	Very Strong	0.42	2.61	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+274.01	2.13	cognitive	outcomerating	8	high_cue	med_stim	92.3	Very-Strong	92.3	Very-Strong	0.42	2.61	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 283.92	0.98	cognitive	cue	9	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h042.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-285.82	2.7	cognitive	expectrating	9	high_cue	n/a	121.33	Strongest sensation of any kind	121.33	Strongest sensation of any kind	0.7	2.0	task-social/cue/runtype-cognitive/sch/h042.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+285.82	2.7	cognitive	expectrating	9	high_cue	n/a	121.33	Strongest-sensation-of-any-kind	121.33	Strongest-sensation-of-any-kind	0.7	2.0	task-social/cue/runtype-cognitive/sch/h042.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 293.42	5.0	cognitive	stimulus	9	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/31_100.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
-302.81	1.94	cognitive	outcomerating	9	high_cue	med_stim	100.22	Strongest sensation of any kind	100.22	Strongest sensation of any kind	0.7	2.0	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+302.81	1.94	cognitive	outcomerating	9	high_cue	med_stim	100.22	Strongest-sensation-of-any-kind	100.22	Strongest-sensation-of-any-kind	0.7	2.0	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 311.91	0.99	cognitive	cue	10	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l051.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 314.91	1.67	cognitive	expectrating	10	low_cue	n/a	28.11	Moderate	28.11	Moderate	0.38	1.28	task-social/cue/runtype-cognitive/scl/l051.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 322.51	5.0	cognitive	stimulus	10	low_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/27_100_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	same	False
 335.02	2.03	cognitive	outcomerating	10	low_cue	med_stim	26.88	Moderate	26.88	Moderate	0.38	1.28	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 341.3	0.99	cognitive	cue	11	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h036.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-343.21	2.06	cognitive	expectrating	11	high_cue	n/a	110.69	Strongest sensation of any kind	110.69	Strongest sensation of any kind	0.45	1.61	task-social/cue/runtype-cognitive/sch/h036.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+343.21	2.06	cognitive	expectrating	11	high_cue	n/a	110.69	Strongest-sensation-of-any-kind	110.69	Strongest-sensation-of-any-kind	0.45	1.61	task-social/cue/runtype-cognitive/sch/h036.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 355.51	5.0	cognitive	stimulus	11	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/27_50.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
-365.31	1.95	cognitive	outcomerating	11	high_cue	low_stim	92.76	Very Strong	92.76	Very Strong	0.45	1.61	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+365.31	1.95	cognitive	outcomerating	11	high_cue	low_stim	92.76	Very-Strong	92.76	Very-Strong	0.45	1.61	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 371.62	0.98	cognitive	cue	12	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l031.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 373.52	1.75	cognitive	expectrating	12	low_cue	n/a	34.33	Strong	34.33	Strong	0.38	1.37	task-social/cue/runtype-cognitive/scl/l031.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 380.32	5.0	cognitive	stimulus	12	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/8_50.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True

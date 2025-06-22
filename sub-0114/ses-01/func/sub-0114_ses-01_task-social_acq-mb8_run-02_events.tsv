@@ -20,7 +20,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 140.4	5.0	cognitive	stimulus	5	low_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/27_50_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 149.0	n/a	cognitive	outcomerating	5	low_cue	low_stim	n/a	n/a	8.1	Weak	0.63	1.44	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 159.89	0.99	cognitive	cue	6	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-162.89	2.72	cognitive	expectrating	6	high_cue	n/a	72.0	Very Strong	72.0	Very Strong	0.55	2.17	task-social/cue/runtype-cognitive/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+162.89	2.72	cognitive	expectrating	6	high_cue	n/a	72.0	Very-Strong	72.0	Very-Strong	0.55	2.17	task-social/cue/runtype-cognitive/sch/h037.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 188.98	5.0	cognitive	stimulus	6	high_cue	low_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/17_50.jpg	n/a	n/a	n/a	n/a	n/a	same	diff	False
 208.39	n/a	cognitive	outcomerating	6	high_cue	low_stim	n/a	n/a	42.57	Strong	0.55	2.17	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 219.29	0.98	cognitive	cue	7	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l025.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
@@ -32,7 +32,7 @@ onset	duration	run_type	trial_type	trial_index	cue	stimulusintensity	rating_valu
 262.09	5.0	cognitive	stimulus	8	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/4_100_R.jpg	n/a	n/a	n/a	n/a	n/a	diff	diff	True
 274.0	n/a	cognitive	outcomerating	8	high_cue	med_stim	n/a	n/a	32.28	Strong	0.05	3.62	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 283.88	0.99	cognitive	cue	9	high_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/sch/h042.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
-285.8	2.7	cognitive	expectrating	9	high_cue	n/a	110.61	Strongest sensation of any kind	110.61	Strongest sensation of any kind	0.2	2.5	task-social/cue/runtype-cognitive/sch/h042.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+285.8	2.7	cognitive	expectrating	9	high_cue	n/a	110.61	Strongest-sensation-of-any-kind	110.61	Strongest-sensation-of-any-kind	0.2	2.5	task-social/cue/runtype-cognitive/sch/h042.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 293.39	5.0	cognitive	stimulus	9	high_cue	med_stim	n/a	n/a	n/a	n/a	n/a	n/a	task-social/stim/runtype-cognitive/31_100.jpg	n/a	n/a	n/a	n/a	n/a	same	same	True
 302.79	2.9	cognitive	outcomerating	9	high_cue	med_stim	44.35	Strong	44.35	Strong	0.2	2.5	task-social/outcomerating/task-cognitive_scale.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
 311.88	1.0	cognitive	cue	10	low_cue	n/a	n/a	n/a	n/a	n/a	n/a	n/a	task-social/cue/runtype-cognitive/scl/l051.png	n/a	n/a	n/a	n/a	n/a	n/a	n/a	n/a
