@@ -29,7 +29,7 @@
         "Levels": {
             "cue": "Participants passively viewed a presentation of a high or low social cue, consisting of data points that participants believed indicated other people's ratings for that stimulus presented for 1 second on screen",
             "expectrating": "Participants provided ratings of their expectations on the upcoming stimulus intensity on a gLMS scale for a total duration of 4 seconds overlaid with the cue image",
-            "stim": "Participants passively received/viewed experimentally delivered stimuli for each of the mental rotation, vicarious pain, and somatic pain tasks for 5 seconds each",
+            "stimulus": "Participants passively received/viewed experimentally delivered stimuli for each of the mental rotation, vicarious pain, and somatic pain tasks for 5 seconds each",
             "outcomerating": "Participants provided ratings on their subjective experience of cognitive effort, vicarious pain, or somatic pain for 4 seconds"
         },
         "HED": {
@@ -84,22 +84,22 @@
         "LongName": "Labels of generalized Labeled Magnitude Scale (gLMS)",
         "Description": "Labels of generalized Labeled Magnitude Scale (gLMS)",
         "Levels": {
-            "No sensation": "No sensation",
-            "Barely detectable": "Barely detectable",
+            "No-sensation": "No sensation",
+            "Barely-detectable": "Barely detectable",
             "Weak": "Weak",
             "Moderate": "Moderate",
             "Strong": "Strong",
-            "Very Strong": "Very Strong",
-            "Strongest sensation of any kind": "Strongest sensation of any kind"
+            "Very-Strong": "Very Strong",
+            "Strongest-sensation-of-any-kind": "Strongest sensation of any kind"
         },
         "HED": {
-            "No sensation": "(Data-source-type/Participant-generated, Categorical-judgment-value/No-sensation)",
-            "Barely detectable": "(Data-source-type/Participant-generated, Categorical-judgment-value/Barely-detectable)",
+            "No-sensation": "(Data-source-type/Participant-generated, Categorical-judgment-value/No-sensation)",
+            "Barely-detectable": "(Data-source-type/Participant-generated, Categorical-judgment-value/Barely-detectable)",
             "Weak": "(Data-source-type/Participant-generated, Categorical-judgment-value/Weak)",
             "Moderate": "(Data-source-type/Participant-generated, Categorical-judgment-value/Moderate)",
             "Strong": "(Data-source-type/Participant-generated, Categorical-judgment-value/Strong)",
-            "Very Strong": "(Data-source-type/Participant-generated, Categorical-judgment-value/Very-Strong)",
-            "Strongest sensation of any kind": "(Data-source-type/Participant-generated, Categorical-judgment-value/Strongest-sensation-of-any-kind)"
+            "Very-Strong": "(Data-source-type/Participant-generated, Categorical-judgment-value/Very-Strong)",
+            "Strongest-sensation-of-any-kind": "(Data-source-type/Participant-generated, Categorical-judgment-value/Strongest-sensation-of-any-kind)"
         }
     },
     "rating_value_fillna": {
@@ -111,22 +111,22 @@
         "LongName": "Labels of generalized Labeled Magnitude Scale (gLMS)",
         "Description": "Labels of generalized Labeled Magnitude Scale (gLMS)",
         "Levels": {
-            "No sensation": "No sensation",
-            "Barely detectable": "Barely detectable",
+            "No-sensation": "No sensation",
+            "Barely-detectable": "Barely detectable",
             "Weak": "Weak",
             "Moderate": "Moderate",
             "Strong": "Strong",
-            "Very Strong": "Very Strong",
-            "Strongest sensation of any kind": "Strongest sensation of any kind"
+            "Very-Strong": "Very Strong",
+            "Strongest-sensation-of-any-kind": "Strongest sensation of any kind"
         },
         "HED": {
-            "No sensation": "(Data-source-type/Computed-prediction, Categorical-judgment-value/No-sensation)",
-            "Barely detectable": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Barely-detectable)",
+            "No-sensation": "(Data-source-type/Computed-prediction, Categorical-judgment-value/No-sensation)",
+            "Barely-detectable": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Barely-detectable)",
             "Weak": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Weak)",
             "Moderate": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Moderate)",
             "Strong": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Strong)",
-            "Very Strong": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Very-Strong)",
-            "Strongest sensation of any kind": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Strongest-sensation-of-any-kind)"
+            "Very-Strong": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Very-Strong)",
+            "Strongest-sensation-of-any-kind": "(Data-source-type/Computed-prediction, Categorical-judgment-value/Strongest-sensation-of-any-kind)"
         }
     },
     "rating_mouseonset": {
